@@ -1,1368 +1,6782 @@
 [
-  {"word":"Hund","article":"der","level":"A1"},
-  {"word":"Katze","article":"die","level":"A1"},
-  {"word":"Mann","article":"der","level":"A1"},
-  {"word":"Frau","article":"die","level":"A1"},
-  {"word":"Kind","article":"das","level":"A1"},
-  {"word":"Haus","article":"das","level":"A1"},
-  {"word":"Auto","article":"das","level":"A1"},
-  {"word":"Baum","article":"der","level":"A1"},
-  {"word":"Blume","article":"die","level":"A1"},
-  {"word":"Schule","article":"die","level":"A1"},
-
-  {"word":"Tisch","article":"der","level":"A1"},
-  {"word":"Stuhl","article":"der","level":"A1"},
-  {"word":"Fenster","article":"das","level":"A1"},
-  {"word":"Tür","article":"die","level":"A1"},
-  {"word":"Buch","article":"das","level":"A1"},
-  {"word":"Heft","article":"das","level":"A1"},
-  {"word":"Stift","article":"der","level":"A1"},
-  {"word":"Lehrer","article":"der","level":"A1"},
-  {"word":"Lehrerin","article":"die","level":"A1"},
-  {"word":"Freund","article":"der","level":"A1"},
-
-  {"word":"Freundin","article":"die","level":"A1"},
-  {"word":"Vater","article":"der","level":"A1"},
-  {"word":"Mutter","article":"die","level":"A1"},
-  {"word":"Bruder","article":"der","level":"A1"},
-  {"word":"Schwester","article":"die","level":"A1"},
-  {"word":"Wasser","article":"das","level":"A1"},
-  {"word":"Brot","article":"das","level":"A1"},
-  {"word":"Milch","article":"die","level":"A1"},
-  {"word":"Apfel","article":"der","level":"A1"},
-  {"word":"Banane","article":"die","level":"A1"},
-
-  {"word":"Obst","article":"das","level":"A1"},
-  {"word":"Gemüse","article":"das","level":"A1"},
-  {"word":"Hundert","article":"das","level":"A1"},
-  {"word":"Zahl","article":"die","level":"A1"},
-  {"word":"Name","article":"der","level":"A1"},
-  {"word":"Land","article":"das","level":"A1"},
-  {"word":"Stadt","article":"die","level":"A1"},
-  {"word":"Straße","article":"die","level":"A1"},
-  {"word":"Park","article":"der","level":"A1"},
-  {"word":"Markt","article":"der","level":"A1"},
-
-  {"word":"Spiel","article":"das","level":"A1"},
-  {"word":"Sport","article":"der","level":"A1"},
-  {"word":"Fußball","article":"der","level":"A1"},
-  {"word":"Musik","article":"die","level":"A1"},
-  {"word":"Film","article":"der","level":"A1"},
-  {"word":"Radio","article":"das","level":"A1"},
-  {"word":"Telefon","article":"das","level":"A1"},
-  {"word":"Handy","article":"das","level":"A1"},
-  {"word":"Computer","article":"der","level":"A1"},
-  {"word":"Internet","article":"das","level":"A1"},
-
-  {"word":"Zeit","article":"die","level":"A1"},
-  {"word":"Tag","article":"der","level":"A1"},
-  {"word":"Nacht","article":"die","level":"A1"},
-  {"word":"Morgen","article":"der","level":"A1"},
-  {"word":"Abend","article":"der","level":"A1"},
-  {"word":"Woche","article":"die","level":"A1"},
-  {"word":"Jahr","article":"das","level":"A1"},
-  {"word":"Monat","article":"der","level":"A1"},
-  {"word":"Stunde","article":"die","level":"A1"},
-  {"word":"Minute","article":"die","level":"A1"},
-
-  {"word":"Arbeit","article":"die","level":"A1"},
-  {"word":"Job","article":"der","level":"A1"},
-  {"word":"Geld","article":"das","level":"A1"},
-  {"word":"Hausaufgabe","article":"die","level":"A1"},
-  {"word":"Frage","article":"die","level":"A1"},
-  {"word":"Antwort","article":"die","level":"A1"},
-  {"word":"Wort","article":"das","level":"A1"},
-  {"word":"Sprache","article":"die","level":"A1"},
-  {"word":"Deutsch","article":"das","level":"A1"},
-  {"word":"Englisch","article":"das","level":"A1"},
-
-  {"word":"Liebe","article":"die","level":"A1"},
-  {"word":"Glück","article":"das","level":"A1"},
-  {"word":"Problem","article":"das","level":"A1"},
-  {"word":"Wetter","article":"das","level":"A1"},
-  {"word":"Sonne","article":"die","level":"A1"},
-  {"word":"Regen","article":"der","level":"A1"},
-  {"word":"Wind","article":"der","level":"A1"},
-  {"word":"Schnee","article":"der","level":"A1"},
-  {"word":"Sommer","article":"der","level":"A1"},
-  {"word":"Winter","article":"der","level":"A1"},
-
-  {"word":"Frühling","article":"der","level":"A1"},
-  {"word":"Herbst","article":"der","level":"A1"},
-  {"word":"Urlaub","article":"der","level":"A1"},
-  {"word":"Reise","article":"die","level":"A1"},
-  {"word":"Hotel","article":"das","level":"A1"},
-  {"word":"Zimmer","article":"das","level":"A1"},
-  {"word":"Küche","article":"die","level":"A1"},
-  {"word":"Bad","article":"das","level":"A1"},
-  {"word":"Wohnung","article":"die","level":"A1"},
-  {"word":"Familie","article":"die","level":"A1"},
-
-  {"word":"Polizei","article":"die","level":"A1"},
-  {"word":"Arzt","article":"der","level":"A1"},
-  {"word":"Krankenhaus","article":"das","level":"A1"},
-  {"word":"Gesundheit","article":"die","level":"A1"},
-  {"word":"Krankheit","article":"die","level":"A1"},
-  {"word":"Kopf","article":"der","level":"A1"},
-  {"word":"Hand","article":"die","level":"A1"},
-  {"word":"Fuß","article":"der","level":"A1"},
-  {"word":"Auge","article":"das","level":"A1"},
-  {"word":"Ohr","article":"das","level":"A1"},
-
-  {"word":"Liebe","article":"die","level":"A1"},
-  {"word":"Freude","article":"die","level":"A1"},
-  {"word":"Angst","article":"die","level":"A1"},
-  {"word":"Stimme","article":"die","level":"A1"},
-  {"word":"Licht","article":"das","level":"A1"},
-  {"word":"Dunkelheit","article":"die","level":"A1"},
-  {"word":"Stadtzentrum","article":"das","level":"A1"},
-  {"word":"Bahnhof","article":"der","level":"A1"},
-  {"word":"Bus","article":"der","level":"A1"},
-  {"word":"Zug","article":"der","level":"A1"},
-
-
-  {"word":"Kaffee","article":"der","level":"A1"},
-  {"word":"Tee","article":"der","level":"A1"},
-  {"word":"Saft","article":"der","level":"A1"},
-  {"word":"Wasser","article":"das","level":"A1"},
-  {"word":"Zucker","article":"der","level":"A1"},
-
-  {"word":"Salz","article":"das","level":"A1"},
-  {"word":"Butter","article":"die","level":"A1"},
-  {"word":"Käse","article":"der","level":"A1"},
-  {"word":"Essen","article":"das","level":"A1"},
-  {"word":"Frühstück","article":"das","level":"A1"},
-
-  {"word":"Mittagessen","article":"das","level":"A1"},
-  {"word":"Abendessen","article":"das","level":"A1"},
-  {"word":"Hunger","article":"der","level":"A1"},
-  {"word":"Durst","article":"der","level":"A1"},
-  {"word":"Restaurant","article":"das","level":"A1"},
-
-  {"word":"Café","article":"das","level":"A1"},
-  {"word":"Supermarkt","article":"der","level":"A1"},
-  {"word":"Geschäft","article":"das","level":"A1"},
-  {"word":"Einkauf","article":"der","level":"A1"},
-  {"word":"Preis","article":"der","level":"A1"},
-
-  {"word":"Euro","article":"der","level":"A1"},
-  {"word":"Karte","article":"die","level":"A1"},
-  {"word":"Ticket","article":"das","level":"A1"},
-  {"word":"Pass","article":"der","level":"A1"},
-  {"word":"Reisepass","article":"der","level":"A1"},
-
-  {"word":"Grenze","article":"die","level":"A1"},
-  {"word":"Flughafen","article":"der","level":"A1"},
-  {"word":"Flug","article":"der","level":"A1"},
-  {"word":"Flugzeug","article":"das","level":"A1"},
-  {"word":"Schiff","article":"das","level":"A1"},
-
-  {"word":"Meer","article":"das","level":"A1"},
-  {"word":"See","article":"der","level":"A1"},
-  {"word":"Fluss","article":"der","level":"A1"},
-  {"word":"Berg","article":"der","level":"A1"},
-  {"word":"Wald","article":"der","level":"A1"},
-
-  {"word":"Natur","article":"die","level":"A1"},
-  {"word":"Tier","article":"das","level":"A1"},
-  {"word":"Vogel","article":"der","level":"A1"},
-  {"word":"Fisch","article":"der","level":"A1"},
-  {"word":"Pferd","article":"das","level":"A1"},
-
-  {"word":"Rind","article":"das","level":"A1"},
-  {"word":"Schwein","article":"das","level":"A1"},
-  {"word":"Huhn","article":"das","level":"A1"},
-  {"word":"Ei","article":"das","level":"A1"},
-  {"word":"Kuchen","article":"der","level":"A1"},
-
-  {"word":"Schokolade","article":"die","level":"A1"},
-  {"word":"Bonbon","article":"das","level":"A1"},
-  {"word":"Eis","article":"das","level":"A1"},
-  {"word":"Geburtstag","article":"der","level":"A1"},
-  {"word":"Geschenk","article":"das","level":"A1"},
-
-  {"word":"Party","article":"die","level":"A1"},
-  {"word":"Feier","article":"die","level":"A1"},
-  {"word":"Musiker","article":"der","level":"A1"},
-  {"word":"Sänger","article":"der","level":"A1"},
-  {"word":"Band","article":"die","level":"A1"},
-
-  {"word":"Lied","article":"das","level":"A1"},
-  {"word":"Gitarre","article":"die","level":"A1"},
-  {"word":"Klavier","article":"das","level":"A1"},
-  {"word":"Trommel","article":"die","level":"A1"},
-  {"word":"Kino","article":"das","level":"A1"},
-
-  {"word":"Theater","article":"das","level":"A1"},
-  {"word":"Buchhandlung","article":"die","level":"A1"},
-  {"word":"Bibliothek","article":"die","level":"A1"},
-  {"word":"Zeitung","article":"die","level":"A1"},
-  {"word":"Magazin","article":"das","level":"A1"},
-
-  {"word":"Nachricht","article":"die","level":"A1"},
-  {"word":"Internetseite","article":"die","level":"A1"},
-  {"word":"Foto","article":"das","level":"A1"},
-  {"word":"Bild","article":"das","level":"A1"},
-  {"word":"Video","article":"das","level":"A1"},
-
-  {"word":"Computermaus","article":"die","level":"A1"},
-  {"word":"Tastatur","article":"die","level":"A1"},
-  {"word":"Bildschirm","article":"der","level":"A1"},
-  {"word":"Drucker","article":"der","level":"A1"},
-  {"word":"Kabel","article":"das","level":"A1"},
-
-  {"word":"Lampe","article":"die","level":"A1"},
-  {"word":"Strom","article":"der","level":"A1"},
-  {"word":"Türschlüssel","article":"der","level":"A1"},
-  {"word":"Uhr","article":"die","level":"A1"},
-  {"word":"Wecker","article":"der","level":"A1"},
-
-  {"word":"Bett","article":"das","level":"A1"},
-  {"word":"Sofa","article":"das","level":"A1"},
-  {"word":"Teppich","article":"der","level":"A1"},
-  {"word":"Schrank","article":"der","level":"A1"},
-  {"word":"Spiegel","article":"der","level":"A1"},
-
-  {"word":"Fensterbank","article":"die","level":"A1"},
-  {"word":"Garage","article":"die","level":"A1"},
-  {"word":"Gartenhaus","article":"das","level":"A1"},
-  {"word":"Nachbar","article":"der","level":"A1"},
-  {"word":"Straßenbahn","article":"die","level":"A1"},
- 
-  {"word":"Telefonbuch","article":"das","level":"A1"},
-  {"word":"Adresse","article":"die","level":"A1"},
-  {"word":"Post","article":"die","level":"A1"},
-  {"word":"Brief","article":"der","level":"A1"},
-  {"word":"Paket","article":"das","level":"A1"},
-
-  {"word":"Postkarte","article":"die","level":"A1"},
-  {"word":"Unterschrift","article":"die","level":"A1"},
-  {"word":"Dokument","article":"das","level":"A1"},
-  {"word":"Formular","article":"das","level":"A1"},
-  {"word":"Stadtplan","article":"der","level":"A1"},
-
-  {"word":"Weg","article":"der","level":"A1"},
-  {"word":"Brücke","article":"die","level":"A1"},
-  {"word":"Hausnummer","article":"die","level":"A1"},
-  {"word":"Stock","article":"der","level":"A1"},
-  {"word":"Aufzug","article":"der","level":"A1"},
-
-  {"word":"Treppenhaus","article":"das","level":"A1"},
-  {"word":"Klingel","article":"die","level":"A1"},
-  {"word":"Schlüsselbund","article":"der","level":"A1"},
-  {"word":"Tasche","article":"die","level":"A1"},
-  {"word":"Rucksack","article":"der","level":"A1"},
-
-  {"word":"Koffer","article":"der","level":"A1"},
-  {"word":"Gepäck","article":"das","level":"A1"},
-  {"word":"Reisetasche","article":"die","level":"A1"},
-  {"word":"Sonnenbrille","article":"die","level":"A1"},
-  {"word":"Hut","article":"der","level":"A1"},
-
-  {"word":"Jacke","article":"die","level":"A1"},
-  {"word":"Mantel","article":"der","level":"A1"},
-  {"word":"Schuh","article":"der","level":"A1"},
-  {"word":"Socken","article":"die","level":"A1"},
-  {"word":"Hose","article":"die","level":"A1"},
-
-  {"word":"Shirt","article":"das","level":"A1"},
-  {"word":"Kleid","article":"das","level":"A1"},
-  {"word":"Rock","article":"der","level":"A1"},
-  {"word":"Krawatte","article":"die","level":"A1"},
-  {"word":"Schal","article":"der","level":"A1"},
-
-  {"word":"Handschuh","article":"der","level":"A1"},
-  {"word":"Regenschirm","article":"der","level":"A1"},
-  {"word":"Sonnebrille","article":"die","level":"A1"},
-  {"word":"Sonne","article":"die","level":"A1"},
-  {"word":"Mond","article":"der","level":"A1"},
-
-  {"word":"Stern","article":"der","level":"A1"},
-  {"word":"Himmel","article":"der","level":"A1"},
-  {"word":"Wolke","article":"die","level":"A1"},
-  {"word":"Luft","article":"die","level":"A1"},
-  {"word":"Erde","article":"die","level":"A1"},
-
-  {"word":"Feuer","article":"das","level":"A1"},
-  {"word":"Wasserfall","article":"der","level":"A1"},
-  {"word":"Insel","article":"die","level":"A1"},
-  {"word":"Strand","article":"der","level":"A1"},
-  {"word":"Sand","article":"der","level":"A1"},
-
-  {"word":"Welle","article":"die","level":"A1"},
-  {"word":"Boot","article":"das","level":"A1"},
-  {"word":"Fahrrad","article":"das","level":"A1"},
-  {"word":"Motorrad","article":"das","level":"A1"},
-  {"word":"Autohaus","article":"das","level":"A1"},
-
-  {"word":"Tankstelle","article":"die","level":"A1"},
-  {"word":"Straßenschild","article":"das","level":"A1"},
-  {"word":"Ampel","article":"die","level":"A1"},
-  {"word":"Polizist","article":"der","level":"A1"},
-  {"word":"Feuerwehr","article":"die","level":"A1"},
-
-  {"word":"Krankenwagen","article":"der","level":"A1"},
-  {"word":"Unfall","article":"der","level":"A1"},
-  {"word":"Gefahr","article":"die","level":"A1"},
-  {"word":"Sicherheit","article":"die","level":"A1"},
-  {"word":"Hilfe","article":"die","level":"A1"},
-
-  {"word":"Lärm","article":"der","level":"A1"},
-  {"word":"Stille","article":"die","level":"A1"},
-  {"word":"Geräusch","article":"das","level":"A1"},
-  {"word":"Geruch","article":"der","level":"A1"},
-  {"word":"Geschmack","article":"der","level":"A1"},
-
-  {"word":"Gefühl","article":"das","level":"A1"},
-  {"word":"Herz","article":"das","level":"A1"},
-  {"word":"Gedächtnis","article":"das","level":"A1"},
-  {"word":"Verstand","article":"der","level":"A1"},
-  {"word":"Gedanke","article":"der","level":"A1"},
-
-  {"word":"Körper","article":"der","level":"A1"},
-  {"word":"Gesicht","article":"das","level":"A1"},
-  {"word":"Nase","article":"die","level":"A1"},
-  {"word":"Mund","article":"der","level":"A1"},
-  {"word":"Zahn","article":"der","level":"A1"},
-
-  {"word":"Leben","article":"das","level":"A1"},
-  {"word":"Tod","article":"der","level":"A1"},
-  {"word":"Geburt","article":"die","level":"A1"},
-  {"word":"Zukunft","article":"die","level":"A1"},
-  {"word":"Vergangenheit","article":"die","level":"A1"},
-
-  {"word":"Gegenwart","article":"die","level":"A1"},
-  {"word":"Welt","article":"die","level":"A1"},
-  {"word":"Landkarte","article":"die","level":"A1"},
-  {"word":"Kontinent","article":"der","level":"A1"},
-  {"word":"Ozean","article":"der","level":"A1"},
-
-
-
-
-
-  {"word":"Garten","article":"der","level":"A2"},
-  {"word":"Wohnung","article":"die","level":"A2"},
-  {"word":"Zimmer","article":"das","level":"A2"},
-  {"word":"Küche","article":"die","level":"A2"},
-  {"word":"Bad","article":"das","level":"A2"},
-
-  {"word":"Balkon","article":"der","level":"A2"},
-  {"word":"Hausarbeit","article":"die","level":"A2"},
-  {"word":"Reinigung","article":"die","level":"A2"},
-  {"word":"Staubsauger","article":"der","level":"A2"},
-  {"word":"Waschmaschine","article":"die","level":"A2"},
-
-  {"word":"Kühlschrank","article":"der","level":"A2"},
-  {"word":"Ofen","article":"der","level":"A2"},
-  {"word":"Mikrowelle","article":"die","level":"A2"},
-  {"word":"Geschirr","article":"das","level":"A2"},
-  {"word":"Teller","article":"der","level":"A2"},
-
-  {"word":"Glas","article":"das","level":"A2"},
-  {"word":"Löffel","article":"der","level":"A2"},
-  {"word":"Messer","article":"das","level":"A2"},
-  {"word":"Gabel","article":"die","level":"A2"},
-  {"word":"Topf","article":"der","level":"A2"},
-
-  {"word":"Pfanne","article":"die","level":"A2"},
-  {"word":"Kochen","article":"das","level":"A2"},
-  {"word":"Rezept","article":"das","level":"A2"},
-  {"word":"Zutat","article":"die","level":"A2"},
-  {"word":"Geschmack","article":"der","level":"A2"},
-
-  {"word":"Arbeitgeber","article":"der","level":"A2"},
-  {"word":"Arbeitnehmer","article":"der","level":"A2"},
-  {"word":"Kollege","article":"der","level":"A2"},
-  {"word":"Kollegin","article":"die","level":"A2"},
-  {"word":"Büro","article":"das","level":"A2"},
-
-  {"word":"Computerprogramm","article":"das","level":"A2"},
-  {"word":"Datei","article":"die","level":"A2"},
-  {"word":"Ordner","article":"der","level":"A2"},
-  {"word":"E-Mail","article":"die","level":"A2"},
-  {"word":"Passwort","article":"das","level":"A2"},
-
-  {"word":"Website","article":"die","level":"A2"},
-  {"word":"Benutzer","article":"der","level":"A2"},
-  {"word":"Login","article":"das","level":"A2"},
-  {"word":"Account","article":"der","level":"A2"},
-  {"word":"Profil","article":"das","level":"A2"},
-
-  {"word":"Marke","article":"die","level":"A2"},
-  {"word":"Produkt","article":"das","level":"A2"},
-  {"word":"Firma","article":"die","level":"A2"},
-  {"word":"Unternehmen","article":"das","level":"A2"},
-  {"word":"Kunde","article":"der","level":"A2"},
-
-  {"word":"Kundin","article":"die","level":"A2"},
-  {"word":"Service","article":"der","level":"A2"},
-  {"word":"Garantie","article":"die","level":"A2"},
-  {"word":"Rabatt","article":"der","level":"A2"},
-  {"word":"Angebot","article":"das","level":"A2"},
-
-  {"word":"Bestellung","article":"die","level":"A2"},
-  {"word":"Lieferung","article":"die","level":"A2"},
-  {"word":"Paket","article":"das","level":"A2"},
-  {"word":"Versand","article":"der","level":"A2"},
-  {"word":"Zahlung","article":"die","level":"A2"},
-
-  {"word":"Konto","article":"das","level":"A2"},
-  {"word":"Bank","article":"die","level":"A2"},
-  {"word":"Girokonto","article":"das","level":"A2"},
-  {"word":"Geldautomat","article":"der","level":"A2"},
-  {"word":"Kreditkarte","article":"die","level":"A2"},
-
-  {"word":"Versicherung","article":"die","level":"A2"},
-  {"word":"Vertrag","article":"der","level":"A2"},
-  {"word":"Regel","article":"die","level":"A2"},
-  {"word":"Gesetz","article":"das","level":"A2"},
-  {"word":"Staat","article":"der","level":"A2"},
-
-  {"word":"Politik","article":"die","level":"A2"},
-  {"word":"Wahl","article":"die","level":"A2"},
-  {"word":"Partei","article":"die","level":"A2"},
-  {"word":"Regierung","article":"die","level":"A2"},
-  {"word":"Bürger","article":"der","level":"A2"},
-
-  {"word":"Bürgerin","article":"die","level":"A2"},
-  {"word":"Stadtverwaltung","article":"die","level":"A2"},
-  {"word":"Amt","article":"das","level":"A2"},
-  {"word":"Formular","article":"das","level":"A2"},
-  {"word":"Termin","article":"der","level":"A2"},
-
-  {"word":"Doktor","article":"der","level":"A2"},
-  {"word":"Patient","article":"der","level":"A2"},
-  {"word":"Krankenhaus","article":"das","level":"A2"},
-  {"word":"Medizin","article":"die","level":"A2"},
-  {"word":"Tablette","article":"die","level":"A2"},
-
-  {"word":"Schmerz","article":"der","level":"A2"},
-  {"word":"Behandlung","article":"die","level":"A2"},
-  {"word":"Untersuchung","article":"die","level":"A2"},
-  {"word":"Termin","article":"der","level":"A2"},
-  {"word":"Gesundheitssystem","article":"das","level":"A2"},
-
-  {"word":"Schule","article":"die","level":"A2"},
-  {"word":"Universität","article":"die","level":"A2"},
-  {"word":"Student","article":"der","level":"A2"},
-  {"word":"Studentin","article":"die","level":"A2"},
-  {"word":"Kurs","article":"der","level":"A2"},
-
-  {"word":"Unterricht","article":"der","level":"A2"},
-  {"word":"Prüfung","article":"die","level":"A2"},
-  {"word":"Note","article":"die","level":"A2"},
-  {"word":"Hausaufgabe","article":"die","level":"A2"},
-  {"word":"Lernen","article":"das","level":"A2"},
-
-  {"word":"Flughafen","article":"der","level":"A2"},
-  {"word":"Flug","article":"der","level":"A2"},
-  {"word":"Reise","article":"die","level":"A2"},
-  {"word":"Reisender","article":"der","level":"A2"},
-  {"word":"Urlaub","article":"der","level":"A2"},
-
-  {"word":"Hotel","article":"das","level":"A2"},
-  {"word":"Zimmer","article":"das","level":"A2"},
-  {"word":"Rezeption","article":"die","level":"A2"},
-  {"word":"Schlüssel","article":"der","level":"A2"},
-  {"word":"Gepäck","article":"das","level":"A2"},
-
-  {"word":"Koffer","article":"der","level":"A2"},
-  {"word":"Ticket","article":"das","level":"A2"},
-  {"word":"Bahn","article":"die","level":"A2"},
-  {"word":"Zug","article":"der","level":"A2"},
-  {"word":"Fahrkarte","article":"die","level":"A2"},
-
-  {"word":"Bus","article":"der","level":"A2"},
-  {"word":"Straßenbahn","article":"die","level":"A2"},
-  {"word":"U-Bahn","article":"die","level":"A2"},
-  {"word":"Haltestelle","article":"die","level":"A2"},
-  {"word":"Fahrplan","article":"der","level":"A2"},
-
-  {"word":"Straße","article":"die","level":"A2"},
-  {"word":"Autobahn","article":"die","level":"A2"},
-  {"word":"Verkehr","article":"der","level":"A2"},
-  {"word":"Stau","article":"der","level":"A2"},
-  {"word":"Unfall","article":"der","level":"A2"},
-
-  {"word":"Führerschein","article":"der","level":"A2"},
-  {"word":"Fahrer","article":"der","level":"A2"},
-  {"word":"Fahrerin","article":"die","level":"A2"},
-  {"word":"Auto","article":"das","level":"A2"},
-  {"word":"Tank","article":"der","level":"A2"},
-
-  {"word":"Benzin","article":"das","level":"A2"},
-  {"word":"Parkplatz","article":"der","level":"A2"},
-  {"word":"Garage","article":"die","level":"A2"},
-  {"word":"Werkstatt","article":"die","level":"A2"},
-  {"word":"Reparatur","article":"die","level":"A2"},
-
-  {"word":"Handy","article":"das","level":"A2"},
-  {"word":"Nachricht","article":"die","level":"A2"},
-  {"word":"Anruf","article":"der","level":"A2"},
-  {"word":"Telefonat","article":"das","level":"A2"},
-  {"word":"Kontakt","article":"der","level":"A2"},
-
-  {"word":"Internet","article":"das","level":"A2"},
-  {"word":"Sozialnetzwerk","article":"das","level":"A2"},
-  {"word":"Nachricht","article":"die","level":"A2"},
-  {"word":"Kommentar","article":"der","level":"A2"},
-  {"word":"Benutzername","article":"der","level":"A2"},
-
-  {"word":"Sicherheit","article":"die","level":"A2"},
-  {"word":"Passwort","article":"das","level":"A2"},
-  {"word":"Datenschutz","article":"der","level":"A2"},
-  {"word":"Virus","article":"der","level":"A2"},
-  {"word":"Software","article":"die","level":"A2"},
-
-  {"word":"Update","article":"das","level":"A2"},
-  {"word":"Programm","article":"das","level":"A2"},
-  {"word":"App","article":"die","level":"A2"},
-  {"word":"System","article":"das","level":"A2"},
-  {"word":"Speicher","article":"der","level":"A2"},
-
-  {"word":"Bildschirm","article":"der","level":"A2"},
-  {"word":"Daten","article":"die","level":"A2"},
-  {"word":"Datei","article":"die","level":"A2"},
-  {"word":"Ordner","article":"der","level":"A2"},
-  {"word":"Drucker","article":"der","level":"A2"},
-
-  {"word":"Maus","article":"die","level":"A2"},
-  {"word":"Tastatur","article":"die","level":"A2"},
-  {"word":"Laptop","article":"der","level":"A2"},
-  {"word":"Tablet","article":"das","level":"A2"},
-  {"word":"Bild","article":"das","level":"A2"},
-
-  {"word":"Foto","article":"das","level":"A2"},
-  {"word":"Kamera","article":"die","level":"A2"},
-  {"word":"Video","article":"das","level":"A2"},
-  {"word":"Film","article":"der","level":"A2"},
-  {"word":"Musik","article":"die","level":"A2"},
-
-  {"word":"Konzert","article":"das","level":"A2"},
-  {"word":"Theater","article":"das","level":"A2"},
-  {"word":"Kino","article":"das","level":"A2"},
-  {"word":"Ticket","article":"das","level":"A2"},
-  {"word":"Sitzplatz","article":"der","level":"A2"},
-
-  {"word":"Restaurant","article":"das","level":"A2"},
-  {"word":"Menü","article":"das","level":"A2"},
-  {"word":"Bestellung","article":"die","level":"A2"},
-  {"word":"Kellner","article":"der","level":"A2"},
-  {"word":"Kellnerin","article":"die","level":"A2"},
-
-  {"word":"Trinkgeld","article":"das","level":"A2"},
-  {"word":"Rechnung","article":"die","level":"A2"},
-  {"word":"Preis","article":"der","level":"A2"},
-  {"word":"Kasse","article":"die","level":"A2"},
-  {"word":"Kunde","article":"der","level":"A2"},
-
-  {"word":"Kundin","article":"die","level":"A2"},
-  {"word":"Supermarkt","article":"der","level":"A2"},
-  {"word":"Einkauf","article":"der","level":"A2"},
-  {"word":"Einkaufswagen","article":"der","level":"A2"},
-  {"word":"Regal","article":"das","level":"A2"},
-
-  {"word":"Produkt","article":"das","level":"A2"},
-  {"word":"Marke","article":"die","level":"A2"},
-  {"word":"Angebot","article":"das","level":"A2"},
-  {"word":"Rabatt","article":"der","level":"A2"},
-  {"word":"Prospekt","article":"der","level":"A2"},
-
-  {"word":"Wetter","article":"das","level":"A2"},
-  {"word":"Temperatur","article":"die","level":"A2"},
-  {"word":"Grad","article":"der","level":"A2"},
-  {"word":"Klima","article":"das","level":"A2"},
-  {"word":"Vorhersage","article":"die","level":"A2"},
-
-
-  {"word":"Politik","article":"die","level":"A2"},
-  {"word":"Politiker","article":"der","level":"A2"},
-  {"word":"Politikerin","article":"die","level":"A2"},
-  {"word":"Regierung","article":"die","level":"A2"},
-  {"word":"Parlament","article":"das","level":"A2"},
-
-  {"word":"Gesetz","article":"das","level":"A2"},
-  {"word":"Staat","article":"der","level":"A2"},
-  {"word":"Land","article":"das","level":"A2"},
-  {"word":"Stadt","article":"die","level":"A2"},
-  {"word":"Dorf","article":"das","level":"A2"},
-
-  {"word":"Bürger","article":"der","level":"A2"},
-  {"word":"Bürgerin","article":"die","level":"A2"},
-  {"word":"Bevölkerung","article":"die","level":"A2"},
-  {"word":"Einwohner","article":"der","level":"A2"},
-  {"word":"Einwohnerin","article":"die","level":"A2"},
-
-  {"word":"Wahl","article":"die","level":"A2"},
-  {"word":"Stimme","article":"die","level":"A2"},
-  {"word":"Demokratie","article":"die","level":"A2"},
-  {"word":"Freiheit","article":"die","level":"A2"},
-  {"word":"Recht","article":"das","level":"A2"},
-
-  {"word":"Pflicht","article":"die","level":"A2"},
-  {"word":"Gesellschaft","article":"die","level":"A2"},
-  {"word":"Kultur","article":"die","level":"A2"},
-  {"word":"Tradition","article":"die","level":"A2"},
-  {"word":"Feiertag","article":"der","level":"A2"},
-
-  {"word":"Arbeit","article":"die","level":"A2"},
-  {"word":"Job","article":"der","level":"A2"},
-  {"word":"Beruf","article":"der","level":"A2"},
-  {"word":"Karriere","article":"die","level":"A2"},
-  {"word":"Firma","article":"die","level":"A2"},
-
-  {"word":"Chef","article":"der","level":"A2"},
-  {"word":"Chefin","article":"die","level":"A2"},
-  {"word":"Team","article":"das","level":"A2"},
-  {"word":"Projekt","article":"das","level":"A2"},
-  {"word":"Meeting","article":"das","level":"A2"},
-
-  {"word":"Kollege","article":"der","level":"A2"},
-  {"word":"Kollegin","article":"die","level":"A2"},
-  {"word":"Büro","article":"das","level":"A2"},
-  {"word":"Arbeitsplatz","article":"der","level":"A2"},
-  {"word":"Computer","article":"der","level":"A2"},
-
-  {"word":"E-Mail","article":"die","level":"A2"},
-  {"word":"Nachricht","article":"die","level":"A2"},
-  {"word":"Telefon","article":"das","level":"A2"},
-  {"word":"Gespräch","article":"das","level":"A2"},
-  {"word":"Termin","article":"der","level":"A2"},
-
-  {"word":"Zeit","article":"die","level":"A2"},
-  {"word":"Datum","article":"das","level":"A2"},
-  {"word":"Kalender","article":"der","level":"A2"},
-  {"word":"Plan","article":"der","level":"A2"},
-  {"word":"Zukunft","article":"die","level":"A2"},
-
-  {"word":"Vergangenheit","article":"die","level":"A2"},
-  {"word":"Erinnerung","article":"die","level":"A2"},
-  {"word":"Erlebnis","article":"das","level":"A2"},
-  {"word":"Erfahrung","article":"die","level":"A2"},
-  {"word":"Geschichte","article":"die","level":"A2"},
-
-  {"word":"Problem","article":"das","level":"A2"},
-  {"word":"Lösung","article":"die","level":"A2"},
-  {"word":"Fehler","article":"der","level":"A2"},
-  {"word":"Erfolg","article":"der","level":"A2"},
-  {"word":"Misserfolg","article":"der","level":"A2"},
-
-  {"word":"Planung","article":"die","level":"A2"},
-  {"word":"Ziel","article":"das","level":"A2"},
-  {"word":"Wunsch","article":"der","level":"A2"},
-  {"word":"Traum","article":"der","level":"A2"},
-  {"word":"Idee","article":"die","level":"A2"},
-
-  {"word":"Wissenschaft","article":"die","level":"A2"},
-  {"word":"Forscher","article":"der","level":"A2"},
-  {"word":"Forschung","article":"die","level":"A2"},
-  {"word":"Experiment","article":"das","level":"A2"},
-  {"word":"Ergebnis","article":"das","level":"A2"},
-
-  {"word":"Natur","article":"die","level":"A2"},
-  {"word":"Umwelt","article":"die","level":"A2"},
-  {"word":"Umweltschutz","article":"der","level":"A2"},
-  {"word":"Recycling","article":"das","level":"A2"},
-  {"word":"Müll","article":"der","level":"A2"},
-
-  {"word":"Energie","article":"die","level":"A2"},
-  {"word":"Strom","article":"der","level":"A2"},
-  {"word":"Wasser","article":"das","level":"A2"},
-  {"word":"Gas","article":"das","level":"A2"},
-  {"word":"Heizung","article":"die","level":"A2"},
-
-  {"word":"Technologie","article":"die","level":"A2"},
-  {"word":"Innovation","article":"die","level":"A2"},
-  {"word":"System","article":"das","level":"A2"},
-  {"word":"Netzwerk","article":"das","level":"A2"},
-  {"word":"Server","article":"der","level":"A2"},
-
-  {"word":"Spiel","article":"das","level":"A2"},
-  {"word":"Spieler","article":"der","level":"A2"},
-  {"word":"Spielerin","article":"die","level":"A2"},
-  {"word":"Wettbewerb","article":"der","level":"A2"},
-  {"word":"Gewinn","article":"der","level":"A2"},
-
-  {"word":"Verlust","article":"der","level":"A2"},
-  {"word":"Punkt","article":"der","level":"A2"},
-  {"word":"Rekord","article":"der","level":"A2"},
-  {"word":"Meister","article":"der","level":"A2"},
-  {"word":"Champion","article":"der","level":"A2"},
-
-
-
-
-  {"word":"Meinung","article":"die","level":"B1"},
-  {"word":"Ansicht","article":"die","level":"B1"},
-  {"word":"Diskussion","article":"die","level":"B1"},
-  {"word":"Argument","article":"das","level":"B1"},
-  {"word":"Beweis","article":"der","level":"B1"},
-
-  {"word":"Erklärung","article":"die","level":"B1"},
-  {"word":"Verständnis","article":"das","level":"B1"},
-  {"word":"Missverständnis","article":"das","level":"B1"},
-  {"word":"Information","article":"die","level":"B1"},
-  {"word":"Nachricht","article":"die","level":"B1"},
-
-  {"word":"Medien","article":"die","level":"B1"},
-  {"word":"Zeitung","article":"die","level":"B1"},
-  {"word":"Artikel","article":"der","level":"B1"},
-  {"word":"Reportage","article":"die","level":"B1"},
-  {"word":"Fernsehen","article":"das","level":"B1"},
-
-  {"word":"Radio","article":"das","level":"B1"},
-  {"word":"Internet","article":"das","level":"B1"},
-  {"word":"Plattform","article":"die","level":"B1"},
-  {"word":"Inhalt","article":"der","level":"B1"},
-  {"word":"Video","article":"das","level":"B1"},
-
-  {"word":"Social Media","article":"das","level":"B1"},
-  {"word":"Netzwerk","article":"das","level":"B1"},
-  {"word":"Follower","article":"der","level":"B1"},
-  {"word":"Beitrag","article":"der","level":"B1"},
-  {"word":"Kommentar","article":"der","level":"B1"},
-
-  {"word":"Emotion","article":"die","level":"B1"},
-  {"word":"Gefühl","article":"das","level":"B1"},
-  {"word":"Freude","article":"die","level":"B1"},
-  {"word":"Traurigkeit","article":"die","level":"B1"},
-  {"word":"Angst","article":"die","level":"B1"},
-
-  {"word":"Wut","article":"die","level":"B1"},
-  {"word":"Stress","article":"der","level":"B1"},
-  {"word":"Ruhe","article":"die","level":"B1"},
-  {"word":"Entspannung","article":"die","level":"B1"},
-  {"word":"Zufriedenheit","article":"die","level":"B1"},
-
-  {"word":"Gesundheit","article":"die","level":"B1"},
-  {"word":"Krankheit","article":"die","level":"B1"},
-  {"word":"Symptom","article":"das","level":"B1"},
-  {"word":"Therapie","article":"die","level":"B1"},
-  {"word":"Behandlung","article":"die","level":"B1"},
-
-  {"word":"Arztbesuch","article":"der","level":"B1"},
-  {"word":"Untersuchung","article":"die","level":"B1"},
-  {"word":"Diagnose","article":"die","level":"B1"},
-  {"word":"Medikament","article":"das","level":"B1"},
-  {"word":"Heilung","article":"die","level":"B1"},
-
-  {"word":"Arbeit","article":"die","level":"B1"},
-  {"word":"Karriere","article":"die","level":"B1"},
-  {"word":"Bewerbung","article":"die","level":"B1"},
-  {"word":"Lebenslauf","article":"der","level":"B1"},
-  {"word":"Vorstellungsgespräch","article":"das","level":"B1"},
-
-  {"word":"Gehaltsverhandlung","article":"die","level":"B1"},
-  {"word":"Arbeitsvertrag","article":"der","level":"B1"},
-  {"word":"Kündigung","article":"die","level":"B1"},
-  {"word":"Rente","article":"die","level":"B1"},
-  {"word":"Gehalt","article":"das","level":"B1"},
-
-  {"word":"Bildung","article":"die","level":"B1"},
-  {"word":"Schulbildung","article":"die","level":"B1"},
-  {"word":"Studium","article":"das","level":"B1"},
-  {"word":"Universität","article":"die","level":"B1"},
-  {"word":"Fach","article":"das","level":"B1"},
-
-  {"word":"Prüfung","article":"die","level":"B1"},
-  {"word":"Ergebnis","article":"das","level":"B1"},
-  {"word":"Note","article":"die","level":"B1"},
-  {"word":"Leistung","article":"die","level":"B1"},
-  {"word":"Erfolg","article":"der","level":"B1"},
-
-  {"word":"Fehler","article":"der","level":"B1"},
-  {"word":"Verbesserung","article":"die","level":"B1"},
-  {"word":"Fortschritt","article":"der","level":"B1"},
-  {"word":"Entwicklung","article":"die","level":"B1"},
-  {"word":"Wachstum","article":"das","level":"B1"},
-
-  {"word":"Gesellschaft","article":"die","level":"B1"},
-  {"word":"Sozial","article":"das","level":"B1"},
-  {"word":"Ungleichheit","article":"die","level":"B1"},
-  {"word":"Armut","article":"die","level":"B1"},
-  {"word":"Reichtum","article":"der","level":"B1"},
-
-  {"word":"Politik","article":"die","level":"B1"},
-  {"word":"Demokratie","article":"die","level":"B1"},
-  {"word":"Parlament","article":"das","level":"B1"},
-  {"word":"Gesetz","article":"das","level":"B1"},
-  {"word":"Regierung","article":"die","level":"B1"},
-
-  {"word":"Wahl","article":"die","level":"B1"},
-  {"word":"Stimme","article":"die","level":"B1"},
-  {"word":"Bürger","article":"der","level":"B1"},
-  {"word":"Recht","article":"das","level":"B1"},
-  {"word":"Pflicht","article":"die","level":"B1"},
-
-  {"word":"Umwelt","article":"die","level":"B1"},
-  {"word":"Klimawandel","article":"der","level":"B1"},
-  {"word":"Umweltschutz","article":"der","level":"B1"},
-  {"word":"Nachhaltigkeit","article":"die","level":"B1"},
-  {"word":"Energie","article":"die","level":"B1"},
-
-  {"word":"Technologie","article":"die","level":"B1"},
-  {"word":"Innovation","article":"die","level":"B1"},
-  {"word":"Digitalisierung","article":"die","level":"B1"},
-  {"word":"Automatisierung","article":"die","level":"B1"},
-  {"word":"System","article":"das","level":"B1"},
-
-
-
-  {"word":"Erfahrung","article":"die","level":"B1"},
-  {"word":"Erlebnis","article":"das","level":"B1"},
-  {"word":"Erinnerung","article":"die","level":"B1"},
-  {"word":"Vergangenheit","article":"die","level":"B1"},
-  {"word":"Zukunft","article":"die","level":"B1"},
-
-  {"word":"Gegenwart","article":"die","level":"B1"},
-  {"word":"Lebensstil","article":"der","level":"B1"},
-  {"word":"Alltag","article":"der","level":"B1"},
-  {"word":"Routine","article":"die","level":"B1"},
-  {"word":"Gewohnheit","article":"die","level":"B1"},
-
-  {"word":"Freizeit","article":"die","level":"B1"},
-  {"word":"Hobby","article":"das","level":"B1"},
-  {"word":"Interesse","article":"das","level":"B1"},
-  {"word":"Leidenschaft","article":"die","level":"B1"},
-  {"word":"Sport","article":"der","level":"B1"},
-
-  {"word":"Training","article":"das","level":"B1"},
-  {"word":"Fitness","article":"die","level":"B1"},
-  {"word":"Gesundheit","article":"die","level":"B1"},
-  {"word":"Ernährung","article":"die","level":"B1"},
-  {"word":"Diät","article":"die","level":"B1"},
-
-  {"word":"Reise","article":"die","level":"B1"},
-  {"word":"Abenteuer","article":"das","level":"B1"},
-  {"word":"Entdeckung","article":"die","level":"B1"},
-  {"word":"Tourismus","article":"der","level":"B1"},
-  {"word":"Reiseführer","article":"der","level":"B1"},
-
-  {"word":"Kultur","article":"die","level":"B1"},
-  {"word":"Kunst","article":"die","level":"B1"},
-  {"word":"Musik","article":"die","level":"B1"},
-  {"word":"Literatur","article":"die","level":"B1"},
-  {"word":"Theater","article":"das","level":"B1"},
-
-  {"word":"Filmindustrie","article":"die","level":"B1"},
-  {"word":"Schauspieler","article":"der","level":"B1"},
-  {"word":"Schauspielerin","article":"die","level":"B1"},
-  {"word":"Regisseur","article":"der","level":"B1"},
-  {"word":"Szene","article":"die","level":"B1"},
-
-  {"word":"Produktion","article":"die","level":"B1"},
-  {"word":"Projekt","article":"das","level":"B1"},
-  {"word":"Plan","article":"der","level":"B1"},
-  {"word":"Ziel","article":"das","level":"B1"},
-  {"word":"Strategie","article":"die","level":"B1"},
-
-  {"word":"Organisation","article":"die","level":"B1"},
-  {"word":"Teamarbeit","article":"die","level":"B1"},
-  {"word":"Zusammenarbeit","article":"die","level":"B1"},
-  {"word":"Kommunikation","article":"die","level":"B1"},
-  {"word":"Konflikt","article":"der","level":"B1"},
-
-  {"word":"Lösung","article":"die","level":"B1"},
-  {"word":"Entscheidung","article":"die","level":"B1"},
-  {"word":"Auswahl","article":"die","level":"B1"},
-  {"word":"Option","article":"die","level":"B1"},
-  {"word":"Alternative","article":"die","level":"B1"},
-
-  {"word":"Problem","article":"das","level":"B1"},
-  {"word":"Herausforderung","article":"die","level":"B1"},
-  {"word":"Risiko","article":"das","level":"B1"},
-  {"word":"Chance","article":"die","level":"B1"},
-  {"word":"Erfolg","article":"der","level":"B1"},
-
-  {"word":"Misserfolg","article":"der","level":"B1"},
-  {"word":"Motivation","article":"die","level":"B1"},
-  {"word":"Disziplin","article":"die","level":"B1"},
-  {"word":"Zielsetzung","article":"die","level":"B1"},
-  {"word":"Leistung","article":"die","level":"B1"},
-
-  {"word":"Wissen","article":"das","level":"B1"},
-  {"word":"Kenntnis","article":"die","level":"B1"},
-  {"word":"Fähigkeit","article":"die","level":"B1"},
-  {"word":"Talent","article":"das","level":"B1"},
-  {"word":"Intelligenz","article":"die","level":"B1"},
-
-  {"word":"Gedächtnis","article":"das","level":"B1"},
-  {"word":"Konzentration","article":"die","level":"B1"},
-  {"word":"Aufmerksamkeit","article":"die","level":"B1"},
-  {"word":"Lernen","article":"das","level":"B1"},
-  {"word":"Lehrer","article":"der","level":"B1"},
-
-  {"word":"Student","article":"der","level":"B1"},
-  {"word":"Universität","article":"die","level":"B1"},
-  {"word":"Forschung","article":"die","level":"B1"},
-  {"word":"Wissenschaft","article":"die","level":"B1"},
-  {"word":"Experiment","article":"das","level":"B1"},
-
-  {"word":"Theorie","article":"die","level":"B1"},
-  {"word":"Fakt","article":"der","level":"B1"},
-  {"word":"Hypothese","article":"die","level":"B1"},
-  {"word":"Analyse","article":"die","level":"B1"},
-  {"word":"Daten","article":"die","level":"B1"},
-
-  {"word":"Statistik","article":"die","level":"B1"},
-  {"word":"Diagramm","article":"das","level":"B1"},
-  {"word":"Tabelle","article":"die","level":"B1"},
-  {"word":"Vergleich","article":"der","level":"B1"},
-  {"word":"Unterschied","article":"der","level":"B1"},
-
-  {"word":"Ähnlichkeit","article":"die","level":"B1"},
-  {"word":"Bedeutung","article":"die","level":"B1"},
-  {"word":"Symbol","article":"das","level":"B1"},
-  {"word":"Zeichen","article":"das","level":"B1"},
-  {"word":"Sprache","article":"die","level":"B1"},
-
-
-  {"word":"Kommunikation","article":"die","level":"B1"},
-  {"word":"Gespräch","article":"das","level":"B1"},
-  {"word":"Dialog","article":"der","level":"B1"},
-  {"word":"Aussage","article":"die","level":"B1"},
-  {"word":"Rede","article":"die","level":"B1"},
-
-  {"word":"Stimme","article":"die","level":"B1"},
-  {"word":"Sprache","article":"die","level":"B1"},
-  {"word":"Ausdruck","article":"der","level":"B1"},
-  {"word":"Formulierung","article":"die","level":"B1"},
-  {"word":"Bedeutung","article":"die","level":"B1"},
-
-  {"word":"Verständnis","article":"das","level":"B1"},
-  {"word":"Interpretation","article":"die","level":"B1"},
-  {"word":"Kritik","article":"die","level":"B1"},
-  {"word":"Lob","article":"das","level":"B1"},
-  {"word":"Bewertung","article":"die","level":"B1"},
-
-  {"word":"Meinungsfreiheit","article":"die","level":"B1"},
-  {"word":"Presse","article":"die","level":"B1"},
-  {"word":"Journalismus","article":"der","level":"B1"},
-  {"word":"Reporter","article":"der","level":"B1"},
-  {"word":"Interview","article":"das","level":"B1"},
-
-  {"word":"Beobachtung","article":"die","level":"B1"},
-  {"word":"Recherche","article":"die","level":"B1"},
-  {"word":"Quelle","article":"die","level":"B1"},
-  {"word":"Information","article":"die","level":"B1"},
-  {"word":"Faktencheck","article":"der","level":"B1"},
-
-  {"word":"Gesellschaft","article":"die","level":"B1"},
-  {"word":"Struktur","article":"die","level":"B1"},
-  {"word":"System","article":"das","level":"B1"},
-  {"word":"Institution","article":"die","level":"B1"},
-  {"word":"Organisation","article":"die","level":"B1"},
-
-  {"word":"Stabilität","article":"die","level":"B1"},
-  {"word":"Unsicherheit","article":"die","level":"B1"},
-  {"word":"Veränderung","article":"die","level":"B1"},
-  {"word":"Reform","article":"die","level":"B1"},
-  {"word":"Revolution","article":"die","level":"B1"},
-
-  {"word":"Entwicklung","article":"die","level":"B1"},
-  {"word":"Fortschritt","article":"der","level":"B1"},
-  {"word":"Rückschritt","article":"der","level":"B1"},
-  {"word":"Trend","article":"der","level":"B1"},
-  {"word":"Zukunft","article":"die","level":"B1"},
-
-  {"word":"Vergangenheit","article":"die","level":"B1"},
-  {"word":"Geschichte","article":"die","level":"B1"},
-  {"word":"Historie","article":"die","level":"B1"},
-  {"word":"Ereignis","article":"das","level":"B1"},
-  {"word":"Entscheidung","article":"die","level":"B1"},
-
-  {"word":"Konsequenz","article":"die","level":"B1"},
-  {"word":"Auswirkung","article":"die","level":"B1"},
-  {"word":"Folge","article":"die","level":"B1"},
-  {"word":"Ursache","article":"die","level":"B1"},
-  {"word":"Grund","article":"der","level":"B1"},
-
-  {"word":"Logik","article":"die","level":"B1"},
-  {"word":"Vernunft","article":"die","level":"B1"},
-  {"word":"Emotion","article":"die","level":"B1"},
-  {"word":"Instinkt","article":"der","level":"B1"},
-  {"word":"Intuition","article":"die","level":"B1"},
-
-  {"word":"Verhalten","article":"das","level":"B1"},
-  {"word":"Charakter","article":"der","level":"B1"},
-  {"word":"Persönlichkeit","article":"die","level":"B1"},
-  {"word":"Identität","article":"die","level":"B1"},
-  {"word":"Selbstbewusstsein","article":"das","level":"B1"},
-
-  {"word":"Beziehung","article":"die","level":"B1"},
-  {"word":"Freundschaft","article":"die","level":"B1"},
-  {"word":"Partnerschaft","article":"die","level":"B1"},
-  {"word":"Vertrauen","article":"das","level":"B1"},
-  {"word":"Respekt","article":"der","level":"B1"},
-
-  {"word":"Konfliktlösung","article":"die","level":"B1"},
-  {"word":"Kompro­miss","article":"der","level":"B1"},
-  {"word":"Verhandlung","article":"die","level":"B1"},
-  {"word":"Abmachung","article":"die","level":"B1"},
-  {"word":"Vereinbarung","article":"die","level":"B1"},
-
-  {"word":"Rechte","article":"die","level":"B1"},
-  {"word":"Pflichten","article":"die","level":"B1"},
-  {"word":"Gesetzgebung","article":"die","level":"B1"},
-  {"word":"Justiz","article":"die","level":"B1"},
-  {"word":"Gericht","article":"das","level":"B1"},
-
-  {"word":"Urteil","article":"das","level":"B1"},
-  {"word":"Strafe","article":"die","level":"B1"},
-  {"word":"Verbrechen","article":"das","level":"B1"},
-  {"word":"Sicherheit","article":"die","level":"B1"},
-  {"word":"Polizei","article":"die","level":"B1"},
-
-  {"word":"Umweltproblem","article":"das","level":"B1"},
-  {"word":"Klimakrise","article":"die","level":"B1"},
-  {"word":"Energiequelle","article":"die","level":"B1"},
-  {"word":"Nachhaltigkeit","article":"die","level":"B1"},
-  {"word":"Emission","article":"die","level":"B1"},
-
-  {"word":"Technologie","article":"die","level":"B1"},
-  {"word":"Digitalisierung","article":"die","level":"B1"},
-  {"word":"Automatisierung","article":"die","level":"B1"},
-  {"word":"Künstliche Intelligenz","article":"die","level":"B1"},
-  {"word":"Innovation","article":"die","level":"B1"},
-
-
-
-
-
-  {"word":"Zusammenhang","article":"der","level":"B2"},
-  {"word":"Auswirkung","article":"die","level":"B2"},
-  {"word":"Bedingung","article":"die","level":"B2"},
-  {"word":"Voraussetzung","article":"die","level":"B2"},
-  {"word":"Entwicklung","article":"die","level":"B2"},
-
-  {"word":"Struktur","article":"die","level":"B2"},
-  {"word":"Komplexität","article":"die","level":"B2"},
-  {"word":"Abhängigkeit","article":"die","level":"B2"},
-  {"word":"Unabhängigkeit","article":"die","level":"B2"},
-  {"word":"System","article":"das","level":"B2"},
-
-  {"word":"Mechanismus","article":"der","level":"B2"},
-  {"word":"Prozess","article":"der","level":"B2"},
-  {"word":"Funktion","article":"die","level":"B2"},
-  {"word":"Dynamik","article":"die","level":"B2"},
-  {"word":"Interaktion","article":"die","level":"B2"},
-
-  {"word":"Analyse","article":"die","level":"B2"},
-  {"word":"Bewertung","article":"die","level":"B2"},
-  {"word":"Interpretation","article":"die","level":"B2"},
-  {"word":"Erkenntnis","article":"die","level":"B2"},
-  {"word":"Ergebnis","article":"das","level":"B2"},
-
-  {"word":"Theorie","article":"die","level":"B2"},
-  {"word":"Modell","article":"das","level":"B2"},
-  {"word":"Hypothese","article":"die","level":"B2"},
-  {"word":"Annahme","article":"die","level":"B2"},
-  {"word":"Beweisführung","article":"die","level":"B2"},
-
-  {"word":"Argumentation","article":"die","level":"B2"},
-  {"word":"Überzeugung","article":"die","level":"B2"},
-  {"word":"Standpunkt","article":"der","level":"B2"},
-  {"word":"Perspektive","article":"die","level":"B2"},
-  {"word":"Sichtweise","article":"die","level":"B2"},
-
-  {"word":"Diskussion","article":"die","level":"B2"},
-  {"word":"Debatte","article":"die","level":"B2"},
-  {"word":"Kontroverse","article":"die","level":"B2"},
-  {"word":"Auseinandersetzung","article":"die","level":"B2"},
-  {"word":"Meinungsverschiedenheit","article":"die","level":"B2"},
-
-  {"word":"Verantwortung","article":"die","level":"B2"},
-  {"word":"Verpflichtung","article":"die","level":"B2"},
-  {"word":"Entscheidung","article":"die","level":"B2"},
-  {"word":"Konsequenz","article":"die","level":"B2"},
-  {"word":"Risiko","article":"das","level":"B2"},
-
-  {"word":"Chancenverteilung","article":"die","level":"B2"},
-  {"word":"Ungleichgewicht","article":"das","level":"B2"},
-  {"word":"Gerechtigkeit","article":"die","level":"B2"},
-  {"word":"Ungerechtigkeit","article":"die","level":"B2"},
-  {"word":"Systemfehler","article":"der","level":"B2"},
-
-  {"word":"Gesellschaft","article":"die","level":"B2"},
-  {"word":"Institution","article":"die","level":"B2"},
-  {"word":"Organisation","article":"die","level":"B2"},
-  {"word":"Behörde","article":"die","level":"B2"},
-  {"word":"Verwaltung","article":"die","level":"B2"},
-
-  {"word":"Regulierung","article":"die","level":"B2"},
-  {"word":"Gesetzgebung","article":"die","level":"B2"},
-  {"word":"Rechtsordnung","article":"die","level":"B2"},
-  {"word":"Justiz","article":"die","level":"B2"},
-  {"word":"Verfahren","article":"das","level":"B2"},
-
-  {"word":"Wirtschaft","article":"die","level":"B2"},
-  {"word":"Markt","article":"der","level":"B2"},
-  {"word":"Konkurrenz","article":"die","level":"B2"},
-  {"word":"Monopol","article":"das","level":"B2"},
-  {"word":"Kapital","article":"das","level":"B2"},
-
-  {"word":"Investition","article":"die","level":"B2"},
-  {"word":"Rendite","article":"die","level":"B2"},
-  {"word":"Wachstum","article":"das","level":"B2"},
-  {"word":"Rezession","article":"die","level":"B2"},
-  {"word":"Inflation","article":"die","level":"B2"},
-
-  {"word":"Innovation","article":"die","level":"B2"},
-  {"word":"Technologie","article":"die","level":"B2"},
-  {"word":"Digitalisierung","article":"die","level":"B2"},
-  {"word":"Automatisierung","article":"die","level":"B2"},
-  {"word":"Transformation","article":"die","level":"B2"},
-
-  {"word":"Kommunikation","article":"die","level":"B2"},
-  {"word":"Information","article":"die","level":"B2"},
-  {"word":"Datenverarbeitung","article":"die","level":"B2"},
-  {"word":"Netzwerk","article":"das","level":"B2"},
-  {"word":"Plattform","article":"die","level":"B2"},
-
-  {"word":"Bewusstsein","article":"das","level":"B2"},
-  {"word":"Unterbewusstsein","article":"das","level":"B2"},
-  {"word":"Wahrnehmung","article":"die","level":"B2"},
-  {"word":"Kognition","article":"die","level":"B2"},
-  {"word":"Gedankenprozess","article":"der","level":"B2"},
-
-  {"word":"Motivation","article":"die","level":"B2"},
-  {"word":"Selbstkontrolle","article":"die","level":"B2"},
-  {"word":"Disziplin","article":"die","level":"B2"},
-  {"word":"Leistungsdruck","article":"der","level":"B2"},
-  {"word":"Stressbewältigung","article":"die","level":"B2"},
-
-  {"word":"Identität","article":"die","level":"B2"},
-  {"word":"Rolle","article":"die","level":"B2"},
-  {"word":"Norm","article":"die","level":"B2"},
-  {"word":"Wert","article":"der","level":"B2"},
-  {"word":"Ethik","article":"die","level":"B2"},
-
-
-
-  {"word":"Kommunikation","article":"die","level":"B2"},
-  {"word":"Medienlandschaft","article":"die","level":"B2"},
-  {"word":"Informationsquelle","article":"die","level":"B2"},
-  {"word":"Berichterstattung","article":"die","level":"B2"},
-  {"word":"Manipulation","article":"die","level":"B2"},
-
-  {"word":"Propaganda","article":"die","level":"B2"},
-  {"word":"Meinungsbildung","article":"die","level":"B2"},
-  {"word":"Öffentlichkeit","article":"die","level":"B2"},
-  {"word":"Reputation","article":"die","level":"B2"},
-  {"word":"Image","article":"das","level":"B2"},
-
-  {"word":"Vertrauen","article":"das","level":"B2"},
-  {"word":"Transparenz","article":"die","level":"B2"},
-  {"word":"Korruption","article":"die","level":"B2"},
-  {"word":"Missbrauch","article":"der","level":"B2"},
-  {"word":"Kontrolle","article":"die","level":"B2"},
-
-  {"word":"Gesetzesverstoß","article":"der","level":"B2"},
-  {"word":"Strafrecht","article":"das","level":"B2"},
-  {"word":"Zivilrecht","article":"das","level":"B2"},
-  {"word":"Gerichtsverfahren","article":"das","level":"B2"},
-  {"word":"Anklage","article":"die","level":"B2"},
-
-  {"word":"Verteidigung","article":"die","level":"B2"},
-  {"word":"Urteilsspruch","article":"der","level":"B2"},
-  {"word":"Strafmaß","article":"das","level":"B2"},
-  {"word":"Rechtsstaat","article":"der","level":"B2"},
-  {"word":"Verfassung","article":"die","level":"B2"},
-
-  {"word":"Globalisierung","article":"die","level":"B2"},
-  {"word":"Internationalisierung","article":"die","level":"B2"},
-  {"word":"Handel","article":"der","level":"B2"},
-  {"word":"Export","article":"der","level":"B2"},
-  {"word":"Import","article":"der","level":"B2"},
-
-  {"word":"Lieferkette","article":"die","level":"B2"},
-  {"word":"Produktionsprozess","article":"der","level":"B2"},
-  {"word":"Arbeitsmarkt","article":"der","level":"B2"},
-  {"word":"Arbeitslosigkeit","article":"die","level":"B2"},
-  {"word":"Beschäftigung","article":"die","level":"B2"},
-
-  {"word":"Unternehmen","article":"das","level":"B2"},
-  {"word":"Start-up","article":"das","level":"B2"},
-  {"word":"Geschäftsmodell","article":"das","level":"B2"},
-  {"word":"Profit","article":"der","level":"B2"},
-  {"word":"Verlust","article":"der","level":"B2"},
-
-  {"word":"Strategie","article":"die","level":"B2"},
-  {"word":"Management","article":"das","level":"B2"},
-  {"word":"Führung","article":"die","level":"B2"},
-  {"word":"Organisation","article":"die","level":"B2"},
-  {"word":"Effizienz","article":"die","level":"B2"},
-
-  {"word":"Produktivität","article":"die","level":"B2"},
-  {"word":"Optimierung","article":"die","level":"B2"},
-  {"word":"Innovation","article":"die","level":"B2"},
-  {"word":"Wettbewerbsfähigkeit","article":"die","level":"B2"},
-  {"word":"Marktanteil","article":"der","level":"B2"},
-
-  {"word":"Technologie","article":"die","level":"B2"},
-  {"word":"Künstliche Intelligenz","article":"die","level":"B2"},
-  {"word":"Algorithmus","article":"der","level":"B2"},
-  {"word":"Automatisierung","article":"die","level":"B2"},
-  {"word":"Digitalisierung","article":"die","level":"B2"},
-
-  {"word":"Datenschutz","article":"der","level":"B2"},
-  {"word":"Cybersecurity","article":"die","level":"B2"},
-  {"word":"Verschlüsselung","article":"die","level":"B2"},
-  {"word":"Hacker","article":"der","level":"B2"},
-  {"word":"Angriff","article":"der","level":"B2"},
-
-  {"word":"Softwareentwicklung","article":"die","level":"B2"},
-  {"word":"Programmierer","article":"der","level":"B2"},
-  {"word":"Programmiersprache","article":"die","level":"B2"},
-  {"word":"Code","article":"der","level":"B2"},
-  {"word":"Debugging","article":"das","level":"B2"},
-
-  {"word":"Psychologie","article":"die","level":"B2"},
-  {"word":"Verhalten","article":"das","level":"B2"},
-  {"word":"Emotion","article":"die","level":"B2"},
-  {"word":"Persönlichkeitsentwicklung","article":"die","level":"B2"},
-  {"word":"Selbstwahrnehmung","article":"die","level":"B2"},
-
-  {"word":"Kognition","article":"die","level":"B2"},
-  {"word":"Gedächtnisleistung","article":"die","level":"B2"},
-  {"word":"Aufmerksamkeit","article":"die","level":"B2"},
-  {"word":"Lernfähigkeit","article":"die","level":"B2"},
-  {"word":"Intelligenz","article":"die","level":"B2"},
-
-  {"word":"Gesellschaft","article":"die","level":"B2"},
-  {"word":"Soziologie","article":"die","level":"B2"},
-  {"word":"Kultur","article":"die","level":"B2"},
-  {"word":"Subkultur","article":"die","level":"B2"},
-  {"word":"Integration","article":"die","level":"B2"},
-
-  {"word":"Migration","article":"die","level":"B2"},
-  {"word":"Flüchtling","article":"der","level":"B2"},
-  {"word":"Integration","article":"die","level":"B2"},
-  {"word":"Diskriminierung","article":"die","level":"B2"},
-  {"word":"Gleichberechtigung","article":"die","level":"B2"},
-
-  {"word":"Ethik","article":"die","level":"B2"},
-  {"word":"Moral","article":"die","level":"B2"},
-  {"word":"Wertsystem","article":"das","level":"B2"},
-  {"word":"Philosophie","article":"die","level":"B2"},
-  {"word":"Existenz","article":"die","level":"B2"},
-
-  {"word":"Bewusstsein","article":"das","level":"B2"},
-  {"word":"Realität","article":"die","level":"B2"},
-  {"word":"Wahrheit","article":"die","level":"B2"},
-  {"word":"Fiktion","article":"die","level":"B2"},
-  {"word":"Interpretation","article":"die","level":"B2"},
-
-
-
-  {"word":"Forschung","article":"die","level":"B2"},
-  {"word":"Wissenschaft","article":"die","level":"B2"},
-  {"word":"Experiment","article":"das","level":"B2"},
-  {"word":"Studie","article":"die","level":"B2"},
-  {"word":"Erhebung","article":"die","level":"B2"},
-
-  {"word":"Datensatz","article":"der","level":"B2"},
-  {"word":"Auswertung","article":"die","level":"B2"},
-  {"word":"Statistik","article":"die","level":"B2"},
-  {"word":"Korrelation","article":"die","level":"B2"},
-  {"word":"Ursache","article":"die","level":"B2"},
-
-  {"word":"Wirkung","article":"die","level":"B2"},
-  {"word":"Faktor","article":"der","level":"B2"},
-  {"word":"Einfluss","article":"der","level":"B2"},
-  {"word":"Variable","article":"die","level":"B2"},
-  {"word":"Modell","article":"das","level":"B2"},
-
-  {"word":"Simulation","article":"die","level":"B2"},
-  {"word":"Vorhersage","article":"die","level":"B2"},
-  {"word":"Prognose","article":"die","level":"B2"},
-  {"word":"Entwicklung","article":"die","level":"B2"},
-  {"word":"Trend","article":"der","level":"B2"},
-
-  {"word":"Innovation","article":"die","level":"B2"},
-  {"word":"Erfindung","article":"die","level":"B2"},
-  {"word":"Patent","article":"das","level":"B2"},
-  {"word":"Technologie","article":"die","level":"B2"},
-  {"word":"Fortschritt","article":"der","level":"B2"},
-
-  {"word":"Energieeffizienz","article":"die","level":"B2"},
-  {"word":"Nachhaltigkeit","article":"die","level":"B2"},
-  {"word":"Klimaschutz","article":"der","level":"B2"},
-  {"word":"Emission","article":"die","level":"B2"},
-  {"word":"Kohlenstoff","article":"der","level":"B2"},
-
-  {"word":"Wirtschaft","article":"die","level":"B2"},
-  {"word":"Konjunktur","article":"die","level":"B2"},
-  {"word":"Inflation","article":"die","level":"B2"},
-  {"word":"Deflation","article":"die","level":"B2"},
-  {"word":"Arbeitsmarkt","article":"der","level":"B2"},
-
-  {"word":"Globalisierung","article":"die","level":"B2"},
-  {"word":"Handelsabkommen","article":"das","level":"B2"},
-  {"word":"Zoll","article":"der","level":"B2"},
-  {"word":"Export","article":"der","level":"B2"},
-  {"word":"Import","article":"der","level":"B2"},
-
-  {"word":"Unternehmen","article":"das","level":"B2"},
-  {"word":"Fusion","article":"die","level":"B2"},
-  {"word":"Übernahme","article":"die","level":"B2"},
-  {"word":"Aktie","article":"die","level":"B2"},
-  {"word":"Börse","article":"die","level":"B2"},
-
-  {"word":"Investition","article":"die","level":"B2"},
-  {"word":"Kapital","article":"das","level":"B2"},
-  {"word":"Rendite","article":"die","level":"B2"},
-  {"word":"Risikoanalyse","article":"die","level":"B2"},
-  {"word":"Portfolio","article":"das","level":"B2"},
-
-  {"word":"Management","article":"das","level":"B2"},
-  {"word":"Strategie","article":"die","level":"B2"},
-  {"word":"Planung","article":"die","level":"B2"},
-  {"word":"Controlling","article":"das","level":"B2"},
-  {"word":"Optimierung","article":"die","level":"B2"},
-
-  {"word":"Produktivität","article":"die","level":"B2"},
-  {"word":"Effizienz","article":"die","level":"B2"},
-  {"word":"Qualität","article":"die","level":"B2"},
-  {"word":"Leistung","article":"die","level":"B2"},
-  {"word":"Benchmark","article":"der","level":"B2"},
-
-  {"word":"Gesellschaft","article":"die","level":"B2"},
-  {"word":"Demografie","article":"die","level":"B2"},
-  {"word":"Bevölkerungsentwicklung","article":"die","level":"B2"},
-  {"word":"Urbanisierung","article":"die","level":"B2"},
-  {"word":"Landflucht","article":"die","level":"B2"},
-
-  {"word":"Migration","article":"die","level":"B2"},
-  {"word":"Integration","article":"die","level":"B2"},
-  {"word":"Assimilation","article":"die","level":"B2"},
-  {"word":"Multikulturalismus","article":"der","level":"B2"},
-  {"word":"Identitätspolitik","article":"die","level":"B2"},
-
-  {"word":"Medien","article":"die","level":"B2"},
-  {"word":"Desinformation","article":"die","level":"B2"},
-  {"word":"Falschinformation","article":"die","level":"B2"},
-  {"word":"Manipulation","article":"die","level":"B2"},
-  {"word":"Filterblase","article":"die","level":"B2"},
-
-  {"word":"Algorithmus","article":"der","level":"B2"},
-  {"word":"Künstliche Intelligenz","article":"die","level":"B2"},
-  {"word":"Maschinelles Lernen","article":"das","level":"B2"},
-  {"word":"Neuronales Netzwerk","article":"das","level":"B2"},
-  {"word":"Automatisierung","article":"die","level":"B2"},
-
-  {"word":"Ethik","article":"die","level":"B2"},
-  {"word":"Verantwortung","article":"die","level":"B2"},
-  {"word":"Rechenschaft","article":"die","level":"B2"},
-  {"word":"Transparenz","article":"die","level":"B2"},
-  {"word":"Integrität","article":"die","level":"B2"},
-
-  {"word":"Philosophie","article":"die","level":"B2"},
-  {"word":"Existenzialismus","article":"der","level":"B2"},
-  {"word":"Realität","article":"die","level":"B2"},
-  {"word":"Bewusstsein","article":"das","level":"B2"},
-  {"word":"Sinnfrage","article":"die","level":"B2"}
-
-
+  {
+    "word": "Hund",
+    "article": "der",
+    "level": "A1",
+    "en": "dog"
+  },
+  {
+    "word": "Katze",
+    "article": "die",
+    "level": "A1",
+    "en": "cat"
+  },
+  {
+    "word": "Mann",
+    "article": "der",
+    "level": "A1",
+    "en": "man"
+  },
+  {
+    "word": "Frau",
+    "article": "die",
+    "level": "A1",
+    "en": "woman"
+  },
+  {
+    "word": "Kind",
+    "article": "das",
+    "level": "A1",
+    "en": "child"
+  },
+  {
+    "word": "Haus",
+    "article": "das",
+    "level": "A1",
+    "en": "house"
+  },
+  {
+    "word": "Auto",
+    "article": "das",
+    "level": "A1",
+    "en": "car"
+  },
+  {
+    "word": "Baum",
+    "article": "der",
+    "level": "A1",
+    "en": "tree"
+  },
+  {
+    "word": "Blume",
+    "article": "die",
+    "level": "A1",
+    "en": "flower"
+  },
+  {
+    "word": "Schule",
+    "article": "die",
+    "level": "A1",
+    "en": "school"
+  },
+  {
+    "word": "Tisch",
+    "article": "der",
+    "level": "A1",
+    "en": "table"
+  },
+  {
+    "word": "Stuhl",
+    "article": "der",
+    "level": "A1",
+    "en": "chair"
+  },
+  {
+    "word": "Fenster",
+    "article": "das",
+    "level": "A1",
+    "en": "window"
+  },
+  {
+    "word": "Tür",
+    "article": "die",
+    "level": "A1",
+    "en": "door"
+  },
+  {
+    "word": "Buch",
+    "article": "das",
+    "level": "A1",
+    "en": "book"
+  },
+  {
+    "word": "Heft",
+    "article": "das",
+    "level": "A1",
+    "en": "notebook"
+  },
+  {
+    "word": "Stift",
+    "article": "der",
+    "level": "A1",
+    "en": "pen"
+  },
+  {
+    "word": "Lehrer",
+    "article": "der",
+    "level": "A1",
+    "en": "teacher"
+  },
+  {
+    "word": "Lehrerin",
+    "article": "die",
+    "level": "A1",
+    "en": "teacher"
+  },
+  {
+    "word": "Freund",
+    "article": "der",
+    "level": "A1",
+    "en": "friend"
+  },
+  {
+    "word": "Freundin",
+    "article": "die",
+    "level": "A1",
+    "en": "friend"
+  },
+  {
+    "word": "Vater",
+    "article": "der",
+    "level": "A1",
+    "en": "father"
+  },
+  {
+    "word": "Mutter",
+    "article": "die",
+    "level": "A1",
+    "en": "mother"
+  },
+  {
+    "word": "Bruder",
+    "article": "der",
+    "level": "A1",
+    "en": "brother"
+  },
+  {
+    "word": "Schwester",
+    "article": "die",
+    "level": "A1",
+    "en": "sister"
+  },
+  {
+    "word": "Wasser",
+    "article": "das",
+    "level": "A1",
+    "en": "water"
+  },
+  {
+    "word": "Brot",
+    "article": "das",
+    "level": "A1",
+    "en": "bread"
+  },
+  {
+    "word": "Milch",
+    "article": "die",
+    "level": "A1",
+    "en": "milk"
+  },
+  {
+    "word": "Apfel",
+    "article": "der",
+    "level": "A1",
+    "en": "apple"
+  },
+  {
+    "word": "Banane",
+    "article": "die",
+    "level": "A1",
+    "en": "banana"
+  },
+  {
+    "word": "Obst",
+    "article": "das",
+    "level": "A1",
+    "en": "fruit"
+  },
+  {
+    "word": "Gemüse",
+    "article": "das",
+    "level": "A1",
+    "en": "vegetables"
+  },
+  {
+    "word": "Hundert",
+    "article": "das",
+    "level": "A1",
+    "en": "hundred"
+  },
+  {
+    "word": "Zahl",
+    "article": "die",
+    "level": "A1",
+    "en": "number"
+  },
+  {
+    "word": "Name",
+    "article": "der",
+    "level": "A1",
+    "en": "name"
+  },
+  {
+    "word": "Land",
+    "article": "das",
+    "level": "A1",
+    "en": "country"
+  },
+  {
+    "word": "Stadt",
+    "article": "die",
+    "level": "A1",
+    "en": "city"
+  },
+  {
+    "word": "Straße",
+    "article": "die",
+    "level": "A1",
+    "en": "street"
+  },
+  {
+    "word": "Park",
+    "article": "der",
+    "level": "A1",
+    "en": "park"
+  },
+  {
+    "word": "Markt",
+    "article": "der",
+    "level": "A1",
+    "en": "market"
+  },
+  {
+    "word": "Spiel",
+    "article": "das",
+    "level": "A1",
+    "en": "game"
+  },
+  {
+    "word": "Sport",
+    "article": "der",
+    "level": "A1",
+    "en": "sport"
+  },
+  {
+    "word": "Fußball",
+    "article": "der",
+    "level": "A1",
+    "en": "soccer"
+  },
+  {
+    "word": "Musik",
+    "article": "die",
+    "level": "A1",
+    "en": "music"
+  },
+  {
+    "word": "Film",
+    "article": "der",
+    "level": "A1",
+    "en": "movie"
+  },
+  {
+    "word": "Radio",
+    "article": "das",
+    "level": "A1",
+    "en": "radio"
+  },
+  {
+    "word": "Telefon",
+    "article": "das",
+    "level": "A1",
+    "en": "telephone"
+  },
+  {
+    "word": "Handy",
+    "article": "das",
+    "level": "A1",
+    "en": "cell phone"
+  },
+  {
+    "word": "Computer",
+    "article": "der",
+    "level": "A1",
+    "en": "computer"
+  },
+  {
+    "word": "Internet",
+    "article": "das",
+    "level": "A1",
+    "en": "internet"
+  },
+  {
+    "word": "Zeit",
+    "article": "die",
+    "level": "A1",
+    "en": "time"
+  },
+  {
+    "word": "Tag",
+    "article": "der",
+    "level": "A1",
+    "en": "day"
+  },
+  {
+    "word": "Nacht",
+    "article": "die",
+    "level": "A1",
+    "en": "night"
+  },
+  {
+    "word": "Morgen",
+    "article": "der",
+    "level": "A1",
+    "en": "morning"
+  },
+  {
+    "word": "Abend",
+    "article": "der",
+    "level": "A1",
+    "en": "evening"
+  },
+  {
+    "word": "Woche",
+    "article": "die",
+    "level": "A1",
+    "en": "week"
+  },
+  {
+    "word": "Jahr",
+    "article": "das",
+    "level": "A1",
+    "en": "year"
+  },
+  {
+    "word": "Monat",
+    "article": "der",
+    "level": "A1",
+    "en": "month"
+  },
+  {
+    "word": "Stunde",
+    "article": "die",
+    "level": "A1",
+    "en": "hour"
+  },
+  {
+    "word": "Minute",
+    "article": "die",
+    "level": "A1",
+    "en": "minute"
+  },
+  {
+    "word": "Arbeit",
+    "article": "die",
+    "level": "A1",
+    "en": "work"
+  },
+  {
+    "word": "Job",
+    "article": "der",
+    "level": "A1",
+    "en": "job"
+  },
+  {
+    "word": "Geld",
+    "article": "das",
+    "level": "A1",
+    "en": "money"
+  },
+  {
+    "word": "Hausaufgabe",
+    "article": "die",
+    "level": "A1",
+    "en": "homework"
+  },
+  {
+    "word": "Frage",
+    "article": "die",
+    "level": "A1",
+    "en": "question"
+  },
+  {
+    "word": "Antwort",
+    "article": "die",
+    "level": "A1",
+    "en": "answer"
+  },
+  {
+    "word": "Wort",
+    "article": "das",
+    "level": "A1",
+    "en": "word"
+  },
+  {
+    "word": "Sprache",
+    "article": "die",
+    "level": "A1",
+    "en": "language"
+  },
+  {
+    "word": "Deutsch",
+    "article": "das",
+    "level": "A1",
+    "en": "German (language)"
+  },
+  {
+    "word": "Englisch",
+    "article": "das",
+    "level": "A1",
+    "en": "English (language)"
+  },
+  {
+    "word": "Liebe",
+    "article": "die",
+    "level": "A1",
+    "en": "love"
+  },
+  {
+    "word": "Glück",
+    "article": "das",
+    "level": "A1",
+    "en": "luck/happiness"
+  },
+  {
+    "word": "Problem",
+    "article": "das",
+    "level": "A1",
+    "en": "problem"
+  },
+  {
+    "word": "Wetter",
+    "article": "das",
+    "level": "A1",
+    "en": "weather"
+  },
+  {
+    "word": "Sonne",
+    "article": "die",
+    "level": "A1",
+    "en": "sun"
+  },
+  {
+    "word": "Regen",
+    "article": "der",
+    "level": "A1",
+    "en": "rain"
+  },
+  {
+    "word": "Wind",
+    "article": "der",
+    "level": "A1",
+    "en": "wind"
+  },
+  {
+    "word": "Schnee",
+    "article": "der",
+    "level": "A1",
+    "en": "snow"
+  },
+  {
+    "word": "Sommer",
+    "article": "der",
+    "level": "A1",
+    "en": "summer"
+  },
+  {
+    "word": "Winter",
+    "article": "der",
+    "level": "A1",
+    "en": "winter"
+  },
+  {
+    "word": "Frühling",
+    "article": "der",
+    "level": "A1",
+    "en": "spring"
+  },
+  {
+    "word": "Herbst",
+    "article": "der",
+    "level": "A1",
+    "en": "autumn"
+  },
+  {
+    "word": "Urlaub",
+    "article": "der",
+    "level": "A1",
+    "en": "vacation"
+  },
+  {
+    "word": "Reise",
+    "article": "die",
+    "level": "A1",
+    "en": "trip"
+  },
+  {
+    "word": "Hotel",
+    "article": "das",
+    "level": "A1",
+    "en": "hotel"
+  },
+  {
+    "word": "Zimmer",
+    "article": "das",
+    "level": "A1",
+    "en": "room"
+  },
+  {
+    "word": "Küche",
+    "article": "die",
+    "level": "A1",
+    "en": "kitchen"
+  },
+  {
+    "word": "Bad",
+    "article": "das",
+    "level": "A1",
+    "en": "bathroom"
+  },
+  {
+    "word": "Wohnung",
+    "article": "die",
+    "level": "A1",
+    "en": "apartment"
+  },
+  {
+    "word": "Familie",
+    "article": "die",
+    "level": "A1",
+    "en": "family"
+  },
+  {
+    "word": "Polizei",
+    "article": "die",
+    "level": "A1",
+    "en": "police"
+  },
+  {
+    "word": "Arzt",
+    "article": "der",
+    "level": "A1",
+    "en": "doctor"
+  },
+  {
+    "word": "Krankenhaus",
+    "article": "das",
+    "level": "A1",
+    "en": "hospital"
+  },
+  {
+    "word": "Gesundheit",
+    "article": "die",
+    "level": "A1",
+    "en": "health"
+  },
+  {
+    "word": "Krankheit",
+    "article": "die",
+    "level": "A1",
+    "en": "illness"
+  },
+  {
+    "word": "Kopf",
+    "article": "der",
+    "level": "A1",
+    "en": "head"
+  },
+  {
+    "word": "Hand",
+    "article": "die",
+    "level": "A1",
+    "en": "hand"
+  },
+  {
+    "word": "Fuß",
+    "article": "der",
+    "level": "A1",
+    "en": "foot"
+  },
+  {
+    "word": "Auge",
+    "article": "das",
+    "level": "A1",
+    "en": "eye"
+  },
+  {
+    "word": "Ohr",
+    "article": "das",
+    "level": "A1",
+    "en": "ear"
+  },
+  {
+    "word": "Liebe",
+    "article": "die",
+    "level": "A1",
+    "en": "love"
+  },
+  {
+    "word": "Freude",
+    "article": "die",
+    "level": "A1",
+    "en": "joy"
+  },
+  {
+    "word": "Angst",
+    "article": "die",
+    "level": "A1",
+    "en": "fear"
+  },
+  {
+    "word": "Stimme",
+    "article": "die",
+    "level": "A1",
+    "en": "voice"
+  },
+  {
+    "word": "Licht",
+    "article": "das",
+    "level": "A1",
+    "en": "light"
+  },
+  {
+    "word": "Dunkelheit",
+    "article": "die",
+    "level": "A1",
+    "en": "darkness"
+  },
+  {
+    "word": "Stadtzentrum",
+    "article": "das",
+    "level": "A1",
+    "en": "city center"
+  },
+  {
+    "word": "Bahnhof",
+    "article": "der",
+    "level": "A1",
+    "en": "train station"
+  },
+  {
+    "word": "Bus",
+    "article": "der",
+    "level": "A1",
+    "en": "bus"
+  },
+  {
+    "word": "Zug",
+    "article": "der",
+    "level": "A1",
+    "en": "train"
+  },
+  {
+    "word": "Kaffee",
+    "article": "der",
+    "level": "A1",
+    "en": "coffee"
+  },
+  {
+    "word": "Tee",
+    "article": "der",
+    "level": "A1",
+    "en": "tea"
+  },
+  {
+    "word": "Saft",
+    "article": "der",
+    "level": "A1",
+    "en": "juice"
+  },
+  {
+    "word": "Wasser",
+    "article": "das",
+    "level": "A1",
+    "en": "water"
+  },
+  {
+    "word": "Zucker",
+    "article": "der",
+    "level": "A1",
+    "en": "sugar"
+  },
+  {
+    "word": "Salz",
+    "article": "das",
+    "level": "A1",
+    "en": "salt"
+  },
+  {
+    "word": "Butter",
+    "article": "die",
+    "level": "A1",
+    "en": "butter"
+  },
+  {
+    "word": "Käse",
+    "article": "der",
+    "level": "A1",
+    "en": "cheese"
+  },
+  {
+    "word": "Essen",
+    "article": "das",
+    "level": "A1",
+    "en": "food"
+  },
+  {
+    "word": "Frühstück",
+    "article": "das",
+    "level": "A1",
+    "en": "breakfast"
+  },
+  {
+    "word": "Mittagessen",
+    "article": "das",
+    "level": "A1",
+    "en": "lunch"
+  },
+  {
+    "word": "Abendessen",
+    "article": "das",
+    "level": "A1",
+    "en": "dinner"
+  },
+  {
+    "word": "Hunger",
+    "article": "der",
+    "level": "A1",
+    "en": "hunger"
+  },
+  {
+    "word": "Durst",
+    "article": "der",
+    "level": "A1",
+    "en": "thirst"
+  },
+  {
+    "word": "Restaurant",
+    "article": "das",
+    "level": "A1",
+    "en": "restaurant"
+  },
+  {
+    "word": "Café",
+    "article": "das",
+    "level": "A1",
+    "en": "café"
+  },
+  {
+    "word": "Supermarkt",
+    "article": "der",
+    "level": "A1",
+    "en": "supermarket"
+  },
+  {
+    "word": "Geschäft",
+    "article": "das",
+    "level": "A1",
+    "en": "shop/business"
+  },
+  {
+    "word": "Einkauf",
+    "article": "der",
+    "level": "A1",
+    "en": "shopping"
+  },
+  {
+    "word": "Preis",
+    "article": "der",
+    "level": "A1",
+    "en": "price"
+  },
+  {
+    "word": "Euro",
+    "article": "der",
+    "level": "A1",
+    "en": "euro"
+  },
+  {
+    "word": "Karte",
+    "article": "die",
+    "level": "A1",
+    "en": "card/map"
+  },
+  {
+    "word": "Ticket",
+    "article": "das",
+    "level": "A1",
+    "en": "ticket"
+  },
+  {
+    "word": "Pass",
+    "article": "der",
+    "level": "A1",
+    "en": "passport"
+  },
+  {
+    "word": "Reisepass",
+    "article": "der",
+    "level": "A1",
+    "en": "passport"
+  },
+  {
+    "word": "Grenze",
+    "article": "die",
+    "level": "A1",
+    "en": "border"
+  },
+  {
+    "word": "Flughafen",
+    "article": "der",
+    "level": "A1",
+    "en": "airport"
+  },
+  {
+    "word": "Flug",
+    "article": "der",
+    "level": "A1",
+    "en": "flight"
+  },
+  {
+    "word": "Flugzeug",
+    "article": "das",
+    "level": "A1",
+    "en": "airplane"
+  },
+  {
+    "word": "Schiff",
+    "article": "das",
+    "level": "A1",
+    "en": "ship"
+  },
+  {
+    "word": "Meer",
+    "article": "das",
+    "level": "A1",
+    "en": "sea"
+  },
+  {
+    "word": "See",
+    "article": "der",
+    "level": "A1",
+    "en": "lake"
+  },
+  {
+    "word": "Fluss",
+    "article": "der",
+    "level": "A1",
+    "en": "river"
+  },
+  {
+    "word": "Berg",
+    "article": "der",
+    "level": "A1",
+    "en": "mountain"
+  },
+  {
+    "word": "Wald",
+    "article": "der",
+    "level": "A1",
+    "en": "forest"
+  },
+  {
+    "word": "Natur",
+    "article": "die",
+    "level": "A1",
+    "en": "nature"
+  },
+  {
+    "word": "Tier",
+    "article": "das",
+    "level": "A1",
+    "en": "animal"
+  },
+  {
+    "word": "Vogel",
+    "article": "der",
+    "level": "A1",
+    "en": "bird"
+  },
+  {
+    "word": "Fisch",
+    "article": "der",
+    "level": "A1",
+    "en": "fish"
+  },
+  {
+    "word": "Pferd",
+    "article": "das",
+    "level": "A1",
+    "en": "horse"
+  },
+  {
+    "word": "Rind",
+    "article": "das",
+    "level": "A1",
+    "en": "cattle/beef"
+  },
+  {
+    "word": "Schwein",
+    "article": "das",
+    "level": "A1",
+    "en": "pig"
+  },
+  {
+    "word": "Huhn",
+    "article": "das",
+    "level": "A1",
+    "en": "chicken"
+  },
+  {
+    "word": "Ei",
+    "article": "das",
+    "level": "A1",
+    "en": "egg"
+  },
+  {
+    "word": "Kuchen",
+    "article": "der",
+    "level": "A1",
+    "en": "cake"
+  },
+  {
+    "word": "Schokolade",
+    "article": "die",
+    "level": "A1",
+    "en": "chocolate"
+  },
+  {
+    "word": "Bonbon",
+    "article": "das",
+    "level": "A1",
+    "en": "candy"
+  },
+  {
+    "word": "Eis",
+    "article": "das",
+    "level": "A1",
+    "en": "ice/ice cream"
+  },
+  {
+    "word": "Geburtstag",
+    "article": "der",
+    "level": "A1",
+    "en": "birthday"
+  },
+  {
+    "word": "Geschenk",
+    "article": "das",
+    "level": "A1",
+    "en": "gift"
+  },
+  {
+    "word": "Party",
+    "article": "die",
+    "level": "A1",
+    "en": "party (celebration)"
+  },
+  {
+    "word": "Feier",
+    "article": "die",
+    "level": "A1",
+    "en": "celebration"
+  },
+  {
+    "word": "Musiker",
+    "article": "der",
+    "level": "A1",
+    "en": "musician"
+  },
+  {
+    "word": "Sänger",
+    "article": "der",
+    "level": "A1",
+    "en": "singer"
+  },
+  {
+    "word": "Band",
+    "article": "die",
+    "level": "A1",
+    "en": "band (music)"
+  },
+  {
+    "word": "Lied",
+    "article": "das",
+    "level": "A1",
+    "en": "song"
+  },
+  {
+    "word": "Gitarre",
+    "article": "die",
+    "level": "A1",
+    "en": "guitar"
+  },
+  {
+    "word": "Klavier",
+    "article": "das",
+    "level": "A1",
+    "en": "piano"
+  },
+  {
+    "word": "Trommel",
+    "article": "die",
+    "level": "A1",
+    "en": "drum"
+  },
+  {
+    "word": "Kino",
+    "article": "das",
+    "level": "A1",
+    "en": "cinema"
+  },
+  {
+    "word": "Theater",
+    "article": "das",
+    "level": "A1",
+    "en": "theater"
+  },
+  {
+    "word": "Buchhandlung",
+    "article": "die",
+    "level": "A1",
+    "en": "bookstore"
+  },
+  {
+    "word": "Bibliothek",
+    "article": "die",
+    "level": "A1",
+    "en": "library"
+  },
+  {
+    "word": "Zeitung",
+    "article": "die",
+    "level": "A1",
+    "en": "newspaper"
+  },
+  {
+    "word": "Magazin",
+    "article": "das",
+    "level": "A1",
+    "en": "magazine"
+  },
+  {
+    "word": "Nachricht",
+    "article": "die",
+    "level": "A1",
+    "en": "message/news"
+  },
+  {
+    "word": "Internetseite",
+    "article": "die",
+    "level": "A1",
+    "en": "website"
+  },
+  {
+    "word": "Foto",
+    "article": "das",
+    "level": "A1",
+    "en": "photo"
+  },
+  {
+    "word": "Bild",
+    "article": "das",
+    "level": "A1",
+    "en": "picture"
+  },
+  {
+    "word": "Video",
+    "article": "das",
+    "level": "A1",
+    "en": "video"
+  },
+  {
+    "word": "Computermaus",
+    "article": "die",
+    "level": "A1",
+    "en": "computer mouse"
+  },
+  {
+    "word": "Tastatur",
+    "article": "die",
+    "level": "A1",
+    "en": "keyboard"
+  },
+  {
+    "word": "Bildschirm",
+    "article": "der",
+    "level": "A1",
+    "en": "screen"
+  },
+  {
+    "word": "Drucker",
+    "article": "der",
+    "level": "A1",
+    "en": "printer"
+  },
+  {
+    "word": "Kabel",
+    "article": "das",
+    "level": "A1",
+    "en": "cable"
+  },
+  {
+    "word": "Lampe",
+    "article": "die",
+    "level": "A1",
+    "en": "lamp"
+  },
+  {
+    "word": "Strom",
+    "article": "der",
+    "level": "A1",
+    "en": "electricity"
+  },
+  {
+    "word": "Türschlüssel",
+    "article": "der",
+    "level": "A1",
+    "en": "door key"
+  },
+  {
+    "word": "Uhr",
+    "article": "die",
+    "level": "A1",
+    "en": "clock"
+  },
+  {
+    "word": "Wecker",
+    "article": "der",
+    "level": "A1",
+    "en": "alarm clock"
+  },
+  {
+    "word": "Bett",
+    "article": "das",
+    "level": "A1",
+    "en": "bed"
+  },
+  {
+    "word": "Sofa",
+    "article": "das",
+    "level": "A1",
+    "en": "sofa"
+  },
+  {
+    "word": "Teppich",
+    "article": "der",
+    "level": "A1",
+    "en": "carpet"
+  },
+  {
+    "word": "Schrank",
+    "article": "der",
+    "level": "A1",
+    "en": "closet"
+  },
+  {
+    "word": "Spiegel",
+    "article": "der",
+    "level": "A1",
+    "en": "mirror"
+  },
+  {
+    "word": "Fensterbank",
+    "article": "die",
+    "level": "A1",
+    "en": "windowsill"
+  },
+  {
+    "word": "Garage",
+    "article": "die",
+    "level": "A1",
+    "en": "garage"
+  },
+  {
+    "word": "Gartenhaus",
+    "article": "das",
+    "level": "A1",
+    "en": "garden shed"
+  },
+  {
+    "word": "Nachbar",
+    "article": "der",
+    "level": "A1",
+    "en": "neighbor"
+  },
+  {
+    "word": "Straßenbahn",
+    "article": "die",
+    "level": "A1",
+    "en": "tram"
+  },
+  {
+    "word": "Telefonbuch",
+    "article": "das",
+    "level": "A1",
+    "en": "phone book"
+  },
+  {
+    "word": "Adresse",
+    "article": "die",
+    "level": "A1",
+    "en": "address"
+  },
+  {
+    "word": "Post",
+    "article": "die",
+    "level": "A1",
+    "en": "mail"
+  },
+  {
+    "word": "Brief",
+    "article": "der",
+    "level": "A1",
+    "en": "letter"
+  },
+  {
+    "word": "Paket",
+    "article": "das",
+    "level": "A1",
+    "en": "package"
+  },
+  {
+    "word": "Postkarte",
+    "article": "die",
+    "level": "A1",
+    "en": "postcard"
+  },
+  {
+    "word": "Unterschrift",
+    "article": "die",
+    "level": "A1",
+    "en": "signature"
+  },
+  {
+    "word": "Dokument",
+    "article": "das",
+    "level": "A1",
+    "en": "document"
+  },
+  {
+    "word": "Formular",
+    "article": "das",
+    "level": "A1",
+    "en": "form (document)"
+  },
+  {
+    "word": "Stadtplan",
+    "article": "der",
+    "level": "A1",
+    "en": "city map"
+  },
+  {
+    "word": "Weg",
+    "article": "der",
+    "level": "A1",
+    "en": "way/path"
+  },
+  {
+    "word": "Brücke",
+    "article": "die",
+    "level": "A1",
+    "en": "bridge"
+  },
+  {
+    "word": "Hausnummer",
+    "article": "die",
+    "level": "A1",
+    "en": "house number"
+  },
+  {
+    "word": "Stock",
+    "article": "der",
+    "level": "A1",
+    "en": "floor (storey)"
+  },
+  {
+    "word": "Aufzug",
+    "article": "der",
+    "level": "A1",
+    "en": "elevator"
+  },
+  {
+    "word": "Treppenhaus",
+    "article": "das",
+    "level": "A1",
+    "en": "stairwell"
+  },
+  {
+    "word": "Klingel",
+    "article": "die",
+    "level": "A1",
+    "en": "doorbell"
+  },
+  {
+    "word": "Schlüsselbund",
+    "article": "der",
+    "level": "A1",
+    "en": "key ring"
+  },
+  {
+    "word": "Tasche",
+    "article": "die",
+    "level": "A1",
+    "en": "bag"
+  },
+  {
+    "word": "Rucksack",
+    "article": "der",
+    "level": "A1",
+    "en": "backpack"
+  },
+  {
+    "word": "Koffer",
+    "article": "der",
+    "level": "A1",
+    "en": "suitcase"
+  },
+  {
+    "word": "Gepäck",
+    "article": "das",
+    "level": "A1",
+    "en": "luggage"
+  },
+  {
+    "word": "Reisetasche",
+    "article": "die",
+    "level": "A1",
+    "en": "travel bag"
+  },
+  {
+    "word": "Sonnenbrille",
+    "article": "die",
+    "level": "A1",
+    "en": "sunglasses"
+  },
+  {
+    "word": "Hut",
+    "article": "der",
+    "level": "A1",
+    "en": "hat"
+  },
+  {
+    "word": "Jacke",
+    "article": "die",
+    "level": "A1",
+    "en": "jacket"
+  },
+  {
+    "word": "Mantel",
+    "article": "der",
+    "level": "A1",
+    "en": "coat"
+  },
+  {
+    "word": "Schuh",
+    "article": "der",
+    "level": "A1",
+    "en": "shoe"
+  },
+  {
+    "word": "Socken",
+    "article": "die",
+    "level": "A1",
+    "en": "socks"
+  },
+  {
+    "word": "Hose",
+    "article": "die",
+    "level": "A1",
+    "en": "pants"
+  },
+  {
+    "word": "Shirt",
+    "article": "das",
+    "level": "A1",
+    "en": "shirt"
+  },
+  {
+    "word": "Kleid",
+    "article": "das",
+    "level": "A1",
+    "en": "dress"
+  },
+  {
+    "word": "Rock",
+    "article": "der",
+    "level": "A1",
+    "en": "skirt"
+  },
+  {
+    "word": "Krawatte",
+    "article": "die",
+    "level": "A1",
+    "en": "tie"
+  },
+  {
+    "word": "Schal",
+    "article": "der",
+    "level": "A1",
+    "en": "scarf"
+  },
+  {
+    "word": "Handschuh",
+    "article": "der",
+    "level": "A1",
+    "en": "glove"
+  },
+  {
+    "word": "Regenschirm",
+    "article": "der",
+    "level": "A1",
+    "en": "umbrella"
+  },
+  {
+    "word": "Sonnebrille",
+    "article": "die",
+    "level": "A1",
+    "en": "sunglasses"
+  },
+  {
+    "word": "Sonne",
+    "article": "die",
+    "level": "A1",
+    "en": "sun"
+  },
+  {
+    "word": "Mond",
+    "article": "der",
+    "level": "A1",
+    "en": "moon"
+  },
+  {
+    "word": "Stern",
+    "article": "der",
+    "level": "A1",
+    "en": "star"
+  },
+  {
+    "word": "Himmel",
+    "article": "der",
+    "level": "A1",
+    "en": "sky"
+  },
+  {
+    "word": "Wolke",
+    "article": "die",
+    "level": "A1",
+    "en": "cloud"
+  },
+  {
+    "word": "Luft",
+    "article": "die",
+    "level": "A1",
+    "en": "air"
+  },
+  {
+    "word": "Erde",
+    "article": "die",
+    "level": "A1",
+    "en": "earth"
+  },
+  {
+    "word": "Feuer",
+    "article": "das",
+    "level": "A1",
+    "en": "fire"
+  },
+  {
+    "word": "Wasserfall",
+    "article": "der",
+    "level": "A1",
+    "en": "waterfall"
+  },
+  {
+    "word": "Insel",
+    "article": "die",
+    "level": "A1",
+    "en": "island"
+  },
+  {
+    "word": "Strand",
+    "article": "der",
+    "level": "A1",
+    "en": "beach"
+  },
+  {
+    "word": "Sand",
+    "article": "der",
+    "level": "A1",
+    "en": "sand"
+  },
+  {
+    "word": "Welle",
+    "article": "die",
+    "level": "A1",
+    "en": "wave"
+  },
+  {
+    "word": "Boot",
+    "article": "das",
+    "level": "A1",
+    "en": "boat"
+  },
+  {
+    "word": "Fahrrad",
+    "article": "das",
+    "level": "A1",
+    "en": "bicycle"
+  },
+  {
+    "word": "Motorrad",
+    "article": "das",
+    "level": "A1",
+    "en": "motorcycle"
+  },
+  {
+    "word": "Autohaus",
+    "article": "das",
+    "level": "A1",
+    "en": "car dealership"
+  },
+  {
+    "word": "Tankstelle",
+    "article": "die",
+    "level": "A1",
+    "en": "gas station"
+  },
+  {
+    "word": "Straßenschild",
+    "article": "das",
+    "level": "A1",
+    "en": "street sign"
+  },
+  {
+    "word": "Ampel",
+    "article": "die",
+    "level": "A1",
+    "en": "traffic light"
+  },
+  {
+    "word": "Polizist",
+    "article": "der",
+    "level": "A1",
+    "en": "police officer"
+  },
+  {
+    "word": "Feuerwehr",
+    "article": "die",
+    "level": "A1",
+    "en": "fire department"
+  },
+  {
+    "word": "Krankenwagen",
+    "article": "der",
+    "level": "A1",
+    "en": "ambulance"
+  },
+  {
+    "word": "Unfall",
+    "article": "der",
+    "level": "A1",
+    "en": "accident"
+  },
+  {
+    "word": "Gefahr",
+    "article": "die",
+    "level": "A1",
+    "en": "danger"
+  },
+  {
+    "word": "Sicherheit",
+    "article": "die",
+    "level": "A1",
+    "en": "safety/security"
+  },
+  {
+    "word": "Hilfe",
+    "article": "die",
+    "level": "A1",
+    "en": "help"
+  },
+  {
+    "word": "Lärm",
+    "article": "der",
+    "level": "A1",
+    "en": "noise"
+  },
+  {
+    "word": "Stille",
+    "article": "die",
+    "level": "A1",
+    "en": "silence"
+  },
+  {
+    "word": "Geräusch",
+    "article": "das",
+    "level": "A1",
+    "en": "sound/noise"
+  },
+  {
+    "word": "Geruch",
+    "article": "der",
+    "level": "A1",
+    "en": "smell"
+  },
+  {
+    "word": "Geschmack",
+    "article": "der",
+    "level": "A1",
+    "en": "taste"
+  },
+  {
+    "word": "Gefühl",
+    "article": "das",
+    "level": "A1",
+    "en": "feeling"
+  },
+  {
+    "word": "Herz",
+    "article": "das",
+    "level": "A1",
+    "en": "heart"
+  },
+  {
+    "word": "Gedächtnis",
+    "article": "das",
+    "level": "A1",
+    "en": "memory"
+  },
+  {
+    "word": "Verstand",
+    "article": "der",
+    "level": "A1",
+    "en": "mind/reason"
+  },
+  {
+    "word": "Gedanke",
+    "article": "der",
+    "level": "A1",
+    "en": "thought"
+  },
+  {
+    "word": "Körper",
+    "article": "der",
+    "level": "A1",
+    "en": "body"
+  },
+  {
+    "word": "Gesicht",
+    "article": "das",
+    "level": "A1",
+    "en": "face"
+  },
+  {
+    "word": "Nase",
+    "article": "die",
+    "level": "A1",
+    "en": "nose"
+  },
+  {
+    "word": "Mund",
+    "article": "der",
+    "level": "A1",
+    "en": "mouth"
+  },
+  {
+    "word": "Zahn",
+    "article": "der",
+    "level": "A1",
+    "en": "tooth"
+  },
+  {
+    "word": "Leben",
+    "article": "das",
+    "level": "A1",
+    "en": "life"
+  },
+  {
+    "word": "Tod",
+    "article": "der",
+    "level": "A1",
+    "en": "death"
+  },
+  {
+    "word": "Geburt",
+    "article": "die",
+    "level": "A1",
+    "en": "birth"
+  },
+  {
+    "word": "Zukunft",
+    "article": "die",
+    "level": "A1",
+    "en": "future"
+  },
+  {
+    "word": "Vergangenheit",
+    "article": "die",
+    "level": "A1",
+    "en": "past"
+  },
+  {
+    "word": "Gegenwart",
+    "article": "die",
+    "level": "A1",
+    "en": "present (time)"
+  },
+  {
+    "word": "Welt",
+    "article": "die",
+    "level": "A1",
+    "en": "world"
+  },
+  {
+    "word": "Landkarte",
+    "article": "die",
+    "level": "A1",
+    "en": "map"
+  },
+  {
+    "word": "Kontinent",
+    "article": "der",
+    "level": "A1",
+    "en": "continent"
+  },
+  {
+    "word": "Ozean",
+    "article": "der",
+    "level": "A1",
+    "en": "ocean"
+  },
+  {
+    "word": "Garten",
+    "article": "der",
+    "level": "A2",
+    "en": "garden"
+  },
+  {
+    "word": "Wohnung",
+    "article": "die",
+    "level": "A2",
+    "en": "apartment"
+  },
+  {
+    "word": "Zimmer",
+    "article": "das",
+    "level": "A2",
+    "en": "room"
+  },
+  {
+    "word": "Küche",
+    "article": "die",
+    "level": "A2",
+    "en": "kitchen"
+  },
+  {
+    "word": "Bad",
+    "article": "das",
+    "level": "A2",
+    "en": "bathroom"
+  },
+  {
+    "word": "Balkon",
+    "article": "der",
+    "level": "A2",
+    "en": "balcony"
+  },
+  {
+    "word": "Hausarbeit",
+    "article": "die",
+    "level": "A2",
+    "en": "housework"
+  },
+  {
+    "word": "Reinigung",
+    "article": "die",
+    "level": "A2",
+    "en": "cleaning"
+  },
+  {
+    "word": "Staubsauger",
+    "article": "der",
+    "level": "A2",
+    "en": "vacuum cleaner"
+  },
+  {
+    "word": "Waschmaschine",
+    "article": "die",
+    "level": "A2",
+    "en": "washing machine"
+  },
+  {
+    "word": "Kühlschrank",
+    "article": "der",
+    "level": "A2",
+    "en": "refrigerator"
+  },
+  {
+    "word": "Ofen",
+    "article": "der",
+    "level": "A2",
+    "en": "oven"
+  },
+  {
+    "word": "Mikrowelle",
+    "article": "die",
+    "level": "A2",
+    "en": "microwave"
+  },
+  {
+    "word": "Geschirr",
+    "article": "das",
+    "level": "A2",
+    "en": "dishes"
+  },
+  {
+    "word": "Teller",
+    "article": "der",
+    "level": "A2",
+    "en": "plate"
+  },
+  {
+    "word": "Glas",
+    "article": "das",
+    "level": "A2",
+    "en": "glass"
+  },
+  {
+    "word": "Löffel",
+    "article": "der",
+    "level": "A2",
+    "en": "spoon"
+  },
+  {
+    "word": "Messer",
+    "article": "das",
+    "level": "A2",
+    "en": "knife"
+  },
+  {
+    "word": "Gabel",
+    "article": "die",
+    "level": "A2",
+    "en": "fork"
+  },
+  {
+    "word": "Topf",
+    "article": "der",
+    "level": "A2",
+    "en": "pot"
+  },
+  {
+    "word": "Pfanne",
+    "article": "die",
+    "level": "A2",
+    "en": "frying pan"
+  },
+  {
+    "word": "Kochen",
+    "article": "das",
+    "level": "A2",
+    "en": "cooking"
+  },
+  {
+    "word": "Rezept",
+    "article": "das",
+    "level": "A2",
+    "en": "recipe"
+  },
+  {
+    "word": "Zutat",
+    "article": "die",
+    "level": "A2",
+    "en": "ingredient"
+  },
+  {
+    "word": "Geschmack",
+    "article": "der",
+    "level": "A2",
+    "en": "taste"
+  },
+  {
+    "word": "Arbeitgeber",
+    "article": "der",
+    "level": "A2",
+    "en": "employer"
+  },
+  {
+    "word": "Arbeitnehmer",
+    "article": "der",
+    "level": "A2",
+    "en": "employee"
+  },
+  {
+    "word": "Kollege",
+    "article": "der",
+    "level": "A2",
+    "en": "colleague"
+  },
+  {
+    "word": "Kollegin",
+    "article": "die",
+    "level": "A2",
+    "en": "colleague"
+  },
+  {
+    "word": "Büro",
+    "article": "das",
+    "level": "A2",
+    "en": "office"
+  },
+  {
+    "word": "Computerprogramm",
+    "article": "das",
+    "level": "A2",
+    "en": "computer program"
+  },
+  {
+    "word": "Datei",
+    "article": "die",
+    "level": "A2",
+    "en": "file (computer)"
+  },
+  {
+    "word": "Ordner",
+    "article": "der",
+    "level": "A2",
+    "en": "folder"
+  },
+  {
+    "word": "E-Mail",
+    "article": "die",
+    "level": "A2",
+    "en": "email"
+  },
+  {
+    "word": "Passwort",
+    "article": "das",
+    "level": "A2",
+    "en": "password"
+  },
+  {
+    "word": "Website",
+    "article": "die",
+    "level": "A2",
+    "en": "website"
+  },
+  {
+    "word": "Benutzer",
+    "article": "der",
+    "level": "A2",
+    "en": "user"
+  },
+  {
+    "word": "Login",
+    "article": "das",
+    "level": "A2",
+    "en": "login"
+  },
+  {
+    "word": "Account",
+    "article": "der",
+    "level": "A2",
+    "en": "account"
+  },
+  {
+    "word": "Profil",
+    "article": "das",
+    "level": "A2",
+    "en": "profile"
+  },
+  {
+    "word": "Marke",
+    "article": "die",
+    "level": "A2",
+    "en": "brand"
+  },
+  {
+    "word": "Produkt",
+    "article": "das",
+    "level": "A2",
+    "en": "product"
+  },
+  {
+    "word": "Firma",
+    "article": "die",
+    "level": "A2",
+    "en": "company"
+  },
+  {
+    "word": "Unternehmen",
+    "article": "das",
+    "level": "A2",
+    "en": "company"
+  },
+  {
+    "word": "Kunde",
+    "article": "der",
+    "level": "A2",
+    "en": "customer"
+  },
+  {
+    "word": "Kundin",
+    "article": "die",
+    "level": "A2",
+    "en": "customer"
+  },
+  {
+    "word": "Service",
+    "article": "der",
+    "level": "A2",
+    "en": "service"
+  },
+  {
+    "word": "Garantie",
+    "article": "die",
+    "level": "A2",
+    "en": "guarantee"
+  },
+  {
+    "word": "Rabatt",
+    "article": "der",
+    "level": "A2",
+    "en": "discount"
+  },
+  {
+    "word": "Angebot",
+    "article": "das",
+    "level": "A2",
+    "en": "offer"
+  },
+  {
+    "word": "Bestellung",
+    "article": "die",
+    "level": "A2",
+    "en": "order"
+  },
+  {
+    "word": "Lieferung",
+    "article": "die",
+    "level": "A2",
+    "en": "delivery"
+  },
+  {
+    "word": "Paket",
+    "article": "das",
+    "level": "A2",
+    "en": "package"
+  },
+  {
+    "word": "Versand",
+    "article": "der",
+    "level": "A2",
+    "en": "shipping"
+  },
+  {
+    "word": "Zahlung",
+    "article": "die",
+    "level": "A2",
+    "en": "payment"
+  },
+  {
+    "word": "Konto",
+    "article": "das",
+    "level": "A2",
+    "en": "account (bank)"
+  },
+  {
+    "word": "Bank",
+    "article": "die",
+    "level": "A2",
+    "en": "bank"
+  },
+  {
+    "word": "Girokonto",
+    "article": "das",
+    "level": "A2",
+    "en": "checking account"
+  },
+  {
+    "word": "Geldautomat",
+    "article": "der",
+    "level": "A2",
+    "en": "ATM"
+  },
+  {
+    "word": "Kreditkarte",
+    "article": "die",
+    "level": "A2",
+    "en": "credit card"
+  },
+  {
+    "word": "Versicherung",
+    "article": "die",
+    "level": "A2",
+    "en": "insurance"
+  },
+  {
+    "word": "Vertrag",
+    "article": "der",
+    "level": "A2",
+    "en": "contract"
+  },
+  {
+    "word": "Regel",
+    "article": "die",
+    "level": "A2",
+    "en": "rule"
+  },
+  {
+    "word": "Gesetz",
+    "article": "das",
+    "level": "A2",
+    "en": "law"
+  },
+  {
+    "word": "Staat",
+    "article": "der",
+    "level": "A2",
+    "en": "state"
+  },
+  {
+    "word": "Politik",
+    "article": "die",
+    "level": "A2",
+    "en": "politics"
+  },
+  {
+    "word": "Wahl",
+    "article": "die",
+    "level": "A2",
+    "en": "election/choice"
+  },
+  {
+    "word": "Partei",
+    "article": "die",
+    "level": "A2",
+    "en": "party (political)"
+  },
+  {
+    "word": "Regierung",
+    "article": "die",
+    "level": "A2",
+    "en": "government"
+  },
+  {
+    "word": "Bürger",
+    "article": "der",
+    "level": "A2",
+    "en": "citizen"
+  },
+  {
+    "word": "Bürgerin",
+    "article": "die",
+    "level": "A2",
+    "en": "citizen"
+  },
+  {
+    "word": "Stadtverwaltung",
+    "article": "die",
+    "level": "A2",
+    "en": "city administration"
+  },
+  {
+    "word": "Amt",
+    "article": "das",
+    "level": "A2",
+    "en": "office (authority)"
+  },
+  {
+    "word": "Formular",
+    "article": "das",
+    "level": "A2",
+    "en": "form (document)"
+  },
+  {
+    "word": "Termin",
+    "article": "der",
+    "level": "A2",
+    "en": "appointment"
+  },
+  {
+    "word": "Doktor",
+    "article": "der",
+    "level": "A2",
+    "en": "doctor"
+  },
+  {
+    "word": "Patient",
+    "article": "der",
+    "level": "A2",
+    "en": "patient"
+  },
+  {
+    "word": "Krankenhaus",
+    "article": "das",
+    "level": "A2",
+    "en": "hospital"
+  },
+  {
+    "word": "Medizin",
+    "article": "die",
+    "level": "A2",
+    "en": "medicine"
+  },
+  {
+    "word": "Tablette",
+    "article": "die",
+    "level": "A2",
+    "en": "pill"
+  },
+  {
+    "word": "Schmerz",
+    "article": "der",
+    "level": "A2",
+    "en": "pain"
+  },
+  {
+    "word": "Behandlung",
+    "article": "die",
+    "level": "A2",
+    "en": "treatment"
+  },
+  {
+    "word": "Untersuchung",
+    "article": "die",
+    "level": "A2",
+    "en": "examination"
+  },
+  {
+    "word": "Termin",
+    "article": "der",
+    "level": "A2",
+    "en": "appointment"
+  },
+  {
+    "word": "Gesundheitssystem",
+    "article": "das",
+    "level": "A2",
+    "en": "healthcare system"
+  },
+  {
+    "word": "Schule",
+    "article": "die",
+    "level": "A2",
+    "en": "school"
+  },
+  {
+    "word": "Universität",
+    "article": "die",
+    "level": "A2",
+    "en": "university"
+  },
+  {
+    "word": "Student",
+    "article": "der",
+    "level": "A2",
+    "en": "student"
+  },
+  {
+    "word": "Studentin",
+    "article": "die",
+    "level": "A2",
+    "en": "student"
+  },
+  {
+    "word": "Kurs",
+    "article": "der",
+    "level": "A2",
+    "en": "course"
+  },
+  {
+    "word": "Unterricht",
+    "article": "der",
+    "level": "A2",
+    "en": "lessons/class"
+  },
+  {
+    "word": "Prüfung",
+    "article": "die",
+    "level": "A2",
+    "en": "exam"
+  },
+  {
+    "word": "Note",
+    "article": "die",
+    "level": "A2",
+    "en": "grade"
+  },
+  {
+    "word": "Hausaufgabe",
+    "article": "die",
+    "level": "A2",
+    "en": "homework"
+  },
+  {
+    "word": "Lernen",
+    "article": "das",
+    "level": "A2",
+    "en": "learning"
+  },
+  {
+    "word": "Flughafen",
+    "article": "der",
+    "level": "A2",
+    "en": "airport"
+  },
+  {
+    "word": "Flug",
+    "article": "der",
+    "level": "A2",
+    "en": "flight"
+  },
+  {
+    "word": "Reise",
+    "article": "die",
+    "level": "A2",
+    "en": "trip"
+  },
+  {
+    "word": "Reisender",
+    "article": "der",
+    "level": "A2",
+    "en": "traveler"
+  },
+  {
+    "word": "Urlaub",
+    "article": "der",
+    "level": "A2",
+    "en": "vacation"
+  },
+  {
+    "word": "Hotel",
+    "article": "das",
+    "level": "A2",
+    "en": "hotel"
+  },
+  {
+    "word": "Zimmer",
+    "article": "das",
+    "level": "A2",
+    "en": "room"
+  },
+  {
+    "word": "Rezeption",
+    "article": "die",
+    "level": "A2",
+    "en": "reception"
+  },
+  {
+    "word": "Schlüssel",
+    "article": "der",
+    "level": "A2",
+    "en": "key"
+  },
+  {
+    "word": "Gepäck",
+    "article": "das",
+    "level": "A2",
+    "en": "luggage"
+  },
+  {
+    "word": "Koffer",
+    "article": "der",
+    "level": "A2",
+    "en": "suitcase"
+  },
+  {
+    "word": "Ticket",
+    "article": "das",
+    "level": "A2",
+    "en": "ticket"
+  },
+  {
+    "word": "Bahn",
+    "article": "die",
+    "level": "A2",
+    "en": "train/railway"
+  },
+  {
+    "word": "Zug",
+    "article": "der",
+    "level": "A2",
+    "en": "train"
+  },
+  {
+    "word": "Fahrkarte",
+    "article": "die",
+    "level": "A2",
+    "en": "ticket (transport)"
+  },
+  {
+    "word": "Bus",
+    "article": "der",
+    "level": "A2",
+    "en": "bus"
+  },
+  {
+    "word": "Straßenbahn",
+    "article": "die",
+    "level": "A2",
+    "en": "tram"
+  },
+  {
+    "word": "U-Bahn",
+    "article": "die",
+    "level": "A2",
+    "en": "subway"
+  },
+  {
+    "word": "Haltestelle",
+    "article": "die",
+    "level": "A2",
+    "en": "bus/train stop"
+  },
+  {
+    "word": "Fahrplan",
+    "article": "der",
+    "level": "A2",
+    "en": "timetable"
+  },
+  {
+    "word": "Straße",
+    "article": "die",
+    "level": "A2",
+    "en": "street"
+  },
+  {
+    "word": "Autobahn",
+    "article": "die",
+    "level": "A2",
+    "en": "highway"
+  },
+  {
+    "word": "Verkehr",
+    "article": "der",
+    "level": "A2",
+    "en": "traffic"
+  },
+  {
+    "word": "Stau",
+    "article": "der",
+    "level": "A2",
+    "en": "traffic jam"
+  },
+  {
+    "word": "Unfall",
+    "article": "der",
+    "level": "A2",
+    "en": "accident"
+  },
+  {
+    "word": "Führerschein",
+    "article": "der",
+    "level": "A2",
+    "en": "driver's license"
+  },
+  {
+    "word": "Fahrer",
+    "article": "der",
+    "level": "A2",
+    "en": "driver"
+  },
+  {
+    "word": "Fahrerin",
+    "article": "die",
+    "level": "A2",
+    "en": "driver"
+  },
+  {
+    "word": "Auto",
+    "article": "das",
+    "level": "A2",
+    "en": "car"
+  },
+  {
+    "word": "Tank",
+    "article": "der",
+    "level": "A2",
+    "en": "tank"
+  },
+  {
+    "word": "Benzin",
+    "article": "das",
+    "level": "A2",
+    "en": "gasoline"
+  },
+  {
+    "word": "Parkplatz",
+    "article": "der",
+    "level": "A2",
+    "en": "parking lot"
+  },
+  {
+    "word": "Garage",
+    "article": "die",
+    "level": "A2",
+    "en": "garage"
+  },
+  {
+    "word": "Werkstatt",
+    "article": "die",
+    "level": "A2",
+    "en": "workshop"
+  },
+  {
+    "word": "Reparatur",
+    "article": "die",
+    "level": "A2",
+    "en": "repair"
+  },
+  {
+    "word": "Handy",
+    "article": "das",
+    "level": "A2",
+    "en": "cell phone"
+  },
+  {
+    "word": "Nachricht",
+    "article": "die",
+    "level": "A2",
+    "en": "message/news"
+  },
+  {
+    "word": "Anruf",
+    "article": "der",
+    "level": "A2",
+    "en": "phone call"
+  },
+  {
+    "word": "Telefonat",
+    "article": "das",
+    "level": "A2",
+    "en": "phone call"
+  },
+  {
+    "word": "Kontakt",
+    "article": "der",
+    "level": "A2",
+    "en": "contact"
+  },
+  {
+    "word": "Internet",
+    "article": "das",
+    "level": "A2",
+    "en": "internet"
+  },
+  {
+    "word": "Sozialnetzwerk",
+    "article": "das",
+    "level": "A2",
+    "en": "social network"
+  },
+  {
+    "word": "Nachricht",
+    "article": "die",
+    "level": "A2",
+    "en": "message/news"
+  },
+  {
+    "word": "Kommentar",
+    "article": "der",
+    "level": "A2",
+    "en": "comment"
+  },
+  {
+    "word": "Benutzername",
+    "article": "der",
+    "level": "A2",
+    "en": "username"
+  },
+  {
+    "word": "Sicherheit",
+    "article": "die",
+    "level": "A2",
+    "en": "safety/security"
+  },
+  {
+    "word": "Passwort",
+    "article": "das",
+    "level": "A2",
+    "en": "password"
+  },
+  {
+    "word": "Datenschutz",
+    "article": "der",
+    "level": "A2",
+    "en": "data protection"
+  },
+  {
+    "word": "Virus",
+    "article": "der",
+    "level": "A2",
+    "en": "virus"
+  },
+  {
+    "word": "Software",
+    "article": "die",
+    "level": "A2",
+    "en": "software"
+  },
+  {
+    "word": "Update",
+    "article": "das",
+    "level": "A2",
+    "en": "update"
+  },
+  {
+    "word": "Programm",
+    "article": "das",
+    "level": "A2",
+    "en": "program"
+  },
+  {
+    "word": "App",
+    "article": "die",
+    "level": "A2",
+    "en": "app"
+  },
+  {
+    "word": "System",
+    "article": "das",
+    "level": "A2",
+    "en": "system"
+  },
+  {
+    "word": "Speicher",
+    "article": "der",
+    "level": "A2",
+    "en": "storage/memory"
+  },
+  {
+    "word": "Bildschirm",
+    "article": "der",
+    "level": "A2",
+    "en": "screen"
+  },
+  {
+    "word": "Daten",
+    "article": "die",
+    "level": "A2",
+    "en": "data"
+  },
+  {
+    "word": "Datei",
+    "article": "die",
+    "level": "A2",
+    "en": "file (computer)"
+  },
+  {
+    "word": "Ordner",
+    "article": "der",
+    "level": "A2",
+    "en": "folder"
+  },
+  {
+    "word": "Drucker",
+    "article": "der",
+    "level": "A2",
+    "en": "printer"
+  },
+  {
+    "word": "Maus",
+    "article": "die",
+    "level": "A2",
+    "en": "mouse"
+  },
+  {
+    "word": "Tastatur",
+    "article": "die",
+    "level": "A2",
+    "en": "keyboard"
+  },
+  {
+    "word": "Laptop",
+    "article": "der",
+    "level": "A2",
+    "en": "laptop"
+  },
+  {
+    "word": "Tablet",
+    "article": "das",
+    "level": "A2",
+    "en": "tablet"
+  },
+  {
+    "word": "Bild",
+    "article": "das",
+    "level": "A2",
+    "en": "picture"
+  },
+  {
+    "word": "Foto",
+    "article": "das",
+    "level": "A2",
+    "en": "photo"
+  },
+  {
+    "word": "Kamera",
+    "article": "die",
+    "level": "A2",
+    "en": "camera"
+  },
+  {
+    "word": "Video",
+    "article": "das",
+    "level": "A2",
+    "en": "video"
+  },
+  {
+    "word": "Film",
+    "article": "der",
+    "level": "A2",
+    "en": "movie"
+  },
+  {
+    "word": "Musik",
+    "article": "die",
+    "level": "A2",
+    "en": "music"
+  },
+  {
+    "word": "Konzert",
+    "article": "das",
+    "level": "A2",
+    "en": "concert"
+  },
+  {
+    "word": "Theater",
+    "article": "das",
+    "level": "A2",
+    "en": "theater"
+  },
+  {
+    "word": "Kino",
+    "article": "das",
+    "level": "A2",
+    "en": "cinema"
+  },
+  {
+    "word": "Ticket",
+    "article": "das",
+    "level": "A2",
+    "en": "ticket"
+  },
+  {
+    "word": "Sitzplatz",
+    "article": "der",
+    "level": "A2",
+    "en": "seat"
+  },
+  {
+    "word": "Restaurant",
+    "article": "das",
+    "level": "A2",
+    "en": "restaurant"
+  },
+  {
+    "word": "Menü",
+    "article": "das",
+    "level": "A2",
+    "en": "menu"
+  },
+  {
+    "word": "Bestellung",
+    "article": "die",
+    "level": "A2",
+    "en": "order"
+  },
+  {
+    "word": "Kellner",
+    "article": "der",
+    "level": "A2",
+    "en": "waiter"
+  },
+  {
+    "word": "Kellnerin",
+    "article": "die",
+    "level": "A2",
+    "en": "waitress"
+  },
+  {
+    "word": "Trinkgeld",
+    "article": "das",
+    "level": "A2",
+    "en": "tip (gratuity)"
+  },
+  {
+    "word": "Rechnung",
+    "article": "die",
+    "level": "A2",
+    "en": "bill/invoice"
+  },
+  {
+    "word": "Preis",
+    "article": "der",
+    "level": "A2",
+    "en": "price"
+  },
+  {
+    "word": "Kasse",
+    "article": "die",
+    "level": "A2",
+    "en": "checkout/cash register"
+  },
+  {
+    "word": "Kunde",
+    "article": "der",
+    "level": "A2",
+    "en": "customer"
+  },
+  {
+    "word": "Kundin",
+    "article": "die",
+    "level": "A2",
+    "en": "customer"
+  },
+  {
+    "word": "Supermarkt",
+    "article": "der",
+    "level": "A2",
+    "en": "supermarket"
+  },
+  {
+    "word": "Einkauf",
+    "article": "der",
+    "level": "A2",
+    "en": "shopping"
+  },
+  {
+    "word": "Einkaufswagen",
+    "article": "der",
+    "level": "A2",
+    "en": "shopping cart"
+  },
+  {
+    "word": "Regal",
+    "article": "das",
+    "level": "A2",
+    "en": "shelf"
+  },
+  {
+    "word": "Produkt",
+    "article": "das",
+    "level": "A2",
+    "en": "product"
+  },
+  {
+    "word": "Marke",
+    "article": "die",
+    "level": "A2",
+    "en": "brand"
+  },
+  {
+    "word": "Angebot",
+    "article": "das",
+    "level": "A2",
+    "en": "offer"
+  },
+  {
+    "word": "Rabatt",
+    "article": "der",
+    "level": "A2",
+    "en": "discount"
+  },
+  {
+    "word": "Prospekt",
+    "article": "der",
+    "level": "A2",
+    "en": "brochure"
+  },
+  {
+    "word": "Wetter",
+    "article": "das",
+    "level": "A2",
+    "en": "weather"
+  },
+  {
+    "word": "Temperatur",
+    "article": "die",
+    "level": "A2",
+    "en": "temperature"
+  },
+  {
+    "word": "Grad",
+    "article": "der",
+    "level": "A2",
+    "en": "degree"
+  },
+  {
+    "word": "Klima",
+    "article": "das",
+    "level": "A2",
+    "en": "climate"
+  },
+  {
+    "word": "Vorhersage",
+    "article": "die",
+    "level": "A2",
+    "en": "prediction"
+  },
+  {
+    "word": "Politik",
+    "article": "die",
+    "level": "A2",
+    "en": "politics"
+  },
+  {
+    "word": "Politiker",
+    "article": "der",
+    "level": "A2",
+    "en": "politician"
+  },
+  {
+    "word": "Politikerin",
+    "article": "die",
+    "level": "A2",
+    "en": "politician"
+  },
+  {
+    "word": "Regierung",
+    "article": "die",
+    "level": "A2",
+    "en": "government"
+  },
+  {
+    "word": "Parlament",
+    "article": "das",
+    "level": "A2",
+    "en": "parliament"
+  },
+  {
+    "word": "Gesetz",
+    "article": "das",
+    "level": "A2",
+    "en": "law"
+  },
+  {
+    "word": "Staat",
+    "article": "der",
+    "level": "A2",
+    "en": "state"
+  },
+  {
+    "word": "Land",
+    "article": "das",
+    "level": "A2",
+    "en": "country"
+  },
+  {
+    "word": "Stadt",
+    "article": "die",
+    "level": "A2",
+    "en": "city"
+  },
+  {
+    "word": "Dorf",
+    "article": "das",
+    "level": "A2",
+    "en": "village"
+  },
+  {
+    "word": "Bürger",
+    "article": "der",
+    "level": "A2",
+    "en": "citizen"
+  },
+  {
+    "word": "Bürgerin",
+    "article": "die",
+    "level": "A2",
+    "en": "citizen"
+  },
+  {
+    "word": "Bevölkerung",
+    "article": "die",
+    "level": "A2",
+    "en": "population"
+  },
+  {
+    "word": "Einwohner",
+    "article": "der",
+    "level": "A2",
+    "en": "inhabitant"
+  },
+  {
+    "word": "Einwohnerin",
+    "article": "die",
+    "level": "A2",
+    "en": "inhabitant"
+  },
+  {
+    "word": "Wahl",
+    "article": "die",
+    "level": "A2",
+    "en": "election/choice"
+  },
+  {
+    "word": "Stimme",
+    "article": "die",
+    "level": "A2",
+    "en": "voice"
+  },
+  {
+    "word": "Demokratie",
+    "article": "die",
+    "level": "A2",
+    "en": "democracy"
+  },
+  {
+    "word": "Freiheit",
+    "article": "die",
+    "level": "A2",
+    "en": "freedom"
+  },
+  {
+    "word": "Recht",
+    "article": "das",
+    "level": "A2",
+    "en": "law/right"
+  },
+  {
+    "word": "Pflicht",
+    "article": "die",
+    "level": "A2",
+    "en": "duty"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "A2",
+    "en": "society"
+  },
+  {
+    "word": "Kultur",
+    "article": "die",
+    "level": "A2",
+    "en": "culture"
+  },
+  {
+    "word": "Tradition",
+    "article": "die",
+    "level": "A2",
+    "en": "tradition"
+  },
+  {
+    "word": "Feiertag",
+    "article": "der",
+    "level": "A2",
+    "en": "holiday"
+  },
+  {
+    "word": "Arbeit",
+    "article": "die",
+    "level": "A2",
+    "en": "work"
+  },
+  {
+    "word": "Job",
+    "article": "der",
+    "level": "A2",
+    "en": "job"
+  },
+  {
+    "word": "Beruf",
+    "article": "der",
+    "level": "A2",
+    "en": "profession"
+  },
+  {
+    "word": "Karriere",
+    "article": "die",
+    "level": "A2",
+    "en": "career"
+  },
+  {
+    "word": "Firma",
+    "article": "die",
+    "level": "A2",
+    "en": "company"
+  },
+  {
+    "word": "Chef",
+    "article": "der",
+    "level": "A2",
+    "en": "boss"
+  },
+  {
+    "word": "Chefin",
+    "article": "die",
+    "level": "A2",
+    "en": "boss"
+  },
+  {
+    "word": "Team",
+    "article": "das",
+    "level": "A2",
+    "en": "team"
+  },
+  {
+    "word": "Projekt",
+    "article": "das",
+    "level": "A2",
+    "en": "project"
+  },
+  {
+    "word": "Meeting",
+    "article": "das",
+    "level": "A2",
+    "en": "meeting"
+  },
+  {
+    "word": "Kollege",
+    "article": "der",
+    "level": "A2",
+    "en": "colleague"
+  },
+  {
+    "word": "Kollegin",
+    "article": "die",
+    "level": "A2",
+    "en": "colleague"
+  },
+  {
+    "word": "Büro",
+    "article": "das",
+    "level": "A2",
+    "en": "office"
+  },
+  {
+    "word": "Arbeitsplatz",
+    "article": "der",
+    "level": "A2",
+    "en": "workplace"
+  },
+  {
+    "word": "Computer",
+    "article": "der",
+    "level": "A2",
+    "en": "computer"
+  },
+  {
+    "word": "E-Mail",
+    "article": "die",
+    "level": "A2",
+    "en": "email"
+  },
+  {
+    "word": "Nachricht",
+    "article": "die",
+    "level": "A2",
+    "en": "message/news"
+  },
+  {
+    "word": "Telefon",
+    "article": "das",
+    "level": "A2",
+    "en": "telephone"
+  },
+  {
+    "word": "Gespräch",
+    "article": "das",
+    "level": "A2",
+    "en": "conversation"
+  },
+  {
+    "word": "Termin",
+    "article": "der",
+    "level": "A2",
+    "en": "appointment"
+  },
+  {
+    "word": "Zeit",
+    "article": "die",
+    "level": "A2",
+    "en": "time"
+  },
+  {
+    "word": "Datum",
+    "article": "das",
+    "level": "A2",
+    "en": "date"
+  },
+  {
+    "word": "Kalender",
+    "article": "der",
+    "level": "A2",
+    "en": "calendar"
+  },
+  {
+    "word": "Plan",
+    "article": "der",
+    "level": "A2",
+    "en": "plan"
+  },
+  {
+    "word": "Zukunft",
+    "article": "die",
+    "level": "A2",
+    "en": "future"
+  },
+  {
+    "word": "Vergangenheit",
+    "article": "die",
+    "level": "A2",
+    "en": "past"
+  },
+  {
+    "word": "Erinnerung",
+    "article": "die",
+    "level": "A2",
+    "en": "memory"
+  },
+  {
+    "word": "Erlebnis",
+    "article": "das",
+    "level": "A2",
+    "en": "experience (event)"
+  },
+  {
+    "word": "Erfahrung",
+    "article": "die",
+    "level": "A2",
+    "en": "experience"
+  },
+  {
+    "word": "Geschichte",
+    "article": "die",
+    "level": "A2",
+    "en": "story/history"
+  },
+  {
+    "word": "Problem",
+    "article": "das",
+    "level": "A2",
+    "en": "problem"
+  },
+  {
+    "word": "Lösung",
+    "article": "die",
+    "level": "A2",
+    "en": "solution"
+  },
+  {
+    "word": "Fehler",
+    "article": "der",
+    "level": "A2",
+    "en": "mistake"
+  },
+  {
+    "word": "Erfolg",
+    "article": "der",
+    "level": "A2",
+    "en": "success"
+  },
+  {
+    "word": "Misserfolg",
+    "article": "der",
+    "level": "A2",
+    "en": "failure"
+  },
+  {
+    "word": "Planung",
+    "article": "die",
+    "level": "A2",
+    "en": "planning"
+  },
+  {
+    "word": "Ziel",
+    "article": "das",
+    "level": "A2",
+    "en": "goal"
+  },
+  {
+    "word": "Wunsch",
+    "article": "der",
+    "level": "A2",
+    "en": "wish"
+  },
+  {
+    "word": "Traum",
+    "article": "der",
+    "level": "A2",
+    "en": "dream"
+  },
+  {
+    "word": "Idee",
+    "article": "die",
+    "level": "A2",
+    "en": "idea"
+  },
+  {
+    "word": "Wissenschaft",
+    "article": "die",
+    "level": "A2",
+    "en": "science"
+  },
+  {
+    "word": "Forscher",
+    "article": "der",
+    "level": "A2",
+    "en": "researcher"
+  },
+  {
+    "word": "Forschung",
+    "article": "die",
+    "level": "A2",
+    "en": "research"
+  },
+  {
+    "word": "Experiment",
+    "article": "das",
+    "level": "A2",
+    "en": "experiment"
+  },
+  {
+    "word": "Ergebnis",
+    "article": "das",
+    "level": "A2",
+    "en": "result"
+  },
+  {
+    "word": "Natur",
+    "article": "die",
+    "level": "A2",
+    "en": "nature"
+  },
+  {
+    "word": "Umwelt",
+    "article": "die",
+    "level": "A2",
+    "en": "environment"
+  },
+  {
+    "word": "Umweltschutz",
+    "article": "der",
+    "level": "A2",
+    "en": "environmental protection"
+  },
+  {
+    "word": "Recycling",
+    "article": "das",
+    "level": "A2",
+    "en": "recycling"
+  },
+  {
+    "word": "Müll",
+    "article": "der",
+    "level": "A2",
+    "en": "trash"
+  },
+  {
+    "word": "Energie",
+    "article": "die",
+    "level": "A2",
+    "en": "energy"
+  },
+  {
+    "word": "Strom",
+    "article": "der",
+    "level": "A2",
+    "en": "electricity"
+  },
+  {
+    "word": "Wasser",
+    "article": "das",
+    "level": "A2",
+    "en": "water"
+  },
+  {
+    "word": "Gas",
+    "article": "das",
+    "level": "A2",
+    "en": "gas"
+  },
+  {
+    "word": "Heizung",
+    "article": "die",
+    "level": "A2",
+    "en": "heating"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "A2",
+    "en": "technology"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "A2",
+    "en": "innovation"
+  },
+  {
+    "word": "System",
+    "article": "das",
+    "level": "A2",
+    "en": "system"
+  },
+  {
+    "word": "Netzwerk",
+    "article": "das",
+    "level": "A2",
+    "en": "network"
+  },
+  {
+    "word": "Server",
+    "article": "der",
+    "level": "A2",
+    "en": "server"
+  },
+  {
+    "word": "Spiel",
+    "article": "das",
+    "level": "A2",
+    "en": "game"
+  },
+  {
+    "word": "Spieler",
+    "article": "der",
+    "level": "A2",
+    "en": "player"
+  },
+  {
+    "word": "Spielerin",
+    "article": "die",
+    "level": "A2",
+    "en": "player"
+  },
+  {
+    "word": "Wettbewerb",
+    "article": "der",
+    "level": "A2",
+    "en": "competition"
+  },
+  {
+    "word": "Gewinn",
+    "article": "der",
+    "level": "A2",
+    "en": "profit"
+  },
+  {
+    "word": "Verlust",
+    "article": "der",
+    "level": "A2",
+    "en": "loss"
+  },
+  {
+    "word": "Punkt",
+    "article": "der",
+    "level": "A2",
+    "en": "point"
+  },
+  {
+    "word": "Rekord",
+    "article": "der",
+    "level": "A2",
+    "en": "record"
+  },
+  {
+    "word": "Meister",
+    "article": "der",
+    "level": "A2",
+    "en": "master/champion"
+  },
+  {
+    "word": "Champion",
+    "article": "der",
+    "level": "A2",
+    "en": "champion"
+  },
+  {
+    "word": "Meinung",
+    "article": "die",
+    "level": "B1",
+    "en": "opinion"
+  },
+  {
+    "word": "Ansicht",
+    "article": "die",
+    "level": "B1",
+    "en": "view/opinion"
+  },
+  {
+    "word": "Diskussion",
+    "article": "die",
+    "level": "B1",
+    "en": "discussion"
+  },
+  {
+    "word": "Argument",
+    "article": "das",
+    "level": "B1",
+    "en": "argument"
+  },
+  {
+    "word": "Beweis",
+    "article": "der",
+    "level": "B1",
+    "en": "proof/evidence"
+  },
+  {
+    "word": "Erklärung",
+    "article": "die",
+    "level": "B1",
+    "en": "explanation"
+  },
+  {
+    "word": "Verständnis",
+    "article": "das",
+    "level": "B1",
+    "en": "understanding"
+  },
+  {
+    "word": "Missverständnis",
+    "article": "das",
+    "level": "B1",
+    "en": "misunderstanding"
+  },
+  {
+    "word": "Information",
+    "article": "die",
+    "level": "B1",
+    "en": "information"
+  },
+  {
+    "word": "Nachricht",
+    "article": "die",
+    "level": "B1",
+    "en": "message/news"
+  },
+  {
+    "word": "Medien",
+    "article": "die",
+    "level": "B1",
+    "en": "media"
+  },
+  {
+    "word": "Zeitung",
+    "article": "die",
+    "level": "B1",
+    "en": "newspaper"
+  },
+  {
+    "word": "Artikel",
+    "article": "der",
+    "level": "B1",
+    "en": "article"
+  },
+  {
+    "word": "Reportage",
+    "article": "die",
+    "level": "B1",
+    "en": "report/documentary"
+  },
+  {
+    "word": "Fernsehen",
+    "article": "das",
+    "level": "B1",
+    "en": "television"
+  },
+  {
+    "word": "Radio",
+    "article": "das",
+    "level": "B1",
+    "en": "radio"
+  },
+  {
+    "word": "Internet",
+    "article": "das",
+    "level": "B1",
+    "en": "internet"
+  },
+  {
+    "word": "Plattform",
+    "article": "die",
+    "level": "B1",
+    "en": "platform"
+  },
+  {
+    "word": "Inhalt",
+    "article": "der",
+    "level": "B1",
+    "en": "content"
+  },
+  {
+    "word": "Video",
+    "article": "das",
+    "level": "B1",
+    "en": "video"
+  },
+  {
+    "word": "Social Media",
+    "article": "das",
+    "level": "B1",
+    "en": "social media"
+  },
+  {
+    "word": "Netzwerk",
+    "article": "das",
+    "level": "B1",
+    "en": "network"
+  },
+  {
+    "word": "Follower",
+    "article": "der",
+    "level": "B1",
+    "en": "follower"
+  },
+  {
+    "word": "Beitrag",
+    "article": "der",
+    "level": "B1",
+    "en": "contribution"
+  },
+  {
+    "word": "Kommentar",
+    "article": "der",
+    "level": "B1",
+    "en": "comment"
+  },
+  {
+    "word": "Emotion",
+    "article": "die",
+    "level": "B1",
+    "en": "emotion"
+  },
+  {
+    "word": "Gefühl",
+    "article": "das",
+    "level": "B1",
+    "en": "feeling"
+  },
+  {
+    "word": "Freude",
+    "article": "die",
+    "level": "B1",
+    "en": "joy"
+  },
+  {
+    "word": "Traurigkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "sadness"
+  },
+  {
+    "word": "Angst",
+    "article": "die",
+    "level": "B1",
+    "en": "fear"
+  },
+  {
+    "word": "Wut",
+    "article": "die",
+    "level": "B1",
+    "en": "anger"
+  },
+  {
+    "word": "Stress",
+    "article": "der",
+    "level": "B1",
+    "en": "stress"
+  },
+  {
+    "word": "Ruhe",
+    "article": "die",
+    "level": "B1",
+    "en": "calm/quiet"
+  },
+  {
+    "word": "Entspannung",
+    "article": "die",
+    "level": "B1",
+    "en": "relaxation"
+  },
+  {
+    "word": "Zufriedenheit",
+    "article": "die",
+    "level": "B1",
+    "en": "satisfaction"
+  },
+  {
+    "word": "Gesundheit",
+    "article": "die",
+    "level": "B1",
+    "en": "health"
+  },
+  {
+    "word": "Krankheit",
+    "article": "die",
+    "level": "B1",
+    "en": "illness"
+  },
+  {
+    "word": "Symptom",
+    "article": "das",
+    "level": "B1",
+    "en": "symptom"
+  },
+  {
+    "word": "Therapie",
+    "article": "die",
+    "level": "B1",
+    "en": "therapy"
+  },
+  {
+    "word": "Behandlung",
+    "article": "die",
+    "level": "B1",
+    "en": "treatment"
+  },
+  {
+    "word": "Arztbesuch",
+    "article": "der",
+    "level": "B1",
+    "en": "doctor's visit"
+  },
+  {
+    "word": "Untersuchung",
+    "article": "die",
+    "level": "B1",
+    "en": "examination"
+  },
+  {
+    "word": "Diagnose",
+    "article": "die",
+    "level": "B1",
+    "en": "diagnosis"
+  },
+  {
+    "word": "Medikament",
+    "article": "das",
+    "level": "B1",
+    "en": "medication"
+  },
+  {
+    "word": "Heilung",
+    "article": "die",
+    "level": "B1",
+    "en": "healing/cure"
+  },
+  {
+    "word": "Arbeit",
+    "article": "die",
+    "level": "B1",
+    "en": "work"
+  },
+  {
+    "word": "Karriere",
+    "article": "die",
+    "level": "B1",
+    "en": "career"
+  },
+  {
+    "word": "Bewerbung",
+    "article": "die",
+    "level": "B1",
+    "en": "job application"
+  },
+  {
+    "word": "Lebenslauf",
+    "article": "der",
+    "level": "B1",
+    "en": "résumé/CV"
+  },
+  {
+    "word": "Vorstellungsgespräch",
+    "article": "das",
+    "level": "B1",
+    "en": "job interview"
+  },
+  {
+    "word": "Gehaltsverhandlung",
+    "article": "die",
+    "level": "B1",
+    "en": "salary negotiation"
+  },
+  {
+    "word": "Arbeitsvertrag",
+    "article": "der",
+    "level": "B1",
+    "en": "employment contract"
+  },
+  {
+    "word": "Kündigung",
+    "article": "die",
+    "level": "B1",
+    "en": "termination (notice)"
+  },
+  {
+    "word": "Rente",
+    "article": "die",
+    "level": "B1",
+    "en": "pension"
+  },
+  {
+    "word": "Gehalt",
+    "article": "das",
+    "level": "B1",
+    "en": "salary"
+  },
+  {
+    "word": "Bildung",
+    "article": "die",
+    "level": "B1",
+    "en": "education"
+  },
+  {
+    "word": "Schulbildung",
+    "article": "die",
+    "level": "B1",
+    "en": "schooling"
+  },
+  {
+    "word": "Studium",
+    "article": "das",
+    "level": "B1",
+    "en": "studies (university)"
+  },
+  {
+    "word": "Universität",
+    "article": "die",
+    "level": "B1",
+    "en": "university"
+  },
+  {
+    "word": "Fach",
+    "article": "das",
+    "level": "B1",
+    "en": "subject (school)"
+  },
+  {
+    "word": "Prüfung",
+    "article": "die",
+    "level": "B1",
+    "en": "exam"
+  },
+  {
+    "word": "Ergebnis",
+    "article": "das",
+    "level": "B1",
+    "en": "result"
+  },
+  {
+    "word": "Note",
+    "article": "die",
+    "level": "B1",
+    "en": "grade"
+  },
+  {
+    "word": "Leistung",
+    "article": "die",
+    "level": "B1",
+    "en": "performance"
+  },
+  {
+    "word": "Erfolg",
+    "article": "der",
+    "level": "B1",
+    "en": "success"
+  },
+  {
+    "word": "Fehler",
+    "article": "der",
+    "level": "B1",
+    "en": "mistake"
+  },
+  {
+    "word": "Verbesserung",
+    "article": "die",
+    "level": "B1",
+    "en": "improvement"
+  },
+  {
+    "word": "Fortschritt",
+    "article": "der",
+    "level": "B1",
+    "en": "progress"
+  },
+  {
+    "word": "Entwicklung",
+    "article": "die",
+    "level": "B1",
+    "en": "development"
+  },
+  {
+    "word": "Wachstum",
+    "article": "das",
+    "level": "B1",
+    "en": "growth"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "society"
+  },
+  {
+    "word": "Sozial",
+    "article": "das",
+    "level": "B1",
+    "en": "social (welfare)"
+  },
+  {
+    "word": "Ungleichheit",
+    "article": "die",
+    "level": "B1",
+    "en": "inequality"
+  },
+  {
+    "word": "Armut",
+    "article": "die",
+    "level": "B1",
+    "en": "poverty"
+  },
+  {
+    "word": "Reichtum",
+    "article": "der",
+    "level": "B1",
+    "en": "wealth"
+  },
+  {
+    "word": "Politik",
+    "article": "die",
+    "level": "B1",
+    "en": "politics"
+  },
+  {
+    "word": "Demokratie",
+    "article": "die",
+    "level": "B1",
+    "en": "democracy"
+  },
+  {
+    "word": "Parlament",
+    "article": "das",
+    "level": "B1",
+    "en": "parliament"
+  },
+  {
+    "word": "Gesetz",
+    "article": "das",
+    "level": "B1",
+    "en": "law"
+  },
+  {
+    "word": "Regierung",
+    "article": "die",
+    "level": "B1",
+    "en": "government"
+  },
+  {
+    "word": "Wahl",
+    "article": "die",
+    "level": "B1",
+    "en": "election/choice"
+  },
+  {
+    "word": "Stimme",
+    "article": "die",
+    "level": "B1",
+    "en": "voice"
+  },
+  {
+    "word": "Bürger",
+    "article": "der",
+    "level": "B1",
+    "en": "citizen"
+  },
+  {
+    "word": "Recht",
+    "article": "das",
+    "level": "B1",
+    "en": "law/right"
+  },
+  {
+    "word": "Pflicht",
+    "article": "die",
+    "level": "B1",
+    "en": "duty"
+  },
+  {
+    "word": "Umwelt",
+    "article": "die",
+    "level": "B1",
+    "en": "environment"
+  },
+  {
+    "word": "Klimawandel",
+    "article": "der",
+    "level": "B1",
+    "en": "climate change"
+  },
+  {
+    "word": "Umweltschutz",
+    "article": "der",
+    "level": "B1",
+    "en": "environmental protection"
+  },
+  {
+    "word": "Nachhaltigkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "sustainability"
+  },
+  {
+    "word": "Energie",
+    "article": "die",
+    "level": "B1",
+    "en": "energy"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "B1",
+    "en": "technology"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "B1",
+    "en": "innovation"
+  },
+  {
+    "word": "Digitalisierung",
+    "article": "die",
+    "level": "B1",
+    "en": "digitalization"
+  },
+  {
+    "word": "Automatisierung",
+    "article": "die",
+    "level": "B1",
+    "en": "automation"
+  },
+  {
+    "word": "System",
+    "article": "das",
+    "level": "B1",
+    "en": "system"
+  },
+  {
+    "word": "Erfahrung",
+    "article": "die",
+    "level": "B1",
+    "en": "experience"
+  },
+  {
+    "word": "Erlebnis",
+    "article": "das",
+    "level": "B1",
+    "en": "experience (event)"
+  },
+  {
+    "word": "Erinnerung",
+    "article": "die",
+    "level": "B1",
+    "en": "memory"
+  },
+  {
+    "word": "Vergangenheit",
+    "article": "die",
+    "level": "B1",
+    "en": "past"
+  },
+  {
+    "word": "Zukunft",
+    "article": "die",
+    "level": "B1",
+    "en": "future"
+  },
+  {
+    "word": "Gegenwart",
+    "article": "die",
+    "level": "B1",
+    "en": "present (time)"
+  },
+  {
+    "word": "Lebensstil",
+    "article": "der",
+    "level": "B1",
+    "en": "lifestyle"
+  },
+  {
+    "word": "Alltag",
+    "article": "der",
+    "level": "B1",
+    "en": "everyday life"
+  },
+  {
+    "word": "Routine",
+    "article": "die",
+    "level": "B1",
+    "en": "routine"
+  },
+  {
+    "word": "Gewohnheit",
+    "article": "die",
+    "level": "B1",
+    "en": "habit"
+  },
+  {
+    "word": "Freizeit",
+    "article": "die",
+    "level": "B1",
+    "en": "free time"
+  },
+  {
+    "word": "Hobby",
+    "article": "das",
+    "level": "B1",
+    "en": "hobby"
+  },
+  {
+    "word": "Interesse",
+    "article": "das",
+    "level": "B1",
+    "en": "interest"
+  },
+  {
+    "word": "Leidenschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "passion"
+  },
+  {
+    "word": "Sport",
+    "article": "der",
+    "level": "B1",
+    "en": "sport"
+  },
+  {
+    "word": "Training",
+    "article": "das",
+    "level": "B1",
+    "en": "training"
+  },
+  {
+    "word": "Fitness",
+    "article": "die",
+    "level": "B1",
+    "en": "fitness"
+  },
+  {
+    "word": "Gesundheit",
+    "article": "die",
+    "level": "B1",
+    "en": "health"
+  },
+  {
+    "word": "Ernährung",
+    "article": "die",
+    "level": "B1",
+    "en": "nutrition"
+  },
+  {
+    "word": "Diät",
+    "article": "die",
+    "level": "B1",
+    "en": "diet"
+  },
+  {
+    "word": "Reise",
+    "article": "die",
+    "level": "B1",
+    "en": "trip"
+  },
+  {
+    "word": "Abenteuer",
+    "article": "das",
+    "level": "B1",
+    "en": "adventure"
+  },
+  {
+    "word": "Entdeckung",
+    "article": "die",
+    "level": "B1",
+    "en": "discovery"
+  },
+  {
+    "word": "Tourismus",
+    "article": "der",
+    "level": "B1",
+    "en": "tourism"
+  },
+  {
+    "word": "Reiseführer",
+    "article": "der",
+    "level": "B1",
+    "en": "travel guide"
+  },
+  {
+    "word": "Kultur",
+    "article": "die",
+    "level": "B1",
+    "en": "culture"
+  },
+  {
+    "word": "Kunst",
+    "article": "die",
+    "level": "B1",
+    "en": "art"
+  },
+  {
+    "word": "Musik",
+    "article": "die",
+    "level": "B1",
+    "en": "music"
+  },
+  {
+    "word": "Literatur",
+    "article": "die",
+    "level": "B1",
+    "en": "literature"
+  },
+  {
+    "word": "Theater",
+    "article": "das",
+    "level": "B1",
+    "en": "theater"
+  },
+  {
+    "word": "Filmindustrie",
+    "article": "die",
+    "level": "B1",
+    "en": "film industry"
+  },
+  {
+    "word": "Schauspieler",
+    "article": "der",
+    "level": "B1",
+    "en": "actor"
+  },
+  {
+    "word": "Schauspielerin",
+    "article": "die",
+    "level": "B1",
+    "en": "actress"
+  },
+  {
+    "word": "Regisseur",
+    "article": "der",
+    "level": "B1",
+    "en": "director (film)"
+  },
+  {
+    "word": "Szene",
+    "article": "die",
+    "level": "B1",
+    "en": "scene"
+  },
+  {
+    "word": "Produktion",
+    "article": "die",
+    "level": "B1",
+    "en": "production"
+  },
+  {
+    "word": "Projekt",
+    "article": "das",
+    "level": "B1",
+    "en": "project"
+  },
+  {
+    "word": "Plan",
+    "article": "der",
+    "level": "B1",
+    "en": "plan"
+  },
+  {
+    "word": "Ziel",
+    "article": "das",
+    "level": "B1",
+    "en": "goal"
+  },
+  {
+    "word": "Strategie",
+    "article": "die",
+    "level": "B1",
+    "en": "strategy"
+  },
+  {
+    "word": "Organisation",
+    "article": "die",
+    "level": "B1",
+    "en": "organization"
+  },
+  {
+    "word": "Teamarbeit",
+    "article": "die",
+    "level": "B1",
+    "en": "teamwork"
+  },
+  {
+    "word": "Zusammenarbeit",
+    "article": "die",
+    "level": "B1",
+    "en": "cooperation"
+  },
+  {
+    "word": "Kommunikation",
+    "article": "die",
+    "level": "B1",
+    "en": "communication"
+  },
+  {
+    "word": "Konflikt",
+    "article": "der",
+    "level": "B1",
+    "en": "conflict"
+  },
+  {
+    "word": "Lösung",
+    "article": "die",
+    "level": "B1",
+    "en": "solution"
+  },
+  {
+    "word": "Entscheidung",
+    "article": "die",
+    "level": "B1",
+    "en": "decision"
+  },
+  {
+    "word": "Auswahl",
+    "article": "die",
+    "level": "B1",
+    "en": "selection"
+  },
+  {
+    "word": "Option",
+    "article": "die",
+    "level": "B1",
+    "en": "option"
+  },
+  {
+    "word": "Alternative",
+    "article": "die",
+    "level": "B1",
+    "en": "alternative"
+  },
+  {
+    "word": "Problem",
+    "article": "das",
+    "level": "B1",
+    "en": "problem"
+  },
+  {
+    "word": "Herausforderung",
+    "article": "die",
+    "level": "B1",
+    "en": "challenge"
+  },
+  {
+    "word": "Risiko",
+    "article": "das",
+    "level": "B1",
+    "en": "risk"
+  },
+  {
+    "word": "Chance",
+    "article": "die",
+    "level": "B1",
+    "en": "chance/opportunity"
+  },
+  {
+    "word": "Erfolg",
+    "article": "der",
+    "level": "B1",
+    "en": "success"
+  },
+  {
+    "word": "Misserfolg",
+    "article": "der",
+    "level": "B1",
+    "en": "failure"
+  },
+  {
+    "word": "Motivation",
+    "article": "die",
+    "level": "B1",
+    "en": "motivation"
+  },
+  {
+    "word": "Disziplin",
+    "article": "die",
+    "level": "B1",
+    "en": "discipline"
+  },
+  {
+    "word": "Zielsetzung",
+    "article": "die",
+    "level": "B1",
+    "en": "goal-setting"
+  },
+  {
+    "word": "Leistung",
+    "article": "die",
+    "level": "B1",
+    "en": "performance"
+  },
+  {
+    "word": "Wissen",
+    "article": "das",
+    "level": "B1",
+    "en": "knowledge"
+  },
+  {
+    "word": "Kenntnis",
+    "article": "die",
+    "level": "B1",
+    "en": "knowledge"
+  },
+  {
+    "word": "Fähigkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "ability"
+  },
+  {
+    "word": "Talent",
+    "article": "das",
+    "level": "B1",
+    "en": "talent"
+  },
+  {
+    "word": "Intelligenz",
+    "article": "die",
+    "level": "B1",
+    "en": "intelligence"
+  },
+  {
+    "word": "Gedächtnis",
+    "article": "das",
+    "level": "B1",
+    "en": "memory"
+  },
+  {
+    "word": "Konzentration",
+    "article": "die",
+    "level": "B1",
+    "en": "concentration"
+  },
+  {
+    "word": "Aufmerksamkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "attention"
+  },
+  {
+    "word": "Lernen",
+    "article": "das",
+    "level": "B1",
+    "en": "learning"
+  },
+  {
+    "word": "Lehrer",
+    "article": "der",
+    "level": "B1",
+    "en": "teacher"
+  },
+  {
+    "word": "Student",
+    "article": "der",
+    "level": "B1",
+    "en": "student"
+  },
+  {
+    "word": "Universität",
+    "article": "die",
+    "level": "B1",
+    "en": "university"
+  },
+  {
+    "word": "Forschung",
+    "article": "die",
+    "level": "B1",
+    "en": "research"
+  },
+  {
+    "word": "Wissenschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "science"
+  },
+  {
+    "word": "Experiment",
+    "article": "das",
+    "level": "B1",
+    "en": "experiment"
+  },
+  {
+    "word": "Theorie",
+    "article": "die",
+    "level": "B1",
+    "en": "theory"
+  },
+  {
+    "word": "Fakt",
+    "article": "der",
+    "level": "B1",
+    "en": "fact"
+  },
+  {
+    "word": "Hypothese",
+    "article": "die",
+    "level": "B1",
+    "en": "hypothesis"
+  },
+  {
+    "word": "Analyse",
+    "article": "die",
+    "level": "B1",
+    "en": "analysis"
+  },
+  {
+    "word": "Daten",
+    "article": "die",
+    "level": "B1",
+    "en": "data"
+  },
+  {
+    "word": "Statistik",
+    "article": "die",
+    "level": "B1",
+    "en": "statistics"
+  },
+  {
+    "word": "Diagramm",
+    "article": "das",
+    "level": "B1",
+    "en": "diagram"
+  },
+  {
+    "word": "Tabelle",
+    "article": "die",
+    "level": "B1",
+    "en": "table (chart)"
+  },
+  {
+    "word": "Vergleich",
+    "article": "der",
+    "level": "B1",
+    "en": "comparison"
+  },
+  {
+    "word": "Unterschied",
+    "article": "der",
+    "level": "B1",
+    "en": "difference"
+  },
+  {
+    "word": "Ähnlichkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "similarity"
+  },
+  {
+    "word": "Bedeutung",
+    "article": "die",
+    "level": "B1",
+    "en": "meaning"
+  },
+  {
+    "word": "Symbol",
+    "article": "das",
+    "level": "B1",
+    "en": "symbol"
+  },
+  {
+    "word": "Zeichen",
+    "article": "das",
+    "level": "B1",
+    "en": "sign/symbol"
+  },
+  {
+    "word": "Sprache",
+    "article": "die",
+    "level": "B1",
+    "en": "language"
+  },
+  {
+    "word": "Kommunikation",
+    "article": "die",
+    "level": "B1",
+    "en": "communication"
+  },
+  {
+    "word": "Gespräch",
+    "article": "das",
+    "level": "B1",
+    "en": "conversation"
+  },
+  {
+    "word": "Dialog",
+    "article": "der",
+    "level": "B1",
+    "en": "dialogue"
+  },
+  {
+    "word": "Aussage",
+    "article": "die",
+    "level": "B1",
+    "en": "statement"
+  },
+  {
+    "word": "Rede",
+    "article": "die",
+    "level": "B1",
+    "en": "speech"
+  },
+  {
+    "word": "Stimme",
+    "article": "die",
+    "level": "B1",
+    "en": "voice"
+  },
+  {
+    "word": "Sprache",
+    "article": "die",
+    "level": "B1",
+    "en": "language"
+  },
+  {
+    "word": "Ausdruck",
+    "article": "der",
+    "level": "B1",
+    "en": "expression"
+  },
+  {
+    "word": "Formulierung",
+    "article": "die",
+    "level": "B1",
+    "en": "phrasing"
+  },
+  {
+    "word": "Bedeutung",
+    "article": "die",
+    "level": "B1",
+    "en": "meaning"
+  },
+  {
+    "word": "Verständnis",
+    "article": "das",
+    "level": "B1",
+    "en": "understanding"
+  },
+  {
+    "word": "Interpretation",
+    "article": "die",
+    "level": "B1",
+    "en": "interpretation"
+  },
+  {
+    "word": "Kritik",
+    "article": "die",
+    "level": "B1",
+    "en": "criticism"
+  },
+  {
+    "word": "Lob",
+    "article": "das",
+    "level": "B1",
+    "en": "praise"
+  },
+  {
+    "word": "Bewertung",
+    "article": "die",
+    "level": "B1",
+    "en": "rating/review"
+  },
+  {
+    "word": "Meinungsfreiheit",
+    "article": "die",
+    "level": "B1",
+    "en": "freedom of speech"
+  },
+  {
+    "word": "Presse",
+    "article": "die",
+    "level": "B1",
+    "en": "press (media)"
+  },
+  {
+    "word": "Journalismus",
+    "article": "der",
+    "level": "B1",
+    "en": "journalism"
+  },
+  {
+    "word": "Reporter",
+    "article": "der",
+    "level": "B1",
+    "en": "reporter"
+  },
+  {
+    "word": "Interview",
+    "article": "das",
+    "level": "B1",
+    "en": "interview"
+  },
+  {
+    "word": "Beobachtung",
+    "article": "die",
+    "level": "B1",
+    "en": "observation"
+  },
+  {
+    "word": "Recherche",
+    "article": "die",
+    "level": "B1",
+    "en": "research (investigation)"
+  },
+  {
+    "word": "Quelle",
+    "article": "die",
+    "level": "B1",
+    "en": "source"
+  },
+  {
+    "word": "Information",
+    "article": "die",
+    "level": "B1",
+    "en": "information"
+  },
+  {
+    "word": "Faktencheck",
+    "article": "der",
+    "level": "B1",
+    "en": "fact-check"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "society"
+  },
+  {
+    "word": "Struktur",
+    "article": "die",
+    "level": "B1",
+    "en": "structure"
+  },
+  {
+    "word": "System",
+    "article": "das",
+    "level": "B1",
+    "en": "system"
+  },
+  {
+    "word": "Institution",
+    "article": "die",
+    "level": "B1",
+    "en": "institution"
+  },
+  {
+    "word": "Organisation",
+    "article": "die",
+    "level": "B1",
+    "en": "organization"
+  },
+  {
+    "word": "Stabilität",
+    "article": "die",
+    "level": "B1",
+    "en": "stability"
+  },
+  {
+    "word": "Unsicherheit",
+    "article": "die",
+    "level": "B1",
+    "en": "uncertainty"
+  },
+  {
+    "word": "Veränderung",
+    "article": "die",
+    "level": "B1",
+    "en": "change"
+  },
+  {
+    "word": "Reform",
+    "article": "die",
+    "level": "B1",
+    "en": "reform"
+  },
+  {
+    "word": "Revolution",
+    "article": "die",
+    "level": "B1",
+    "en": "revolution"
+  },
+  {
+    "word": "Entwicklung",
+    "article": "die",
+    "level": "B1",
+    "en": "development"
+  },
+  {
+    "word": "Fortschritt",
+    "article": "der",
+    "level": "B1",
+    "en": "progress"
+  },
+  {
+    "word": "Rückschritt",
+    "article": "der",
+    "level": "B1",
+    "en": "setback"
+  },
+  {
+    "word": "Trend",
+    "article": "der",
+    "level": "B1",
+    "en": "trend"
+  },
+  {
+    "word": "Zukunft",
+    "article": "die",
+    "level": "B1",
+    "en": "future"
+  },
+  {
+    "word": "Vergangenheit",
+    "article": "die",
+    "level": "B1",
+    "en": "past"
+  },
+  {
+    "word": "Geschichte",
+    "article": "die",
+    "level": "B1",
+    "en": "story/history"
+  },
+  {
+    "word": "Historie",
+    "article": "die",
+    "level": "B1",
+    "en": "history"
+  },
+  {
+    "word": "Ereignis",
+    "article": "das",
+    "level": "B1",
+    "en": "event"
+  },
+  {
+    "word": "Entscheidung",
+    "article": "die",
+    "level": "B1",
+    "en": "decision"
+  },
+  {
+    "word": "Konsequenz",
+    "article": "die",
+    "level": "B1",
+    "en": "consequence"
+  },
+  {
+    "word": "Auswirkung",
+    "article": "die",
+    "level": "B1",
+    "en": "effect/impact"
+  },
+  {
+    "word": "Folge",
+    "article": "die",
+    "level": "B1",
+    "en": "consequence"
+  },
+  {
+    "word": "Ursache",
+    "article": "die",
+    "level": "B1",
+    "en": "cause"
+  },
+  {
+    "word": "Grund",
+    "article": "der",
+    "level": "B1",
+    "en": "reason"
+  },
+  {
+    "word": "Logik",
+    "article": "die",
+    "level": "B1",
+    "en": "logic"
+  },
+  {
+    "word": "Vernunft",
+    "article": "die",
+    "level": "B1",
+    "en": "reason (rationality)"
+  },
+  {
+    "word": "Emotion",
+    "article": "die",
+    "level": "B1",
+    "en": "emotion"
+  },
+  {
+    "word": "Instinkt",
+    "article": "der",
+    "level": "B1",
+    "en": "instinct"
+  },
+  {
+    "word": "Intuition",
+    "article": "die",
+    "level": "B1",
+    "en": "intuition"
+  },
+  {
+    "word": "Verhalten",
+    "article": "das",
+    "level": "B1",
+    "en": "behavior"
+  },
+  {
+    "word": "Charakter",
+    "article": "der",
+    "level": "B1",
+    "en": "character"
+  },
+  {
+    "word": "Persönlichkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "personality"
+  },
+  {
+    "word": "Identität",
+    "article": "die",
+    "level": "B1",
+    "en": "identity"
+  },
+  {
+    "word": "Selbstbewusstsein",
+    "article": "das",
+    "level": "B1",
+    "en": "self-confidence"
+  },
+  {
+    "word": "Beziehung",
+    "article": "die",
+    "level": "B1",
+    "en": "relationship"
+  },
+  {
+    "word": "Freundschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "friendship"
+  },
+  {
+    "word": "Partnerschaft",
+    "article": "die",
+    "level": "B1",
+    "en": "partnership"
+  },
+  {
+    "word": "Vertrauen",
+    "article": "das",
+    "level": "B1",
+    "en": "trust"
+  },
+  {
+    "word": "Respekt",
+    "article": "der",
+    "level": "B1",
+    "en": "respect"
+  },
+  {
+    "word": "Konfliktlösung",
+    "article": "die",
+    "level": "B1",
+    "en": "conflict resolution"
+  },
+  {
+    "word": "Kompro­miss",
+    "article": "der",
+    "level": "B1",
+    "en": "compromise"
+  },
+  {
+    "word": "Verhandlung",
+    "article": "die",
+    "level": "B1",
+    "en": "negotiation"
+  },
+  {
+    "word": "Abmachung",
+    "article": "die",
+    "level": "B1",
+    "en": "agreement"
+  },
+  {
+    "word": "Vereinbarung",
+    "article": "die",
+    "level": "B1",
+    "en": "agreement"
+  },
+  {
+    "word": "Rechte",
+    "article": "die",
+    "level": "B1",
+    "en": "rights"
+  },
+  {
+    "word": "Pflichten",
+    "article": "die",
+    "level": "B1",
+    "en": "duties"
+  },
+  {
+    "word": "Gesetzgebung",
+    "article": "die",
+    "level": "B1",
+    "en": "legislation"
+  },
+  {
+    "word": "Justiz",
+    "article": "die",
+    "level": "B1",
+    "en": "judiciary"
+  },
+  {
+    "word": "Gericht",
+    "article": "das",
+    "level": "B1",
+    "en": "court"
+  },
+  {
+    "word": "Urteil",
+    "article": "das",
+    "level": "B1",
+    "en": "verdict"
+  },
+  {
+    "word": "Strafe",
+    "article": "die",
+    "level": "B1",
+    "en": "punishment"
+  },
+  {
+    "word": "Verbrechen",
+    "article": "das",
+    "level": "B1",
+    "en": "crime"
+  },
+  {
+    "word": "Sicherheit",
+    "article": "die",
+    "level": "B1",
+    "en": "safety/security"
+  },
+  {
+    "word": "Polizei",
+    "article": "die",
+    "level": "B1",
+    "en": "police"
+  },
+  {
+    "word": "Umweltproblem",
+    "article": "das",
+    "level": "B1",
+    "en": "environmental problem"
+  },
+  {
+    "word": "Klimakrise",
+    "article": "die",
+    "level": "B1",
+    "en": "climate crisis"
+  },
+  {
+    "word": "Energiequelle",
+    "article": "die",
+    "level": "B1",
+    "en": "energy source"
+  },
+  {
+    "word": "Nachhaltigkeit",
+    "article": "die",
+    "level": "B1",
+    "en": "sustainability"
+  },
+  {
+    "word": "Emission",
+    "article": "die",
+    "level": "B1",
+    "en": "emission"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "B1",
+    "en": "technology"
+  },
+  {
+    "word": "Digitalisierung",
+    "article": "die",
+    "level": "B1",
+    "en": "digitalization"
+  },
+  {
+    "word": "Automatisierung",
+    "article": "die",
+    "level": "B1",
+    "en": "automation"
+  },
+  {
+    "word": "Künstliche Intelligenz",
+    "article": "die",
+    "level": "B1",
+    "en": "artificial intelligence"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "B1",
+    "en": "innovation"
+  },
+  {
+    "word": "Zusammenhang",
+    "article": "der",
+    "level": "B2",
+    "en": "connection/context"
+  },
+  {
+    "word": "Auswirkung",
+    "article": "die",
+    "level": "B2",
+    "en": "effect/impact"
+  },
+  {
+    "word": "Bedingung",
+    "article": "die",
+    "level": "B2",
+    "en": "condition"
+  },
+  {
+    "word": "Voraussetzung",
+    "article": "die",
+    "level": "B2",
+    "en": "prerequisite"
+  },
+  {
+    "word": "Entwicklung",
+    "article": "die",
+    "level": "B2",
+    "en": "development"
+  },
+  {
+    "word": "Struktur",
+    "article": "die",
+    "level": "B2",
+    "en": "structure"
+  },
+  {
+    "word": "Komplexität",
+    "article": "die",
+    "level": "B2",
+    "en": "complexity"
+  },
+  {
+    "word": "Abhängigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "dependency"
+  },
+  {
+    "word": "Unabhängigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "independence"
+  },
+  {
+    "word": "System",
+    "article": "das",
+    "level": "B2",
+    "en": "system"
+  },
+  {
+    "word": "Mechanismus",
+    "article": "der",
+    "level": "B2",
+    "en": "mechanism"
+  },
+  {
+    "word": "Prozess",
+    "article": "der",
+    "level": "B2",
+    "en": "process"
+  },
+  {
+    "word": "Funktion",
+    "article": "die",
+    "level": "B2",
+    "en": "function"
+  },
+  {
+    "word": "Dynamik",
+    "article": "die",
+    "level": "B2",
+    "en": "dynamics"
+  },
+  {
+    "word": "Interaktion",
+    "article": "die",
+    "level": "B2",
+    "en": "interaction"
+  },
+  {
+    "word": "Analyse",
+    "article": "die",
+    "level": "B2",
+    "en": "analysis"
+  },
+  {
+    "word": "Bewertung",
+    "article": "die",
+    "level": "B2",
+    "en": "rating/review"
+  },
+  {
+    "word": "Interpretation",
+    "article": "die",
+    "level": "B2",
+    "en": "interpretation"
+  },
+  {
+    "word": "Erkenntnis",
+    "article": "die",
+    "level": "B2",
+    "en": "insight"
+  },
+  {
+    "word": "Ergebnis",
+    "article": "das",
+    "level": "B2",
+    "en": "result"
+  },
+  {
+    "word": "Theorie",
+    "article": "die",
+    "level": "B2",
+    "en": "theory"
+  },
+  {
+    "word": "Modell",
+    "article": "das",
+    "level": "B2",
+    "en": "model"
+  },
+  {
+    "word": "Hypothese",
+    "article": "die",
+    "level": "B2",
+    "en": "hypothesis"
+  },
+  {
+    "word": "Annahme",
+    "article": "die",
+    "level": "B2",
+    "en": "assumption"
+  },
+  {
+    "word": "Beweisführung",
+    "article": "die",
+    "level": "B2",
+    "en": "line of argument"
+  },
+  {
+    "word": "Argumentation",
+    "article": "die",
+    "level": "B2",
+    "en": "reasoning"
+  },
+  {
+    "word": "Überzeugung",
+    "article": "die",
+    "level": "B2",
+    "en": "conviction"
+  },
+  {
+    "word": "Standpunkt",
+    "article": "der",
+    "level": "B2",
+    "en": "standpoint"
+  },
+  {
+    "word": "Perspektive",
+    "article": "die",
+    "level": "B2",
+    "en": "perspective"
+  },
+  {
+    "word": "Sichtweise",
+    "article": "die",
+    "level": "B2",
+    "en": "point of view"
+  },
+  {
+    "word": "Diskussion",
+    "article": "die",
+    "level": "B2",
+    "en": "discussion"
+  },
+  {
+    "word": "Debatte",
+    "article": "die",
+    "level": "B2",
+    "en": "debate"
+  },
+  {
+    "word": "Kontroverse",
+    "article": "die",
+    "level": "B2",
+    "en": "controversy"
+  },
+  {
+    "word": "Auseinandersetzung",
+    "article": "die",
+    "level": "B2",
+    "en": "dispute"
+  },
+  {
+    "word": "Meinungsverschiedenheit",
+    "article": "die",
+    "level": "B2",
+    "en": "disagreement"
+  },
+  {
+    "word": "Verantwortung",
+    "article": "die",
+    "level": "B2",
+    "en": "responsibility"
+  },
+  {
+    "word": "Verpflichtung",
+    "article": "die",
+    "level": "B2",
+    "en": "obligation"
+  },
+  {
+    "word": "Entscheidung",
+    "article": "die",
+    "level": "B2",
+    "en": "decision"
+  },
+  {
+    "word": "Konsequenz",
+    "article": "die",
+    "level": "B2",
+    "en": "consequence"
+  },
+  {
+    "word": "Risiko",
+    "article": "das",
+    "level": "B2",
+    "en": "risk"
+  },
+  {
+    "word": "Chancenverteilung",
+    "article": "die",
+    "level": "B2",
+    "en": "distribution of opportunities"
+  },
+  {
+    "word": "Ungleichgewicht",
+    "article": "das",
+    "level": "B2",
+    "en": "imbalance"
+  },
+  {
+    "word": "Gerechtigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "justice"
+  },
+  {
+    "word": "Ungerechtigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "injustice"
+  },
+  {
+    "word": "Systemfehler",
+    "article": "der",
+    "level": "B2",
+    "en": "system error"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "society"
+  },
+  {
+    "word": "Institution",
+    "article": "die",
+    "level": "B2",
+    "en": "institution"
+  },
+  {
+    "word": "Organisation",
+    "article": "die",
+    "level": "B2",
+    "en": "organization"
+  },
+  {
+    "word": "Behörde",
+    "article": "die",
+    "level": "B2",
+    "en": "authority (office)"
+  },
+  {
+    "word": "Verwaltung",
+    "article": "die",
+    "level": "B2",
+    "en": "administration"
+  },
+  {
+    "word": "Regulierung",
+    "article": "die",
+    "level": "B2",
+    "en": "regulation"
+  },
+  {
+    "word": "Gesetzgebung",
+    "article": "die",
+    "level": "B2",
+    "en": "legislation"
+  },
+  {
+    "word": "Rechtsordnung",
+    "article": "die",
+    "level": "B2",
+    "en": "legal system"
+  },
+  {
+    "word": "Justiz",
+    "article": "die",
+    "level": "B2",
+    "en": "judiciary"
+  },
+  {
+    "word": "Verfahren",
+    "article": "das",
+    "level": "B2",
+    "en": "procedure"
+  },
+  {
+    "word": "Wirtschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "economy"
+  },
+  {
+    "word": "Markt",
+    "article": "der",
+    "level": "B2",
+    "en": "market"
+  },
+  {
+    "word": "Konkurrenz",
+    "article": "die",
+    "level": "B2",
+    "en": "competition"
+  },
+  {
+    "word": "Monopol",
+    "article": "das",
+    "level": "B2",
+    "en": "monopoly"
+  },
+  {
+    "word": "Kapital",
+    "article": "das",
+    "level": "B2",
+    "en": "capital (finance)"
+  },
+  {
+    "word": "Investition",
+    "article": "die",
+    "level": "B2",
+    "en": "investment"
+  },
+  {
+    "word": "Rendite",
+    "article": "die",
+    "level": "B2",
+    "en": "return (on investment)"
+  },
+  {
+    "word": "Wachstum",
+    "article": "das",
+    "level": "B2",
+    "en": "growth"
+  },
+  {
+    "word": "Rezession",
+    "article": "die",
+    "level": "B2",
+    "en": "recession"
+  },
+  {
+    "word": "Inflation",
+    "article": "die",
+    "level": "B2",
+    "en": "inflation"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "B2",
+    "en": "innovation"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "B2",
+    "en": "technology"
+  },
+  {
+    "word": "Digitalisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "digitalization"
+  },
+  {
+    "word": "Automatisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "automation"
+  },
+  {
+    "word": "Transformation",
+    "article": "die",
+    "level": "B2",
+    "en": "transformation"
+  },
+  {
+    "word": "Kommunikation",
+    "article": "die",
+    "level": "B2",
+    "en": "communication"
+  },
+  {
+    "word": "Information",
+    "article": "die",
+    "level": "B2",
+    "en": "information"
+  },
+  {
+    "word": "Datenverarbeitung",
+    "article": "die",
+    "level": "B2",
+    "en": "data processing"
+  },
+  {
+    "word": "Netzwerk",
+    "article": "das",
+    "level": "B2",
+    "en": "network"
+  },
+  {
+    "word": "Plattform",
+    "article": "die",
+    "level": "B2",
+    "en": "platform"
+  },
+  {
+    "word": "Bewusstsein",
+    "article": "das",
+    "level": "B2",
+    "en": "consciousness"
+  },
+  {
+    "word": "Unterbewusstsein",
+    "article": "das",
+    "level": "B2",
+    "en": "subconscious"
+  },
+  {
+    "word": "Wahrnehmung",
+    "article": "die",
+    "level": "B2",
+    "en": "perception"
+  },
+  {
+    "word": "Kognition",
+    "article": "die",
+    "level": "B2",
+    "en": "cognition"
+  },
+  {
+    "word": "Gedankenprozess",
+    "article": "der",
+    "level": "B2",
+    "en": "thought process"
+  },
+  {
+    "word": "Motivation",
+    "article": "die",
+    "level": "B2",
+    "en": "motivation"
+  },
+  {
+    "word": "Selbstkontrolle",
+    "article": "die",
+    "level": "B2",
+    "en": "self-control"
+  },
+  {
+    "word": "Disziplin",
+    "article": "die",
+    "level": "B2",
+    "en": "discipline"
+  },
+  {
+    "word": "Leistungsdruck",
+    "article": "der",
+    "level": "B2",
+    "en": "performance pressure"
+  },
+  {
+    "word": "Stressbewältigung",
+    "article": "die",
+    "level": "B2",
+    "en": "stress management"
+  },
+  {
+    "word": "Identität",
+    "article": "die",
+    "level": "B2",
+    "en": "identity"
+  },
+  {
+    "word": "Rolle",
+    "article": "die",
+    "level": "B2",
+    "en": "role"
+  },
+  {
+    "word": "Norm",
+    "article": "die",
+    "level": "B2",
+    "en": "norm"
+  },
+  {
+    "word": "Wert",
+    "article": "der",
+    "level": "B2",
+    "en": "value"
+  },
+  {
+    "word": "Ethik",
+    "article": "die",
+    "level": "B2",
+    "en": "ethics"
+  },
+  {
+    "word": "Kommunikation",
+    "article": "die",
+    "level": "B2",
+    "en": "communication"
+  },
+  {
+    "word": "Medienlandschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "media landscape"
+  },
+  {
+    "word": "Informationsquelle",
+    "article": "die",
+    "level": "B2",
+    "en": "information source"
+  },
+  {
+    "word": "Berichterstattung",
+    "article": "die",
+    "level": "B2",
+    "en": "reporting/coverage"
+  },
+  {
+    "word": "Manipulation",
+    "article": "die",
+    "level": "B2",
+    "en": "manipulation"
+  },
+  {
+    "word": "Propaganda",
+    "article": "die",
+    "level": "B2",
+    "en": "propaganda"
+  },
+  {
+    "word": "Meinungsbildung",
+    "article": "die",
+    "level": "B2",
+    "en": "opinion forming"
+  },
+  {
+    "word": "Öffentlichkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "public (the)"
+  },
+  {
+    "word": "Reputation",
+    "article": "die",
+    "level": "B2",
+    "en": "reputation"
+  },
+  {
+    "word": "Image",
+    "article": "das",
+    "level": "B2",
+    "en": "image (reputation)"
+  },
+  {
+    "word": "Vertrauen",
+    "article": "das",
+    "level": "B2",
+    "en": "trust"
+  },
+  {
+    "word": "Transparenz",
+    "article": "die",
+    "level": "B2",
+    "en": "transparency"
+  },
+  {
+    "word": "Korruption",
+    "article": "die",
+    "level": "B2",
+    "en": "corruption"
+  },
+  {
+    "word": "Missbrauch",
+    "article": "der",
+    "level": "B2",
+    "en": "abuse"
+  },
+  {
+    "word": "Kontrolle",
+    "article": "die",
+    "level": "B2",
+    "en": "control"
+  },
+  {
+    "word": "Gesetzesverstoß",
+    "article": "der",
+    "level": "B2",
+    "en": "violation of the law"
+  },
+  {
+    "word": "Strafrecht",
+    "article": "das",
+    "level": "B2",
+    "en": "criminal law"
+  },
+  {
+    "word": "Zivilrecht",
+    "article": "das",
+    "level": "B2",
+    "en": "civil law"
+  },
+  {
+    "word": "Gerichtsverfahren",
+    "article": "das",
+    "level": "B2",
+    "en": "court proceeding"
+  },
+  {
+    "word": "Anklage",
+    "article": "die",
+    "level": "B2",
+    "en": "charge (legal)"
+  },
+  {
+    "word": "Verteidigung",
+    "article": "die",
+    "level": "B2",
+    "en": "defense"
+  },
+  {
+    "word": "Urteilsspruch",
+    "article": "der",
+    "level": "B2",
+    "en": "verdict"
+  },
+  {
+    "word": "Strafmaß",
+    "article": "das",
+    "level": "B2",
+    "en": "sentence (legal)"
+  },
+  {
+    "word": "Rechtsstaat",
+    "article": "der",
+    "level": "B2",
+    "en": "constitutional state"
+  },
+  {
+    "word": "Verfassung",
+    "article": "die",
+    "level": "B2",
+    "en": "constitution"
+  },
+  {
+    "word": "Globalisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "globalization"
+  },
+  {
+    "word": "Internationalisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "internationalization"
+  },
+  {
+    "word": "Handel",
+    "article": "der",
+    "level": "B2",
+    "en": "trade"
+  },
+  {
+    "word": "Export",
+    "article": "der",
+    "level": "B2",
+    "en": "export"
+  },
+  {
+    "word": "Import",
+    "article": "der",
+    "level": "B2",
+    "en": "import"
+  },
+  {
+    "word": "Lieferkette",
+    "article": "die",
+    "level": "B2",
+    "en": "supply chain"
+  },
+  {
+    "word": "Produktionsprozess",
+    "article": "der",
+    "level": "B2",
+    "en": "production process"
+  },
+  {
+    "word": "Arbeitsmarkt",
+    "article": "der",
+    "level": "B2",
+    "en": "job market"
+  },
+  {
+    "word": "Arbeitslosigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "unemployment"
+  },
+  {
+    "word": "Beschäftigung",
+    "article": "die",
+    "level": "B2",
+    "en": "employment"
+  },
+  {
+    "word": "Unternehmen",
+    "article": "das",
+    "level": "B2",
+    "en": "company"
+  },
+  {
+    "word": "Start-up",
+    "article": "das",
+    "level": "B2",
+    "en": "startup"
+  },
+  {
+    "word": "Geschäftsmodell",
+    "article": "das",
+    "level": "B2",
+    "en": "business model"
+  },
+  {
+    "word": "Profit",
+    "article": "der",
+    "level": "B2",
+    "en": "profit"
+  },
+  {
+    "word": "Verlust",
+    "article": "der",
+    "level": "B2",
+    "en": "loss"
+  },
+  {
+    "word": "Strategie",
+    "article": "die",
+    "level": "B2",
+    "en": "strategy"
+  },
+  {
+    "word": "Management",
+    "article": "das",
+    "level": "B2",
+    "en": "management"
+  },
+  {
+    "word": "Führung",
+    "article": "die",
+    "level": "B2",
+    "en": "leadership"
+  },
+  {
+    "word": "Organisation",
+    "article": "die",
+    "level": "B2",
+    "en": "organization"
+  },
+  {
+    "word": "Effizienz",
+    "article": "die",
+    "level": "B2",
+    "en": "efficiency"
+  },
+  {
+    "word": "Produktivität",
+    "article": "die",
+    "level": "B2",
+    "en": "productivity"
+  },
+  {
+    "word": "Optimierung",
+    "article": "die",
+    "level": "B2",
+    "en": "optimization"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "B2",
+    "en": "innovation"
+  },
+  {
+    "word": "Wettbewerbsfähigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "competitiveness"
+  },
+  {
+    "word": "Marktanteil",
+    "article": "der",
+    "level": "B2",
+    "en": "market share"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "B2",
+    "en": "technology"
+  },
+  {
+    "word": "Künstliche Intelligenz",
+    "article": "die",
+    "level": "B2",
+    "en": "artificial intelligence"
+  },
+  {
+    "word": "Algorithmus",
+    "article": "der",
+    "level": "B2",
+    "en": "algorithm"
+  },
+  {
+    "word": "Automatisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "automation"
+  },
+  {
+    "word": "Digitalisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "digitalization"
+  },
+  {
+    "word": "Datenschutz",
+    "article": "der",
+    "level": "B2",
+    "en": "data protection"
+  },
+  {
+    "word": "Cybersecurity",
+    "article": "die",
+    "level": "B2",
+    "en": "cybersecurity"
+  },
+  {
+    "word": "Verschlüsselung",
+    "article": "die",
+    "level": "B2",
+    "en": "encryption"
+  },
+  {
+    "word": "Hacker",
+    "article": "der",
+    "level": "B2",
+    "en": "hacker"
+  },
+  {
+    "word": "Angriff",
+    "article": "der",
+    "level": "B2",
+    "en": "attack"
+  },
+  {
+    "word": "Softwareentwicklung",
+    "article": "die",
+    "level": "B2",
+    "en": "software development"
+  },
+  {
+    "word": "Programmierer",
+    "article": "der",
+    "level": "B2",
+    "en": "programmer"
+  },
+  {
+    "word": "Programmiersprache",
+    "article": "die",
+    "level": "B2",
+    "en": "programming language"
+  },
+  {
+    "word": "Code",
+    "article": "der",
+    "level": "B2",
+    "en": "code"
+  },
+  {
+    "word": "Debugging",
+    "article": "das",
+    "level": "B2",
+    "en": "debugging"
+  },
+  {
+    "word": "Psychologie",
+    "article": "die",
+    "level": "B2",
+    "en": "psychology"
+  },
+  {
+    "word": "Verhalten",
+    "article": "das",
+    "level": "B2",
+    "en": "behavior"
+  },
+  {
+    "word": "Emotion",
+    "article": "die",
+    "level": "B2",
+    "en": "emotion"
+  },
+  {
+    "word": "Persönlichkeitsentwicklung",
+    "article": "die",
+    "level": "B2",
+    "en": "personal development"
+  },
+  {
+    "word": "Selbstwahrnehmung",
+    "article": "die",
+    "level": "B2",
+    "en": "self-perception"
+  },
+  {
+    "word": "Kognition",
+    "article": "die",
+    "level": "B2",
+    "en": "cognition"
+  },
+  {
+    "word": "Gedächtnisleistung",
+    "article": "die",
+    "level": "B2",
+    "en": "memory performance"
+  },
+  {
+    "word": "Aufmerksamkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "attention"
+  },
+  {
+    "word": "Lernfähigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "ability to learn"
+  },
+  {
+    "word": "Intelligenz",
+    "article": "die",
+    "level": "B2",
+    "en": "intelligence"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "society"
+  },
+  {
+    "word": "Soziologie",
+    "article": "die",
+    "level": "B2",
+    "en": "sociology"
+  },
+  {
+    "word": "Kultur",
+    "article": "die",
+    "level": "B2",
+    "en": "culture"
+  },
+  {
+    "word": "Subkultur",
+    "article": "die",
+    "level": "B2",
+    "en": "subculture"
+  },
+  {
+    "word": "Integration",
+    "article": "die",
+    "level": "B2",
+    "en": "integration"
+  },
+  {
+    "word": "Migration",
+    "article": "die",
+    "level": "B2",
+    "en": "migration"
+  },
+  {
+    "word": "Flüchtling",
+    "article": "der",
+    "level": "B2",
+    "en": "refugee"
+  },
+  {
+    "word": "Integration",
+    "article": "die",
+    "level": "B2",
+    "en": "integration"
+  },
+  {
+    "word": "Diskriminierung",
+    "article": "die",
+    "level": "B2",
+    "en": "discrimination"
+  },
+  {
+    "word": "Gleichberechtigung",
+    "article": "die",
+    "level": "B2",
+    "en": "equal rights"
+  },
+  {
+    "word": "Ethik",
+    "article": "die",
+    "level": "B2",
+    "en": "ethics"
+  },
+  {
+    "word": "Moral",
+    "article": "die",
+    "level": "B2",
+    "en": "morality"
+  },
+  {
+    "word": "Wertsystem",
+    "article": "das",
+    "level": "B2",
+    "en": "value system"
+  },
+  {
+    "word": "Philosophie",
+    "article": "die",
+    "level": "B2",
+    "en": "philosophy"
+  },
+  {
+    "word": "Existenz",
+    "article": "die",
+    "level": "B2",
+    "en": "existence"
+  },
+  {
+    "word": "Bewusstsein",
+    "article": "das",
+    "level": "B2",
+    "en": "consciousness"
+  },
+  {
+    "word": "Realität",
+    "article": "die",
+    "level": "B2",
+    "en": "reality"
+  },
+  {
+    "word": "Wahrheit",
+    "article": "die",
+    "level": "B2",
+    "en": "truth"
+  },
+  {
+    "word": "Fiktion",
+    "article": "die",
+    "level": "B2",
+    "en": "fiction"
+  },
+  {
+    "word": "Interpretation",
+    "article": "die",
+    "level": "B2",
+    "en": "interpretation"
+  },
+  {
+    "word": "Forschung",
+    "article": "die",
+    "level": "B2",
+    "en": "research"
+  },
+  {
+    "word": "Wissenschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "science"
+  },
+  {
+    "word": "Experiment",
+    "article": "das",
+    "level": "B2",
+    "en": "experiment"
+  },
+  {
+    "word": "Studie",
+    "article": "die",
+    "level": "B2",
+    "en": "study (research)"
+  },
+  {
+    "word": "Erhebung",
+    "article": "die",
+    "level": "B2",
+    "en": "survey (data collection)"
+  },
+  {
+    "word": "Datensatz",
+    "article": "der",
+    "level": "B2",
+    "en": "dataset"
+  },
+  {
+    "word": "Auswertung",
+    "article": "die",
+    "level": "B2",
+    "en": "evaluation"
+  },
+  {
+    "word": "Statistik",
+    "article": "die",
+    "level": "B2",
+    "en": "statistics"
+  },
+  {
+    "word": "Korrelation",
+    "article": "die",
+    "level": "B2",
+    "en": "correlation"
+  },
+  {
+    "word": "Ursache",
+    "article": "die",
+    "level": "B2",
+    "en": "cause"
+  },
+  {
+    "word": "Wirkung",
+    "article": "die",
+    "level": "B2",
+    "en": "effect"
+  },
+  {
+    "word": "Faktor",
+    "article": "der",
+    "level": "B2",
+    "en": "factor"
+  },
+  {
+    "word": "Einfluss",
+    "article": "der",
+    "level": "B2",
+    "en": "influence"
+  },
+  {
+    "word": "Variable",
+    "article": "die",
+    "level": "B2",
+    "en": "variable"
+  },
+  {
+    "word": "Modell",
+    "article": "das",
+    "level": "B2",
+    "en": "model"
+  },
+  {
+    "word": "Simulation",
+    "article": "die",
+    "level": "B2",
+    "en": "simulation"
+  },
+  {
+    "word": "Vorhersage",
+    "article": "die",
+    "level": "B2",
+    "en": "prediction"
+  },
+  {
+    "word": "Prognose",
+    "article": "die",
+    "level": "B2",
+    "en": "forecast"
+  },
+  {
+    "word": "Entwicklung",
+    "article": "die",
+    "level": "B2",
+    "en": "development"
+  },
+  {
+    "word": "Trend",
+    "article": "der",
+    "level": "B2",
+    "en": "trend"
+  },
+  {
+    "word": "Innovation",
+    "article": "die",
+    "level": "B2",
+    "en": "innovation"
+  },
+  {
+    "word": "Erfindung",
+    "article": "die",
+    "level": "B2",
+    "en": "invention"
+  },
+  {
+    "word": "Patent",
+    "article": "das",
+    "level": "B2",
+    "en": "patent"
+  },
+  {
+    "word": "Technologie",
+    "article": "die",
+    "level": "B2",
+    "en": "technology"
+  },
+  {
+    "word": "Fortschritt",
+    "article": "der",
+    "level": "B2",
+    "en": "progress"
+  },
+  {
+    "word": "Energieeffizienz",
+    "article": "die",
+    "level": "B2",
+    "en": "energy efficiency"
+  },
+  {
+    "word": "Nachhaltigkeit",
+    "article": "die",
+    "level": "B2",
+    "en": "sustainability"
+  },
+  {
+    "word": "Klimaschutz",
+    "article": "der",
+    "level": "B2",
+    "en": "climate protection"
+  },
+  {
+    "word": "Emission",
+    "article": "die",
+    "level": "B2",
+    "en": "emission"
+  },
+  {
+    "word": "Kohlenstoff",
+    "article": "der",
+    "level": "B2",
+    "en": "carbon"
+  },
+  {
+    "word": "Wirtschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "economy"
+  },
+  {
+    "word": "Konjunktur",
+    "article": "die",
+    "level": "B2",
+    "en": "economic cycle"
+  },
+  {
+    "word": "Inflation",
+    "article": "die",
+    "level": "B2",
+    "en": "inflation"
+  },
+  {
+    "word": "Deflation",
+    "article": "die",
+    "level": "B2",
+    "en": "deflation"
+  },
+  {
+    "word": "Arbeitsmarkt",
+    "article": "der",
+    "level": "B2",
+    "en": "job market"
+  },
+  {
+    "word": "Globalisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "globalization"
+  },
+  {
+    "word": "Handelsabkommen",
+    "article": "das",
+    "level": "B2",
+    "en": "trade agreement"
+  },
+  {
+    "word": "Zoll",
+    "article": "der",
+    "level": "B2",
+    "en": "customs"
+  },
+  {
+    "word": "Export",
+    "article": "der",
+    "level": "B2",
+    "en": "export"
+  },
+  {
+    "word": "Import",
+    "article": "der",
+    "level": "B2",
+    "en": "import"
+  },
+  {
+    "word": "Unternehmen",
+    "article": "das",
+    "level": "B2",
+    "en": "company"
+  },
+  {
+    "word": "Fusion",
+    "article": "die",
+    "level": "B2",
+    "en": "merger"
+  },
+  {
+    "word": "Übernahme",
+    "article": "die",
+    "level": "B2",
+    "en": "takeover"
+  },
+  {
+    "word": "Aktie",
+    "article": "die",
+    "level": "B2",
+    "en": "share (stock)"
+  },
+  {
+    "word": "Börse",
+    "article": "die",
+    "level": "B2",
+    "en": "stock exchange"
+  },
+  {
+    "word": "Investition",
+    "article": "die",
+    "level": "B2",
+    "en": "investment"
+  },
+  {
+    "word": "Kapital",
+    "article": "das",
+    "level": "B2",
+    "en": "capital (finance)"
+  },
+  {
+    "word": "Rendite",
+    "article": "die",
+    "level": "B2",
+    "en": "return (on investment)"
+  },
+  {
+    "word": "Risikoanalyse",
+    "article": "die",
+    "level": "B2",
+    "en": "risk analysis"
+  },
+  {
+    "word": "Portfolio",
+    "article": "das",
+    "level": "B2",
+    "en": "portfolio"
+  },
+  {
+    "word": "Management",
+    "article": "das",
+    "level": "B2",
+    "en": "management"
+  },
+  {
+    "word": "Strategie",
+    "article": "die",
+    "level": "B2",
+    "en": "strategy"
+  },
+  {
+    "word": "Planung",
+    "article": "die",
+    "level": "B2",
+    "en": "planning"
+  },
+  {
+    "word": "Controlling",
+    "article": "das",
+    "level": "B2",
+    "en": "controlling (business)"
+  },
+  {
+    "word": "Optimierung",
+    "article": "die",
+    "level": "B2",
+    "en": "optimization"
+  },
+  {
+    "word": "Produktivität",
+    "article": "die",
+    "level": "B2",
+    "en": "productivity"
+  },
+  {
+    "word": "Effizienz",
+    "article": "die",
+    "level": "B2",
+    "en": "efficiency"
+  },
+  {
+    "word": "Qualität",
+    "article": "die",
+    "level": "B2",
+    "en": "quality"
+  },
+  {
+    "word": "Leistung",
+    "article": "die",
+    "level": "B2",
+    "en": "performance"
+  },
+  {
+    "word": "Benchmark",
+    "article": "der",
+    "level": "B2",
+    "en": "benchmark"
+  },
+  {
+    "word": "Gesellschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "society"
+  },
+  {
+    "word": "Demografie",
+    "article": "die",
+    "level": "B2",
+    "en": "demographics"
+  },
+  {
+    "word": "Bevölkerungsentwicklung",
+    "article": "die",
+    "level": "B2",
+    "en": "population growth"
+  },
+  {
+    "word": "Urbanisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "urbanization"
+  },
+  {
+    "word": "Landflucht",
+    "article": "die",
+    "level": "B2",
+    "en": "rural exodus"
+  },
+  {
+    "word": "Migration",
+    "article": "die",
+    "level": "B2",
+    "en": "migration"
+  },
+  {
+    "word": "Integration",
+    "article": "die",
+    "level": "B2",
+    "en": "integration"
+  },
+  {
+    "word": "Assimilation",
+    "article": "die",
+    "level": "B2",
+    "en": "assimilation"
+  },
+  {
+    "word": "Multikulturalismus",
+    "article": "der",
+    "level": "B2",
+    "en": "multiculturalism"
+  },
+  {
+    "word": "Identitätspolitik",
+    "article": "die",
+    "level": "B2",
+    "en": "identity politics"
+  },
+  {
+    "word": "Medien",
+    "article": "die",
+    "level": "B2",
+    "en": "media"
+  },
+  {
+    "word": "Desinformation",
+    "article": "die",
+    "level": "B2",
+    "en": "disinformation"
+  },
+  {
+    "word": "Falschinformation",
+    "article": "die",
+    "level": "B2",
+    "en": "misinformation"
+  },
+  {
+    "word": "Manipulation",
+    "article": "die",
+    "level": "B2",
+    "en": "manipulation"
+  },
+  {
+    "word": "Filterblase",
+    "article": "die",
+    "level": "B2",
+    "en": "filter bubble"
+  },
+  {
+    "word": "Algorithmus",
+    "article": "der",
+    "level": "B2",
+    "en": "algorithm"
+  },
+  {
+    "word": "Künstliche Intelligenz",
+    "article": "die",
+    "level": "B2",
+    "en": "artificial intelligence"
+  },
+  {
+    "word": "Maschinelles Lernen",
+    "article": "das",
+    "level": "B2",
+    "en": "machine learning"
+  },
+  {
+    "word": "Neuronales Netzwerk",
+    "article": "das",
+    "level": "B2",
+    "en": "neural network"
+  },
+  {
+    "word": "Automatisierung",
+    "article": "die",
+    "level": "B2",
+    "en": "automation"
+  },
+  {
+    "word": "Ethik",
+    "article": "die",
+    "level": "B2",
+    "en": "ethics"
+  },
+  {
+    "word": "Verantwortung",
+    "article": "die",
+    "level": "B2",
+    "en": "responsibility"
+  },
+  {
+    "word": "Rechenschaft",
+    "article": "die",
+    "level": "B2",
+    "en": "accountability"
+  },
+  {
+    "word": "Transparenz",
+    "article": "die",
+    "level": "B2",
+    "en": "transparency"
+  },
+  {
+    "word": "Integrität",
+    "article": "die",
+    "level": "B2",
+    "en": "integrity"
+  },
+  {
+    "word": "Philosophie",
+    "article": "die",
+    "level": "B2",
+    "en": "philosophy"
+  },
+  {
+    "word": "Existenzialismus",
+    "article": "der",
+    "level": "B2",
+    "en": "existentialism"
+  },
+  {
+    "word": "Realität",
+    "article": "die",
+    "level": "B2",
+    "en": "reality"
+  },
+  {
+    "word": "Bewusstsein",
+    "article": "das",
+    "level": "B2",
+    "en": "consciousness"
+  },
+  {
+    "word": "Sinnfrage",
+    "article": "die",
+    "level": "B2",
+    "en": "question of meaning"
+  }
 ]

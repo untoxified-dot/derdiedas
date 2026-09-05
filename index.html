@@ -140,11 +140,23 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px 0;
+    padding: 10px 0 0;
     transition: opacity 0.1s;
   }
-  #wordDisplay.flash {
+  #wordDisplay.flash,
+  #wordTranslation.flash {
     opacity: 0;
+  }
+
+  /* ── English translation ── */
+  #wordTranslation {
+    font-size: clamp(13px, 3vw, 16px);
+    font-weight: 600;
+    color: var(--muted);
+    letter-spacing: 0.2px;
+    min-height: 20px;
+    padding-bottom: 10px;
+    transition: opacity 0.1s;
   }
 
   /* ── Answer buttons ── */
@@ -327,6 +339,7 @@
 
   <!-- Word -->
   <div id="wordDisplay">Press Start</div>
+  <div id="wordTranslation"></div>
 
   <!-- Buttons -->
   <div class="buttons">
@@ -388,36 +401,36 @@ async function loadWords() {
     console.warn('words.json not found – using built-in demo words');
     words = [
       // A1 demos
-      {word:'Mann',     article:'der', level:'A1'},
-      {word:'Frau',     article:'die', level:'A1'},
-      {word:'Kind',     article:'das', level:'A1'},
-      {word:'Tisch',    article:'der', level:'A1'},
-      {word:'Lampe',    article:'die', level:'A1'},
-      {word:'Buch',     article:'das', level:'A1'},
-      {word:'Hund',     article:'der', level:'A1'},
-      {word:'Katze',    article:'die', level:'A1'},
-      {word:'Haus',     article:'das', level:'A1'},
-      {word:'Auto',     article:'das', level:'A1'},
-      {word:'Schule',   article:'die', level:'A1'},
-      {word:'Lehrer',   article:'der', level:'A1'},
+      {word:'Mann',     article:'der', level:'A1', en:'man'},
+      {word:'Frau',     article:'die', level:'A1', en:'woman'},
+      {word:'Kind',     article:'das', level:'A1', en:'child'},
+      {word:'Tisch',    article:'der', level:'A1', en:'table'},
+      {word:'Lampe',    article:'die', level:'A1', en:'lamp'},
+      {word:'Buch',     article:'das', level:'A1', en:'book'},
+      {word:'Hund',     article:'der', level:'A1', en:'dog'},
+      {word:'Katze',    article:'die', level:'A1', en:'cat'},
+      {word:'Haus',     article:'das', level:'A1', en:'house'},
+      {word:'Auto',     article:'das', level:'A1', en:'car'},
+      {word:'Schule',   article:'die', level:'A1', en:'school'},
+      {word:'Lehrer',   article:'der', level:'A1', en:'teacher'},
       // A2 demos
-      {word:'Bahnhof',  article:'der', level:'A2'},
-      {word:'Zeitung',  article:'die', level:'A2'},
-      {word:'Fenster',  article:'das', level:'A2'},
-      {word:'Brücke',   article:'die', level:'A2'},
-      {word:'Drucker',  article:'der', level:'A2'},
-      {word:'Gebäude',  article:'das', level:'A2'},
+      {word:'Bahnhof',  article:'der', level:'A2', en:'train station'},
+      {word:'Zeitung',  article:'die', level:'A2', en:'newspaper'},
+      {word:'Fenster',  article:'das', level:'A2', en:'window'},
+      {word:'Brücke',   article:'die', level:'A2', en:'bridge'},
+      {word:'Drucker',  article:'der', level:'A2', en:'printer'},
+      {word:'Gebäude',  article:'das', level:'A2', en:'building'},
       // B1 demos
-      {word:'Vertrag',  article:'der', level:'B1'},
-      {word:'Erfahrung',article:'die', level:'B1'},
-      {word:'Ergebnis', article:'das', level:'B1'},
-      {word:'Bericht',  article:'der', level:'B1'},
-      {word:'Sprache',  article:'die', level:'B1'},
+      {word:'Vertrag',  article:'der', level:'B1', en:'contract'},
+      {word:'Erfahrung',article:'die', level:'B1', en:'experience'},
+      {word:'Ergebnis', article:'das', level:'B1', en:'result'},
+      {word:'Bericht',  article:'der', level:'B1', en:'report'},
+      {word:'Sprache',  article:'die', level:'B1', en:'language'},
       // B2 demos
-      {word:'Einfluss', article:'der', level:'B2'},
-      {word:'Stimmung', article:'die', level:'B2'},
-      {word:'Verhältnis',article:'das',level:'B2'},
-      {word:'Vorwurf',  article:'der', level:'B2'},
+      {word:'Einfluss', article:'der', level:'B2', en:'influence'},
+      {word:'Stimmung', article:'die', level:'B2', en:'mood'},
+      {word:'Verhältnis',article:'das',level:'B2', en:'relationship/ratio'},
+      {word:'Vorwurf',  article:'der', level:'B2', en:'accusation'},
     ];
   }
   document.getElementById('highVal').textContent = highscore;
@@ -469,12 +482,16 @@ function setMessage(text, type = '') {
   el.className = type;
 }
 
-function flashWord(text) {
-  const el = document.getElementById('wordDisplay');
+function flashWord(text, translation) {
+  const el   = document.getElementById('wordDisplay');
+  const trEl = document.getElementById('wordTranslation');
   el.classList.add('flash');
+  trEl.classList.add('flash');
   setTimeout(() => {
     el.textContent = text;
+    trEl.textContent = translation || '';
     el.classList.remove('flash');
+    trEl.classList.remove('flash');
   }, 100);
 }
 
@@ -537,7 +554,7 @@ function nextWord() {
   currentWord = randomWord();
   if (!currentWord) { gameOver(); return; }
 
-  flashWord(currentWord.word);
+  flashWord(currentWord.word, currentWord.en);
 
   if (survivalMode) {
     timeLimit = Math.max(700, 3500 - score * 15);
@@ -606,6 +623,7 @@ function gameOver() {
   updateStats();
 
   document.getElementById('wordDisplay').textContent = '—';
+  document.getElementById('wordTranslation').textContent = '';
   document.getElementById('modeBadge').style.display = 'none';
   setMessage('');
 
